@@ -84,6 +84,16 @@ main {
   gap: 14px;
 }
 
+.dashboard-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 18px;
+}
+
+.inner-grid {
+  margin-top: 10px;
+}
+
 .card, .panel {
   background: #ffffff;
   border: 1px solid #d9e2ec;
@@ -118,6 +128,10 @@ main {
   padding: 20px;
 }
 
+.compact-panel {
+  margin-top: 18px;
+}
+
 .panel-heading {
   display: flex;
   align-items: center;
@@ -134,6 +148,10 @@ main {
   font-weight: 700;
 }
 
+.muted {
+  color: #627d98;
+}
+
 .actions {
   display: flex;
   flex-wrap: wrap;
@@ -146,6 +164,125 @@ main {
   border: 1px solid #bcccdc;
   border-radius: 6px;
   background: #f8fafc;
+}
+
+.two-column-list {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 14px;
+  margin-top: 14px;
+}
+
+.two-column-list h3,
+.subpanel h3 {
+  font-size: 15px;
+}
+
+.rank-list {
+  margin: 0;
+  padding-left: 20px;
+}
+
+.rank-list li {
+  margin: 8px 0;
+}
+
+.rank-list strong {
+  display: block;
+}
+
+.rank-list span {
+  display: block;
+  color: #52606d;
+  font-size: 14px;
+}
+
+.history-list {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 10px 18px;
+  margin: 0;
+  padding-left: 20px;
+}
+
+.history-list li {
+  padding: 8px 0;
+}
+
+.history-list strong,
+.history-list span {
+  display: block;
+}
+
+.history-list span {
+  color: #52606d;
+  font-size: 14px;
+}
+
+.keyword-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: 14px;
+}
+
+.keyword-chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 5px 9px;
+  border-radius: 999px;
+  background: #f0f4f8;
+  color: #334e68;
+  font-size: 14px;
+}
+
+.keyword-chip small {
+  color: #627d98;
+}
+
+.subpanel {
+  padding: 14px;
+  border: 1px solid #d9e2ec;
+  border-radius: 8px;
+  background: #f8fafc;
+}
+
+.chart-controls {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 14px;
+}
+
+.chart-controls label {
+  color: #52606d;
+  font-size: 14px;
+}
+
+.chart-controls select {
+  min-width: 150px;
+  padding: 8px 10px;
+  border: 1px solid #bcccdc;
+  border-radius: 6px;
+  background: #ffffff;
+  color: #1f2933;
+}
+
+.chart-viewer {
+  padding: 12px;
+  border: 1px solid #d9e2ec;
+  border-radius: 8px;
+  background: #f8fafc;
+}
+
+.chart-viewer img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border: 1px solid #e4e7eb;
+  background: #ffffff;
 }
 
 .chart-grid {
@@ -239,6 +376,9 @@ footer {
   }
 
   .summary-grid,
+  .dashboard-grid,
+  .two-column-list,
+  .history-list,
   .chart-grid {
     grid-template-columns: 1fr;
   }
