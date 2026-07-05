@@ -108,6 +108,11 @@ main {
   font-size: 16px;
 }
 
+.metric-value {
+  display: block;
+  font-size: 22px;
+}
+
 .status {
   display: inline-block;
   margin-bottom: 10px;
@@ -193,6 +198,58 @@ main {
 
 .rank-list span {
   display: block;
+  color: #52606d;
+  font-size: 14px;
+}
+
+.key-value-list {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.key-value-list li {
+  display: flex;
+  justify-content: space-between;
+  gap: 16px;
+  padding: 8px 0;
+  border-bottom: 1px solid #e4e7eb;
+}
+
+.key-value-list li:last-child {
+  border-bottom: 0;
+}
+
+.key-value-list span {
+  color: #52606d;
+}
+
+.reason-list {
+  margin: 12px 0 0;
+  padding-left: 20px;
+  color: #52606d;
+}
+
+.table-wrap {
+  width: 100%;
+  overflow-x: auto;
+}
+
+.data-table {
+  width: 100%;
+  border-collapse: collapse;
+  min-width: 680px;
+}
+
+.data-table th,
+.data-table td {
+  padding: 10px;
+  border-bottom: 1px solid #e4e7eb;
+  text-align: left;
+  vertical-align: top;
+}
+
+.data-table th {
   color: #52606d;
   font-size: 14px;
 }
