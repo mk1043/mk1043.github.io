@@ -1,7 +1,7 @@
 {
   "metadata": {
     "date": "2026-07-05",
-    "generated_at": "2026-07-05T12:48:59",
+    "generated_at": "2026-07-05T12:54:47",
     "purpose": "research_only",
     "investment_advice": "false"
   },
@@ -5042,11 +5042,11 @@
         "The Verge": 10
       },
       "category_counts": {
-        "ai_semiconductor": 217,
+        "ai_semiconductor": 218,
         "macro_rates": 27,
         "earnings_business": 23,
         "market_risk": 14,
-        "other": 69
+        "other": 68
       },
       "top_keywords": [
         {
@@ -5059,11 +5059,11 @@
         },
         {
           "keyword": "台股",
-          "count": 35
+          "count": 36
         },
         {
           "keyword": "Meta",
-          "count": 29
+          "count": 31
         },
         {
           "keyword": "半導體",
@@ -5131,6 +5131,13 @@
         }
       ],
       "headlines": [
+        {
+          "source": "MarketWatch Top Stories",
+          "title": "‘We were stunned’: My daughter, 39, said her mother-in-law gives her more money than we do. Should I confront her?",
+          "link": "https://www.marketwatch.com/story/we-were-stunned-my-daughter-39-said-her-mother-in-law-gives-her-more-money-than-we-do-do-i-call-her-out-b63d087c?mod=mw_rss_topstories",
+          "published": "Sun, 05 Jul 2026 12:48:00 GMT",
+          "summary": "“She thanked us for the $100 birthday gift and then announced that her mother-in-law had sent her $400.”"
+        },
         {
           "source": "TechCrunch",
           "title": "Almost 90 new unicorns have been minted so far this year — here they are",
@@ -5207,19 +5214,12 @@
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMldqdWhCamxhbHl3RlBwVFNFSEs1aWVmUDBHSXNWSkJ5TTZ2N0FQYlVSSXhwNWYxRVVkUVYwRmVlZmJpUHZSanZBX2RuLWVjZGNyTFlkcmFlWHhjNWZvYTBaZXBCZlFmaEpmbVZIV0l2WnJwcElEbkRFU2dFdHFhblEwbw?oc=5",
           "published": "Sun, 05 Jul 2026 02:49:10 GMT",
           "summary": "鴻海(2317)AI伺服器訂單拉長到明年底，下一關看什麼？-王澤明&nbsp;&nbsp;CMoney投資網誌"
-        },
-        {
-          "source": "MarketWatch Top Stories",
-          "title": "Gamer trades in $1,000 of physical discs at GameStop, days after Sony announces end of disc era",
-          "link": "https://www.marketwatch.com/story/gamer-trades-in-1-000-of-physical-discs-at-gamestop-days-after-sony-announces-end-of-disc-era-bf8383b7?mod=mw_rss_topstories",
-          "published": "Sat, 04 Jul 2026 21:40:00 GMT",
-          "summary": "While some collectors may plan to hoard their physical media, one Columbus gamer decided to liquidate his collection"
         }
       ],
-      "summary": "最近新聞共 312 則；主要分類分布為 ai_semiconductor:217、other:69、macro_rates:27；高頻關鍵字包含 AI、台積電、台股、Meta、半導體、外資、Trump、目標價。"
+      "summary": "最近新聞共 312 則；主要分類分布為 ai_semiconductor:218、other:68、macro_rates:27；高頻關鍵字包含 AI、台積電、台股、Meta、半導體、外資、Trump、目標價。"
     },
     "sentiment": null,
-    "summary": "最近新聞共 312 則；主要分類分布為 ai_semiconductor:217、other:69、macro_rates:27；高頻關鍵字包含 AI、台積電、台股、Meta、半導體、外資、Trump、目標價。"
+    "summary": "最近新聞共 312 則；主要分類分布為 ai_semiconductor:218、other:68、macro_rates:27；高頻關鍵字包含 AI、台積電、台股、Meta、半導體、外資、Trump、目標價。"
   },
   "event_impact": {
     "status": "ready",
@@ -5229,21 +5229,21 @@
       "method": "依新聞標題與摘要的標的別名、產業主題與事件關鍵字進行規則式匹配。",
       "groups": {
         "tw_stock": {
-          "symbol_count": 13,
+          "symbol_count": 14,
           "symbols": [
             {
               "symbol": "0050.TW",
-              "event_count": 39,
+              "event_count": 40,
               "score": 5,
               "bias": "事件偏多",
               "top_topics": [
                 {
                   "topic": "taiwan_market",
-                  "count": 39
+                  "count": 40
                 },
                 {
                   "topic": "ai_semiconductor",
-                  "count": 23
+                  "count": 24
                 },
                 {
                   "topic": "earnings_business",
@@ -5317,17 +5317,17 @@
             },
             {
               "symbol": "0052.TW",
-              "event_count": 39,
+              "event_count": 40,
               "score": 5,
               "bias": "事件偏多",
               "top_topics": [
                 {
                   "topic": "taiwan_market",
-                  "count": 39
+                  "count": 40
                 },
                 {
                   "topic": "ai_semiconductor",
-                  "count": 23
+                  "count": 24
                 },
                 {
                   "topic": "earnings_business",
@@ -5401,17 +5401,17 @@
             },
             {
               "symbol": "0056.TW",
-              "event_count": 39,
+              "event_count": 40,
               "score": 5,
               "bias": "事件偏多",
               "top_topics": [
                 {
                   "topic": "taiwan_market",
-                  "count": 39
+                  "count": 40
                 },
                 {
                   "topic": "ai_semiconductor",
-                  "count": 23
+                  "count": 24
                 },
                 {
                   "topic": "earnings_business",
@@ -5485,17 +5485,17 @@
             },
             {
               "symbol": "00981A.TW",
-              "event_count": 39,
+              "event_count": 40,
               "score": 5,
               "bias": "事件偏多",
               "top_topics": [
                 {
                   "topic": "taiwan_market",
-                  "count": 39
+                  "count": 40
                 },
                 {
                   "topic": "ai_semiconductor",
-                  "count": 23
+                  "count": 24
                 },
                 {
                   "topic": "earnings_business",
@@ -5570,7 +5570,7 @@
             {
               "symbol": "2330.TW",
               "event_count": 67,
-              "score": 3,
+              "score": 2,
               "bias": "事件偏多",
               "top_topics": [
                 {
@@ -6033,7 +6033,7 @@
               ]
             },
             {
-              "symbol": "3661.TW",
+              "symbol": "3037.TW",
               "event_count": 1,
               "score": 0,
               "bias": "事件中性",
@@ -6045,12 +6045,42 @@
               ],
               "events": [
                 {
-                  "title": "為AI縮衣節食！ 亞馬遜要砍成本 攜手世芯聚焦自研晶片 - Yahoo股市",
-                  "source": "Google News 台股半導體",
-                  "published": "Thu, 02 Jul 2026 04:49:30 GMT",
-                  "link": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxNZWl2TW5TTDF4b0VUQlpnb2dvNGJ5cmhLOHZXS2tPekJzRWZwdHpuZWpReGpTSTdXLTA3ek00TzNoWk51d0RDdUlrczYwWlNIbWdBZFNVSF9sME91WjBNQVpvMFExMXZzd2dfZ0x0bDhuM1dlMklmV0lEX1Z4bHFMd3l5Z0tqdDVaMnFYWGxPS0dTbmdWUkFvZC1GYk9sMXJiVW1oaGY5QmstMUpTVXlCQ2R0Q21XbXRPRWRDSHMxNW85YUNYOW1uZXNPN3dpZ09naEZPdnZkQVgzREpLWVRhb2d0ZnI5dkUtdUtKbzBlZ1JEVjlMSUNBQ3hfS29qSnJVWGV1aUI0Q05UbXpvOFFXUzBZaGlMcFZWZm4yekozZ0U3OHRCNDdiaUlMZ0pyMmVnenlLRWtLcVVhSXRWR3JHbW94bTZJWjZiemVCanlOZmZSZG5CYmdMQ2FhVTJycnFxYVBiUFZHWGY?oc=5",
+                  "title": "台股Q3漲價潮主角不是台積電！國巨(2327)、華新科(2492)、欣興(3037)、南電(8046)...4大飆股全解析：這2檔「還能旺4年」 - 今周刊",
+                  "source": "Google News 台股",
+                  "published": "Thu, 02 Jul 2026 07:00:00 GMT",
+                  "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdlJOY2tteVlSSEhIbzFvYUthVWVvVFNfRVFfUEhHSmwxQ2lpajA4ZmJiU0NncC1RM3A4WERYTTNmUUlSLTdfUGZja0lHbEUtbGVDQTliUHNGR0VKTVlUcnZvV2luTjFJR3NjRERFQmxZMWI2eFg3WElwbnBzdmc2Sg?oc=5",
                   "matched_terms": [
-                    "世芯"
+                    "3037",
+                    "欣興"
+                  ],
+                  "topics": [
+                    "ai_semiconductor"
+                  ],
+                  "direction": "neutral",
+                  "score": 0
+                }
+              ]
+            },
+            {
+              "symbol": "8046.TW",
+              "event_count": 1,
+              "score": 0,
+              "bias": "事件中性",
+              "top_topics": [
+                {
+                  "topic": "ai_semiconductor",
+                  "count": 1
+                }
+              ],
+              "events": [
+                {
+                  "title": "台股Q3漲價潮主角不是台積電！國巨(2327)、華新科(2492)、欣興(3037)、南電(8046)...4大飆股全解析：這2檔「還能旺4年」 - 今周刊",
+                  "source": "Google News 台股",
+                  "published": "Thu, 02 Jul 2026 07:00:00 GMT",
+                  "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdlJOY2tteVlSSEhIbzFvYUthVWVvVFNfRVFfUEhHSmwxQ2lpajA4ZmJiU0NncC1RM3A4WERYTTNmUUlSLTdfUGZja0lHbEUtbGVDQTliUHNGR0VKTVlUcnZvV2luTjFJR3NjRERFQmxZMWI2eFg3WElwbnBzdmc2Sg?oc=5",
+                  "matched_terms": [
+                    "8046",
+                    "南電"
                   ],
                   "topics": [
                     "ai_semiconductor"
@@ -6066,25 +6096,25 @@
               "symbol": "0050.TW",
               "score": 5,
               "bias": "事件偏多",
-              "event_count": 39
+              "event_count": 40
             },
             {
               "symbol": "0052.TW",
               "score": 5,
               "bias": "事件偏多",
-              "event_count": 39
+              "event_count": 40
             },
             {
               "symbol": "0056.TW",
               "score": 5,
               "bias": "事件偏多",
-              "event_count": 39
+              "event_count": 40
             },
             {
               "symbol": "00981A.TW",
               "score": 5,
               "bias": "事件偏多",
-              "event_count": 39
+              "event_count": 40
             },
             {
               "symbol": "2454.TW",
@@ -6100,13 +6130,13 @@
           "symbols": [
             {
               "symbol": "QQQ",
-              "event_count": 60,
-              "score": 3,
-              "bias": "事件偏多",
+              "event_count": 62,
+              "score": 1,
+              "bias": "事件中性",
               "top_topics": [
                 {
                   "topic": "ai_semiconductor",
-                  "count": 44
+                  "count": 46
                 },
                 {
                   "topic": "earnings_business",
@@ -6182,13 +6212,13 @@
             },
             {
               "symbol": "VOO",
-              "event_count": 57,
-              "score": 4,
+              "event_count": 59,
+              "score": 2,
               "bias": "事件偏多",
               "top_topics": [
                 {
                   "topic": "ai_semiconductor",
-                  "count": 44
+                  "count": 46
                 },
                 {
                   "topic": "earnings_business",
@@ -6270,13 +6300,13 @@
             },
             {
               "symbol": "VT",
-              "event_count": 55,
-              "score": 4,
+              "event_count": 57,
+              "score": 2,
               "bias": "事件偏多",
               "top_topics": [
                 {
                   "topic": "ai_semiconductor",
-                  "count": 44
+                  "count": 46
                 },
                 {
                   "topic": "earnings_business",
@@ -6352,13 +6382,13 @@
             },
             {
               "symbol": "SOXX",
-              "event_count": 99,
-              "score": -1,
-              "bias": "事件中性",
+              "event_count": 98,
+              "score": -2,
+              "bias": "事件偏空",
               "top_topics": [
                 {
                   "topic": "ai_semiconductor",
-                  "count": 99
+                  "count": 98
                 },
                 {
                   "topic": "earnings_business",
@@ -6690,13 +6720,13 @@
             },
             {
               "symbol": "META",
-              "event_count": 14,
-              "score": -1,
-              "bias": "事件中性",
+              "event_count": 15,
+              "score": -2,
+              "bias": "事件偏空",
               "top_topics": [
                 {
                   "topic": "ai_semiconductor",
-                  "count": 14
+                  "count": 15
                 }
               ],
               "events": [
@@ -6888,24 +6918,31 @@
           "top_event_supported": [
             {
               "symbol": "VOO",
-              "score": 4,
+              "score": 2,
               "bias": "事件偏多",
-              "event_count": 57
+              "event_count": 59
             },
             {
               "symbol": "VT",
-              "score": 4,
+              "score": 2,
               "bias": "事件偏多",
-              "event_count": 55
-            },
-            {
-              "symbol": "QQQ",
-              "score": 3,
-              "bias": "事件偏多",
-              "event_count": 60
+              "event_count": 57
             }
           ],
-          "top_event_risk": []
+          "top_event_risk": [
+            {
+              "symbol": "SOXX",
+              "score": -2,
+              "bias": "事件偏空",
+              "event_count": 98
+            },
+            {
+              "symbol": "META",
+              "score": -2,
+              "bias": "事件偏空",
+              "event_count": 15
+            }
+          ]
         }
       }
     },
@@ -6955,7 +6992,7 @@
         }
       ],
       "market_proxy": {
-        "generated_at": "2026-07-05T12:48:57",
+        "generated_at": "2026-07-05T12:54:46",
         "values": [
           {
             "date": "2026-07-03",
@@ -10342,7 +10379,7 @@
           },
           {
             "symbol": "META",
-            "score": 1,
+            "score": 0,
             "signal": "中性",
             "reasons": [
               "20 日跌幅偏弱",
@@ -10432,7 +10469,7 @@
           },
           {
             "symbol": "QQQ",
-            "score": 1,
+            "score": 0,
             "signal": "中性",
             "reasons": [
               "60 日趨勢偏強",
@@ -10447,7 +10484,7 @@
           },
           {
             "symbol": "SOXX",
-            "score": -3,
+            "score": -4,
             "signal": "偏空",
             "reasons": [
               "20 日跌幅偏弱",
@@ -10690,6 +10727,21 @@
             ]
           },
           {
+            "symbol": "SOXX",
+            "score": -4,
+            "signal": "偏空",
+            "reasons": [
+              "20 日跌幅偏弱",
+              "60 日趨勢偏強",
+              "跌破 20 日均線",
+              "站上 200 日均線",
+              "RSI 位於中性偏強區",
+              "MACD histogram 為負",
+              "KD 偏弱",
+              "量價型態：量能中性"
+            ]
+          },
+          {
             "symbol": "CRM",
             "score": -3,
             "signal": "偏空",
@@ -10720,21 +10772,6 @@
             ]
           },
           {
-            "symbol": "SOXX",
-            "score": -3,
-            "signal": "偏空",
-            "reasons": [
-              "20 日跌幅偏弱",
-              "60 日趨勢偏強",
-              "跌破 20 日均線",
-              "站上 200 日均線",
-              "RSI 位於中性偏強區",
-              "MACD histogram 為負",
-              "KD 偏弱",
-              "量價型態：量能中性"
-            ]
-          },
-          {
             "symbol": "ASML",
             "score": -1,
             "signal": "中性",
@@ -10750,7 +10787,7 @@
             ]
           },
           {
-            "symbol": "MSFT",
+            "symbol": "META",
             "score": 0,
             "signal": "中性",
             "reasons": [
