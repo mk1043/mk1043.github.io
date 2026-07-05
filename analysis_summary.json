@@ -1,7 +1,7 @@
 {
   "metadata": {
     "date": "2026-07-05",
-    "generated_at": "2026-07-05T12:54:47",
+    "generated_at": "2026-07-05T13:09:49",
     "purpose": "research_only",
     "investment_advice": "false"
   },
@@ -5025,41 +5025,41 @@
       }
     ],
     "article_counts": {
-      "finance_news": 89,
+      "finance_news": 90,
       "technology_news": 30,
       "taiwan_finance_news": 193
     },
     "analysis": {
       "status": "ready",
-      "article_count": 312,
+      "article_count": 313,
       "source_counts": {
         "Google News 台股": 100,
         "Google News 台股半導體": 93,
-        "Yahoo Finance": 49,
+        "Yahoo Finance": 50,
         "CNBC Finance": 30,
         "TechCrunch": 20,
         "MarketWatch Top Stories": 10,
         "The Verge": 10
       },
       "category_counts": {
-        "ai_semiconductor": 218,
-        "macro_rates": 27,
-        "earnings_business": 23,
-        "market_risk": 14,
+        "ai_semiconductor": 224,
+        "macro_rates": 24,
+        "earnings_business": 22,
+        "market_risk": 12,
         "other": 68
       },
       "top_keywords": [
         {
           "keyword": "AI",
-          "count": 205
+          "count": 208
         },
         {
           "keyword": "台積電",
-          "count": 67
+          "count": 68
         },
         {
           "keyword": "台股",
-          "count": 36
+          "count": 35
         },
         {
           "keyword": "Meta",
@@ -5082,35 +5082,23 @@
           "count": 11
         },
         {
-          "keyword": "利率",
-          "count": 8
-        },
-        {
-          "keyword": "Amazon",
-          "count": 6
+          "keyword": "量子科技",
+          "count": 5
         },
         {
           "keyword": "資料中心",
           "count": 4
         },
         {
-          "keyword": "股市",
+          "keyword": "雲端",
+          "count": 4
+        },
+        {
+          "keyword": "Amazon",
           "count": 4
         },
         {
           "keyword": "Apple",
-          "count": 3
-        },
-        {
-          "keyword": "雲端",
-          "count": 3
-        },
-        {
-          "keyword": "財報",
-          "count": 3
-        },
-        {
-          "keyword": "refinance",
           "count": 3
         },
         {
@@ -5122,15 +5110,48 @@
           "count": 2
         },
         {
+          "keyword": "股市",
+          "count": 2
+        },
+        {
           "keyword": "finance",
+          "count": 2
+        },
+        {
+          "keyword": "財報",
           "count": 2
         },
         {
           "keyword": "資本市場",
           "count": 2
+        },
+        {
+          "keyword": "關稅",
+          "count": 2
         }
       ],
       "headlines": [
+        {
+          "source": "MarketWatch Top Stories",
+          "title": "Hybrids are the breakout star of the U.S. car market as EV demand fades",
+          "link": "https://www.marketwatch.com/story/hybrids-are-the-breakout-star-of-the-u-s-car-market-as-ev-demand-fades-96dce1c3?mod=mw_rss_topstories",
+          "published": "Sun, 05 Jul 2026 13:03:00 GMT",
+          "summary": "Hybrids aren’t a bridge to EVs anymore — instead, they’re winning on function and price."
+        },
+        {
+          "source": "MarketWatch Top Stories",
+          "title": "Why the stock-market’s red-hot momentum trade might be headed for a violent unwind this month",
+          "link": "https://www.marketwatch.com/story/why-the-stock-markets-red-hot-momentum-trade-might-be-headed-for-a-violent-unwind-this-month-78a45397?mod=mw_rss_topstories",
+          "published": "Sun, 05 Jul 2026 13:00:00 GMT",
+          "summary": "Momentum trades tend to struggle in July — but this year may be particularly volatile, says one strategist. The rumblings have already started."
+        },
+        {
+          "source": "CNBC Finance",
+          "title": "Cargo vessel in Red Sea reports coming under attack, UK maritime body says",
+          "link": "https://www.cnbc.com/2026/07/05/cargo-vessel-in-red-sea-reports-attack-uk-maritime-body-says.html",
+          "published": "Sun, 05 Jul 2026 12:57:45 GMT",
+          "summary": "The incident was reported in one of the world's most crucial trade transit routes amid a fragile ceasefire between Iran and the U.S."
+        },
         {
           "source": "MarketWatch Top Stories",
           "title": "‘We were stunned’: My daughter, 39, said her mother-in-law gives her more money than we do. Should I confront her?",
@@ -5175,13 +5196,6 @@
         },
         {
           "source": "Google News 台股",
-          "title": "上周台股漲2,208點、周線翻紅 法人：費半若能止穩 台股更穩健 - UDN",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE96NEptdndhTjBKLU0yZDlQbFZjQVpucnR0Tk9JXzRaU0pHeW9QME1pZF9tV1VEckVVY1JrODBBRm5ZU2l1dFE1TkpwSC0yWmFy0gFWQVVfeXFMUDdGUWNNT2NhS1phRnQtVlcwcFA5X1VKRUJVejcwNWVLaWlpb0UzUlgxNDV2cnFHeFRQVXhYTjcxQVRwQ1hxQnNOamV2cnFJMHVVTE1xS1E?oc=5",
-          "published": "Sun, 05 Jul 2026 06:36:23 GMT",
-          "summary": "上周台股漲2,208點、周線翻紅 法人：費半若能止穩 台股更穩健&nbsp;&nbsp;UDN"
-        },
-        {
-          "source": "Google News 台股",
           "title": "科技大咖除息秀開演！ 聯發科、南亞科、聯電接力登場 - Yahoo股市",
           "link": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxONXdaS1N1VHdOc2UtcndJeWFKcExZR3FYQmZvZXlPRUd3TTk4TXQ0UnBtMVJ4bGFadGxUUVpyRm40aDJZbDJid3BJdzFjaVJYWFFnTG53a2FzSkNxUHhsSWRwUzVyZ0QwYnlnZGJ6dllyQkEyQUVHem1OTXc4SnlPZ1FQRUVwaVByQ051Zk00SWpLbFMzVWUtZGZZbE9YbEtVV3FRRXRTcU5lV25TNzBXZEEtQnBoWTk3N0tnQUtLOHhVemp4aVBKbmFMancwZ1U2c24xZDBJZHJVeFp0cTdENXQ0OWJJakhRLUJObVpDY2hDLU5xTzZUX25ab3JzWko3QU83dV96T094MGZLMmxRUWhnUzNrYXNhNU1OeHU3Sm4zZ2h6WWVQNmhtalNsa1FJbk5oQmlDeU5lYlcwdUVfdXkwc3dwbTVyQ3VkcW5oaE1hOEtrMmdjeGJuTQ?oc=5",
           "published": "Sun, 05 Jul 2026 06:14:00 GMT",
@@ -5200,46 +5214,32 @@
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE15ZTFNekc0NTdtMTFkRkg0UzFSUHVfTzJJNm85cXE0OGZyWHRTN2lKWTNpM2tZUTNaTVhhV3VtVHdVd0Nyb1R4eUk3ZzZtTHJYVjQwZW9MeDU2cWkySlNV0gFkQVVfeXFMUC1vUzVzQmhpWEtDV1o5aGszNmh4dkpJTkh2Qkd5dW9KZmEyUlVSYVJPNmhzb1lZNHpoSnBvbVlPc2ZaWEc4ak1zSmVNTDRQRjFieWR6YUM4by01LUxTa0xZc3Y3ZQ?oc=5",
           "published": "Sun, 05 Jul 2026 05:39:34 GMT",
           "summary": "無懼外資賣超 台股單週漲點創史上第5大&nbsp;&nbsp;自由財經"
-        },
-        {
-          "source": "Google News 台股",
-          "title": "鴻海(2317)衝上 289 元後，真正要驗證的是毛利率能不能跟上-王澤明 - CMoney投資網誌",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNa1VYVzZiLWZPakR0RTR2b2hxRHZiZW9KeGNoaEpxLWt2M1ZkSGVkRVRSYjBTY3N3Tnc2eVZCd25hQi1LS0U3dTU2RjMzMmZLZV91aG9FVUVUamswbmtlNVF5ZHNvSTB0NGdlaXRpR1RNWE1va242a21xUkxkTEt1eHU5Yw?oc=5",
-          "published": "Sun, 05 Jul 2026 05:01:05 GMT",
-          "summary": "鴻海(2317)衝上 289 元後，真正要驗證的是毛利率能不能跟上-王澤明&nbsp;&nbsp;CMoney投資網誌"
-        },
-        {
-          "source": "Google News 台股",
-          "title": "鴻海(2317)AI伺服器訂單拉長到明年底，下一關看什麼？-王澤明 - CMoney投資網誌",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMldqdWhCamxhbHl3RlBwVFNFSEs1aWVmUDBHSXNWSkJ5TTZ2N0FQYlVSSXhwNWYxRVVkUVYwRmVlZmJpUHZSanZBX2RuLWVjZGNyTFlkcmFlWHhjNWZvYTBaZXBCZlFmaEpmbVZIV0l2WnJwcElEbkRFU2dFdHFhblEwbw?oc=5",
-          "published": "Sun, 05 Jul 2026 02:49:10 GMT",
-          "summary": "鴻海(2317)AI伺服器訂單拉長到明年底，下一關看什麼？-王澤明&nbsp;&nbsp;CMoney投資網誌"
         }
       ],
-      "summary": "最近新聞共 312 則；主要分類分布為 ai_semiconductor:218、other:68、macro_rates:27；高頻關鍵字包含 AI、台積電、台股、Meta、半導體、外資、Trump、目標價。"
+      "summary": "最近新聞共 313 則；主要分類分布為 ai_semiconductor:224、other:68、macro_rates:24；高頻關鍵字包含 AI、台積電、台股、Meta、半導體、外資、Trump、目標價。"
     },
     "sentiment": null,
-    "summary": "最近新聞共 312 則；主要分類分布為 ai_semiconductor:218、other:68、macro_rates:27；高頻關鍵字包含 AI、台積電、台股、Meta、半導體、外資、Trump、目標價。"
+    "summary": "最近新聞共 313 則；主要分類分布為 ai_semiconductor:224、other:68、macro_rates:24；高頻關鍵字包含 AI、台積電、台股、Meta、半導體、外資、Trump、目標價。"
   },
   "event_impact": {
     "status": "ready",
     "analysis": {
       "status": "ready",
-      "article_count": 312,
+      "article_count": 313,
       "method": "依新聞標題與摘要的標的別名、產業主題與事件關鍵字進行規則式匹配。",
       "groups": {
         "tw_stock": {
-          "symbol_count": 14,
+          "symbol_count": 15,
           "symbols": [
             {
               "symbol": "0050.TW",
-              "event_count": 40,
+              "event_count": 39,
               "score": 5,
               "bias": "事件偏多",
               "top_topics": [
                 {
                   "topic": "taiwan_market",
-                  "count": 40
+                  "count": 39
                 },
                 {
                   "topic": "ai_semiconductor",
@@ -5251,18 +5251,6 @@
                 }
               ],
               "events": [
-                {
-                  "title": "上周台股漲2,208點、周線翻紅 法人：費半若能止穩 台股更穩健 - UDN",
-                  "source": "Google News 台股",
-                  "published": "Sun, 05 Jul 2026 06:36:23 GMT",
-                  "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE96NEptdndhTjBKLU0yZDlQbFZjQVpucnR0Tk9JXzRaU0pHeW9QME1pZF9tV1VEckVVY1JrODBBRm5ZU2l1dFE1TkpwSC0yWmFy0gFWQVVfeXFMUDdGUWNNT2NhS1phRnQtVlcwcFA5X1VKRUJVejcwNWVLaWlpb0UzUlgxNDV2cnFHeFRQVXhYTjcxQVRwQ1hxQnNOamV2cnFJMHVVTE1xS1E?oc=5",
-                  "matched_terms": [],
-                  "topics": [
-                    "taiwan_market"
-                  ],
-                  "direction": "supportive",
-                  "score": 1
-                },
                 {
                   "title": "無懼外資賣超 台股單週漲點創史上第5大 - 自由財經",
                   "source": "Google News 台股",
@@ -5312,18 +5300,31 @@
                   ],
                   "direction": "neutral",
                   "score": 0
+                },
+                {
+                  "title": "台積電及聯發科領軍台股收漲1,126點 6月高低差距達6,212點 - 經濟日報",
+                  "source": "Google News 台股",
+                  "published": "Fri, 03 Jul 2026 09:00:00 GMT",
+                  "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE51Yy1GRXh6Z3BmOVNLaGI2M3JIQi1CRlVDX2paR0JYZ3MtbFQxT09oOExFMFUwaWc4d0cyT2RwaFpZWmJOM3dwSXhXMUYzQnBPYk9CaWF0RTlDQdIBX0FVX3lxTE1RRGZ1MEUwY25Kck9mSGtKTHU0TXhOaXJ1aHNXYWpIbWd4UE1NUG9YcnBqZndzZVVwZnBvYUZ6OWhYT0s3Q3FvZlhOTHNzWE43b19BMXFTM3hmQmd1YlFN?oc=5",
+                  "matched_terms": [],
+                  "topics": [
+                    "taiwan_market",
+                    "ai_semiconductor"
+                  ],
+                  "direction": "supportive",
+                  "score": 1
                 }
               ]
             },
             {
               "symbol": "0052.TW",
-              "event_count": 40,
+              "event_count": 39,
               "score": 5,
               "bias": "事件偏多",
               "top_topics": [
                 {
                   "topic": "taiwan_market",
-                  "count": 40
+                  "count": 39
                 },
                 {
                   "topic": "ai_semiconductor",
@@ -5335,18 +5336,6 @@
                 }
               ],
               "events": [
-                {
-                  "title": "上周台股漲2,208點、周線翻紅 法人：費半若能止穩 台股更穩健 - UDN",
-                  "source": "Google News 台股",
-                  "published": "Sun, 05 Jul 2026 06:36:23 GMT",
-                  "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE96NEptdndhTjBKLU0yZDlQbFZjQVpucnR0Tk9JXzRaU0pHeW9QME1pZF9tV1VEckVVY1JrODBBRm5ZU2l1dFE1TkpwSC0yWmFy0gFWQVVfeXFMUDdGUWNNT2NhS1phRnQtVlcwcFA5X1VKRUJVejcwNWVLaWlpb0UzUlgxNDV2cnFHeFRQVXhYTjcxQVRwQ1hxQnNOamV2cnFJMHVVTE1xS1E?oc=5",
-                  "matched_terms": [],
-                  "topics": [
-                    "taiwan_market"
-                  ],
-                  "direction": "supportive",
-                  "score": 1
-                },
                 {
                   "title": "無懼外資賣超 台股單週漲點創史上第5大 - 自由財經",
                   "source": "Google News 台股",
@@ -5396,18 +5385,31 @@
                   ],
                   "direction": "neutral",
                   "score": 0
+                },
+                {
+                  "title": "台積電及聯發科領軍台股收漲1,126點 6月高低差距達6,212點 - 經濟日報",
+                  "source": "Google News 台股",
+                  "published": "Fri, 03 Jul 2026 09:00:00 GMT",
+                  "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE51Yy1GRXh6Z3BmOVNLaGI2M3JIQi1CRlVDX2paR0JYZ3MtbFQxT09oOExFMFUwaWc4d0cyT2RwaFpZWmJOM3dwSXhXMUYzQnBPYk9CaWF0RTlDQdIBX0FVX3lxTE1RRGZ1MEUwY25Kck9mSGtKTHU0TXhOaXJ1aHNXYWpIbWd4UE1NUG9YcnBqZndzZVVwZnBvYUZ6OWhYT0s3Q3FvZlhOTHNzWE43b19BMXFTM3hmQmd1YlFN?oc=5",
+                  "matched_terms": [],
+                  "topics": [
+                    "taiwan_market",
+                    "ai_semiconductor"
+                  ],
+                  "direction": "supportive",
+                  "score": 1
                 }
               ]
             },
             {
               "symbol": "0056.TW",
-              "event_count": 40,
+              "event_count": 39,
               "score": 5,
               "bias": "事件偏多",
               "top_topics": [
                 {
                   "topic": "taiwan_market",
-                  "count": 40
+                  "count": 39
                 },
                 {
                   "topic": "ai_semiconductor",
@@ -5419,18 +5421,6 @@
                 }
               ],
               "events": [
-                {
-                  "title": "上周台股漲2,208點、周線翻紅 法人：費半若能止穩 台股更穩健 - UDN",
-                  "source": "Google News 台股",
-                  "published": "Sun, 05 Jul 2026 06:36:23 GMT",
-                  "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE96NEptdndhTjBKLU0yZDlQbFZjQVpucnR0Tk9JXzRaU0pHeW9QME1pZF9tV1VEckVVY1JrODBBRm5ZU2l1dFE1TkpwSC0yWmFy0gFWQVVfeXFMUDdGUWNNT2NhS1phRnQtVlcwcFA5X1VKRUJVejcwNWVLaWlpb0UzUlgxNDV2cnFHeFRQVXhYTjcxQVRwQ1hxQnNOamV2cnFJMHVVTE1xS1E?oc=5",
-                  "matched_terms": [],
-                  "topics": [
-                    "taiwan_market"
-                  ],
-                  "direction": "supportive",
-                  "score": 1
-                },
                 {
                   "title": "無懼外資賣超 台股單週漲點創史上第5大 - 自由財經",
                   "source": "Google News 台股",
@@ -5480,18 +5470,31 @@
                   ],
                   "direction": "neutral",
                   "score": 0
+                },
+                {
+                  "title": "台積電及聯發科領軍台股收漲1,126點 6月高低差距達6,212點 - 經濟日報",
+                  "source": "Google News 台股",
+                  "published": "Fri, 03 Jul 2026 09:00:00 GMT",
+                  "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE51Yy1GRXh6Z3BmOVNLaGI2M3JIQi1CRlVDX2paR0JYZ3MtbFQxT09oOExFMFUwaWc4d0cyT2RwaFpZWmJOM3dwSXhXMUYzQnBPYk9CaWF0RTlDQdIBX0FVX3lxTE1RRGZ1MEUwY25Kck9mSGtKTHU0TXhOaXJ1aHNXYWpIbWd4UE1NUG9YcnBqZndzZVVwZnBvYUZ6OWhYT0s3Q3FvZlhOTHNzWE43b19BMXFTM3hmQmd1YlFN?oc=5",
+                  "matched_terms": [],
+                  "topics": [
+                    "taiwan_market",
+                    "ai_semiconductor"
+                  ],
+                  "direction": "supportive",
+                  "score": 1
                 }
               ]
             },
             {
               "symbol": "00981A.TW",
-              "event_count": 40,
+              "event_count": 39,
               "score": 5,
               "bias": "事件偏多",
               "top_topics": [
                 {
                   "topic": "taiwan_market",
-                  "count": 40
+                  "count": 39
                 },
                 {
                   "topic": "ai_semiconductor",
@@ -5503,18 +5506,6 @@
                 }
               ],
               "events": [
-                {
-                  "title": "上周台股漲2,208點、周線翻紅 法人：費半若能止穩 台股更穩健 - UDN",
-                  "source": "Google News 台股",
-                  "published": "Sun, 05 Jul 2026 06:36:23 GMT",
-                  "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE96NEptdndhTjBKLU0yZDlQbFZjQVpucnR0Tk9JXzRaU0pHeW9QME1pZF9tV1VEckVVY1JrODBBRm5ZU2l1dFE1TkpwSC0yWmFy0gFWQVVfeXFMUDdGUWNNT2NhS1phRnQtVlcwcFA5X1VKRUJVejcwNWVLaWlpb0UzUlgxNDV2cnFHeFRQVXhYTjcxQVRwQ1hxQnNOamV2cnFJMHVVTE1xS1E?oc=5",
-                  "matched_terms": [],
-                  "topics": [
-                    "taiwan_market"
-                  ],
-                  "direction": "supportive",
-                  "score": 1
-                },
                 {
                   "title": "無懼外資賣超 台股單週漲點創史上第5大 - 自由財經",
                   "source": "Google News 台股",
@@ -5564,18 +5555,31 @@
                   ],
                   "direction": "neutral",
                   "score": 0
+                },
+                {
+                  "title": "台積電及聯發科領軍台股收漲1,126點 6月高低差距達6,212點 - 經濟日報",
+                  "source": "Google News 台股",
+                  "published": "Fri, 03 Jul 2026 09:00:00 GMT",
+                  "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE51Yy1GRXh6Z3BmOVNLaGI2M3JIQi1CRlVDX2paR0JYZ3MtbFQxT09oOExFMFUwaWc4d0cyT2RwaFpZWmJOM3dwSXhXMUYzQnBPYk9CaWF0RTlDQdIBX0FVX3lxTE1RRGZ1MEUwY25Kck9mSGtKTHU0TXhOaXJ1aHNXYWpIbWd4UE1NUG9YcnBqZndzZVVwZnBvYUZ6OWhYT0s3Q3FvZlhOTHNzWE43b19BMXFTM3hmQmd1YlFN?oc=5",
+                  "matched_terms": [],
+                  "topics": [
+                    "taiwan_market",
+                    "ai_semiconductor"
+                  ],
+                  "direction": "supportive",
+                  "score": 1
                 }
               ]
             },
             {
               "symbol": "2330.TW",
-              "event_count": 67,
+              "event_count": 68,
               "score": 2,
               "bias": "事件偏多",
               "top_topics": [
                 {
                   "topic": "ai_semiconductor",
-                  "count": 67
+                  "count": 68
                 },
                 {
                   "topic": "earnings_business",
@@ -5658,13 +5662,13 @@
             },
             {
               "symbol": "2317.TW",
-              "event_count": 11,
+              "event_count": 12,
               "score": 1,
               "bias": "事件中性",
               "top_topics": [
                 {
                   "topic": "ai_semiconductor",
-                  "count": 3
+                  "count": 4
                 },
                 {
                   "topic": "earnings_business",
@@ -5746,13 +5750,13 @@
             },
             {
               "symbol": "2454.TW",
-              "event_count": 24,
+              "event_count": 25,
               "score": 5,
               "bias": "事件偏多",
               "top_topics": [
                 {
                   "topic": "ai_semiconductor",
-                  "count": 9
+                  "count": 10
                 },
                 {
                   "topic": "earnings_business",
@@ -5977,6 +5981,34 @@
               ]
             },
             {
+              "symbol": "3231.TW",
+              "event_count": 1,
+              "score": 0,
+              "bias": "事件中性",
+              "top_topics": [
+                {
+                  "topic": "ai_semiconductor",
+                  "count": 1
+                }
+              ],
+              "events": [
+                {
+                  "title": "台積電、聯發科都掰了！00929持股大風吹鴻海、緯創、宏碁、環球晶...44檔增刪清單1次看- 基金 - 旺得富理財網",
+                  "source": "Google News 台股",
+                  "published": "Fri, 26 Jun 2026 07:00:00 GMT",
+                  "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA5U3doVmlJcmJMLUJOVHlISmJkaTNQNGFqbGZnNERXVXJHck1YS1pxeHJ2cVRjSzZDYjNvTkZJYUVvd3lSV2ItYS1LTHloRkxWZldzODhfOWhLZjRMcGxQd0xLbUU4X2w0eXc?oc=5",
+                  "matched_terms": [
+                    "緯創"
+                  ],
+                  "topics": [
+                    "ai_semiconductor"
+                  ],
+                  "direction": "neutral",
+                  "score": 0
+                }
+              ]
+            },
+            {
               "symbol": "2376.TW",
               "event_count": 1,
               "score": 0,
@@ -6096,31 +6128,31 @@
               "symbol": "0050.TW",
               "score": 5,
               "bias": "事件偏多",
-              "event_count": 40
+              "event_count": 39
             },
             {
               "symbol": "0052.TW",
               "score": 5,
               "bias": "事件偏多",
-              "event_count": 40
+              "event_count": 39
             },
             {
               "symbol": "0056.TW",
               "score": 5,
               "bias": "事件偏多",
-              "event_count": 40
+              "event_count": 39
             },
             {
               "symbol": "00981A.TW",
               "score": 5,
               "bias": "事件偏多",
-              "event_count": 40
+              "event_count": 39
             },
             {
               "symbol": "2454.TW",
               "score": 5,
               "bias": "事件偏多",
-              "event_count": 24
+              "event_count": 25
             }
           ],
           "top_event_risk": []
@@ -6130,17 +6162,17 @@
           "symbols": [
             {
               "symbol": "QQQ",
-              "event_count": 62,
+              "event_count": 64,
               "score": 1,
               "bias": "事件中性",
               "top_topics": [
                 {
                   "topic": "ai_semiconductor",
-                  "count": 46
+                  "count": 47
                 },
                 {
                   "topic": "earnings_business",
-                  "count": 17
+                  "count": 16
                 },
                 {
                   "topic": "market_risk",
@@ -6218,11 +6250,11 @@
               "top_topics": [
                 {
                   "topic": "ai_semiconductor",
-                  "count": 46
+                  "count": 47
                 },
                 {
                   "topic": "earnings_business",
-                  "count": 17
+                  "count": 16
                 },
                 {
                   "topic": "market_risk",
@@ -6306,11 +6338,11 @@
               "top_topics": [
                 {
                   "topic": "ai_semiconductor",
-                  "count": 46
+                  "count": 47
                 },
                 {
                   "topic": "earnings_business",
-                  "count": 17
+                  "count": 16
                 },
                 {
                   "topic": "market_risk",
@@ -6382,13 +6414,13 @@
             },
             {
               "symbol": "SOXX",
-              "event_count": 98,
+              "event_count": 99,
               "score": -2,
               "bias": "事件偏空",
               "top_topics": [
                 {
                   "topic": "ai_semiconductor",
-                  "count": 98
+                  "count": 99
                 },
                 {
                   "topic": "earnings_business",
@@ -6584,8 +6616,8 @@
             },
             {
               "symbol": "AMZN",
-              "event_count": 3,
-              "score": 1,
+              "event_count": 2,
+              "score": 0,
               "bias": "事件中性",
               "top_topics": [
                 {
@@ -6619,24 +6651,12 @@
                   "topics": [],
                   "direction": "supportive",
                   "score": 1
-                },
-                {
-                  "title": "Amazon updated 2023’s Fire HD 10 tablet with 4GB of RAM",
-                  "source": "The Verge",
-                  "published": "2026-07-03T13:33:55-04:00",
-                  "link": "https://www.theverge.com/tech/961387/amazon-2023-fire-hd-10-tablet-4gb-update",
-                  "matched_terms": [
-                    "amazon"
-                  ],
-                  "topics": [],
-                  "direction": "supportive",
-                  "score": 1
                 }
               ]
             },
             {
               "symbol": "GOOGL",
-              "event_count": 9,
+              "event_count": 8,
               "score": -1,
               "bias": "事件中性",
               "top_topics": [
@@ -6934,7 +6954,7 @@
               "symbol": "SOXX",
               "score": -2,
               "bias": "事件偏空",
-              "event_count": 98
+              "event_count": 99
             },
             {
               "symbol": "META",
@@ -6992,7 +7012,7 @@
         }
       ],
       "market_proxy": {
-        "generated_at": "2026-07-05T12:54:46",
+        "generated_at": "2026-07-05T13:09:48",
         "values": [
           {
             "date": "2026-07-03",
