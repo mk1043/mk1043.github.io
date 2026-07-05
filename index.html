@@ -1,9 +1,97 @@
-<!DOCTYPE html>
-<html>
+<!doctype html>
+<html lang="zh-Hant-TW">
 <head>
-    <title>我的個人網站</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>每日市場研究</title>
+  <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <h1>歡迎來到我的個人網站！</h1>
+  <header class="site-header">
+    <div>
+      <p class="eyebrow">AI Stock Research</p>
+      <h1>每日市場研究</h1>
+      <p class="subtitle">資料由 GitHub Actions 自動收集，Python 計算指標與規則式訊號。</p>
+    </div>
+    <div class="date-card">
+      <span>報告日期</span>
+      <strong>2026-07-05</strong>
+    </div>
+  </header>
+
+  <main>
+    <section class="summary-grid">
+      <article class="card">
+  <h2>市場資料</h2>
+  <span class="status">已取得資料</span>
+  <p>已收集 88 個市場資料檔案。</p>
+</article>
+      <article class="card">
+  <h2>新聞資料</h2>
+  <span class="status">已取得資料</span>
+  <p>最近新聞共 313 則；主要分類分布為 ai_semiconductor:217、other:69、macro_rates:30；高頻關鍵字包含 AI、台積電、台股、半導體、Meta、外資、Trump、目標價。</p>
+</article>
+      <article class="card">
+  <h2>總經資料</h2>
+  <span class="status">已取得資料</span>
+  <p>Fed Funds Rate 3.63，近 3 期趨勢 持平；美國 10 年期公債殖利率 4.485，近 3 期趨勢 連續上升；VIX 16.01，近 3 期趨勢 連續下降。整體總經風險分級：medium。</p>
+</article>
+      <article class="card">
+  <h2>研究訊號</h2>
+  <span class="status">已取得資料</span>
+  <p>研究訊號僅供分析，不是買賣建議。</p>
+</article>
+    </section>
+
+    <section class="panel">
+      <div class="panel-heading">
+        <h2>整體結論</h2>
+        <span class="bias">偏多</span>
+      </div>
+      <p>綜合評分 4；0050 20 日漲跌與 200 日均線偏多；QQQ 事件新聞偏多；新聞主題偏向 AI、半導體或企業成長；總經風險中等；QQQ 200 日均線策略歷史風險報酬較佳。</p>
+      <div class="actions">
+        <a href="reports/latest.html">閱讀完整報告</a>
+        <a href="reports/latest.md">Markdown 原文</a>
+        <a href="analysis_summary.json">分析 JSON</a>
+      </div>
+    </section>
+
+    <section class="panel">
+      <div class="panel-heading">
+        <h2>重點圖表</h2>
+        <span>價格均線 / 量價 / 回測</span>
+      </div>
+      <div class="chart-grid">
+        <article class="chart-card">
+  <h3>0050.TW</h3>
+  <img src="charts/price_ma/0050.TW.svg" alt="0050.TW 價格均線圖">
+</article>
+        <article class="chart-card">
+  <h3>2330.TW</h3>
+  <img src="charts/price_ma/2330.TW.svg" alt="2330.TW 價格均線圖">
+</article>
+        <article class="chart-card">
+  <h3>QQQ</h3>
+  <img src="charts/price_ma/QQQ.svg" alt="QQQ 價格均線圖">
+</article>
+        <article class="chart-card">
+  <h3>SOXX</h3>
+  <img src="charts/price_ma/SOXX.svg" alt="SOXX 價格均線圖">
+</article>
+      </div>
+    </section>
+
+    <section class="panel report-preview">
+      <div class="panel-heading">
+        <h2>最新報告</h2>
+        <a href="reports/latest.html">開啟完整頁面</a>
+      </div>
+      <iframe title="latest market report" src="reports/latest.html"></iframe>
+    </section>
+  </main>
+
+  <footer>
+    本網站僅供研究用途，不構成任何投資建議。
+  </footer>
 </body>
 </html>
