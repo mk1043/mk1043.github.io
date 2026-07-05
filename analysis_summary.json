@@ -1,7 +1,7 @@
 {
   "metadata": {
     "date": "2026-07-05",
-    "generated_at": "2026-07-05T16:25:50",
+    "generated_at": "2026-07-05T16:29:14",
     "purpose": "research_only",
     "investment_advice": "false"
   },
@@ -5042,11 +5042,11 @@
         "The Verge": 10
       },
       "category_counts": {
-        "ai_semiconductor": 212,
+        "ai_semiconductor": 211,
         "macro_rates": 27,
         "earnings_business": 22,
         "market_risk": 12,
-        "other": 77
+        "other": 78
       },
       "top_keywords": [
         {
@@ -5055,7 +5055,7 @@
         },
         {
           "keyword": "台積電",
-          "count": 65
+          "count": 64
         },
         {
           "keyword": "台股",
@@ -5070,11 +5070,11 @@
           "count": 18
         },
         {
-          "keyword": "Trump",
-          "count": 13
+          "keyword": "外資",
+          "count": 14
         },
         {
-          "keyword": "外資",
+          "keyword": "Trump",
           "count": 13
         },
         {
@@ -5216,10 +5216,10 @@
           "summary": "Hybrids aren’t a bridge to EVs anymore — instead, they’re winning on function and price."
         }
       ],
-      "summary": "最近新聞共 313 則；主要分類分布為 ai_semiconductor:212、other:77、macro_rates:27；高頻關鍵字包含 AI、台積電、台股、Meta、半導體、Trump、外資、目標價。"
+      "summary": "最近新聞共 313 則；主要分類分布為 ai_semiconductor:211、other:78、macro_rates:27；高頻關鍵字包含 AI、台積電、台股、Meta、半導體、外資、Trump、目標價。"
     },
     "sentiment": null,
-    "summary": "最近新聞共 313 則；主要分類分布為 ai_semiconductor:212、other:77、macro_rates:27；高頻關鍵字包含 AI、台積電、台股、Meta、半導體、Trump、外資、目標價。"
+    "summary": "最近新聞共 313 則；主要分類分布為 ai_semiconductor:211、other:78、macro_rates:27；高頻關鍵字包含 AI、台積電、台股、Meta、半導體、外資、Trump、目標價。"
   },
   "event_impact": {
     "status": "ready",
@@ -5229,7 +5229,7 @@
       "method": "依新聞標題與摘要的標的別名、產業主題與事件關鍵字進行規則式匹配。",
       "groups": {
         "tw_stock": {
-          "symbol_count": 14,
+          "symbol_count": 12,
           "symbols": [
             {
               "symbol": "0050.TW",
@@ -5243,7 +5243,7 @@
                 },
                 {
                   "topic": "ai_semiconductor",
-                  "count": 24
+                  "count": 23
                 },
                 {
                   "topic": "earnings_business",
@@ -5290,22 +5290,10 @@
                   "score": 0
                 },
                 {
-                  "title": "台股大漲千點 外資卻賣5億元 三大法人共買超148.32億元 - 經濟日報",
+                  "title": "台股7月開門紅！台積電大漲逾3% 大盤續飆逾千點重返47K - 經濟日報",
                   "source": "Google News 台股",
                   "published": "Sat, 04 Jul 2026 09:00:00 GMT",
-                  "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBZQlpqSk4wRHJYZEhMU0hxQ3ZkVXdic2VBaWdFYkJpNm5IbGlmak1KMkN4ZkJOdDlOTW12RE9tOFQ3X2hsZUc3RGRYZmFyNzZMVV9pNUlQb0RmQdIBX0FVX3lxTE8tZ0QxZ1h6Nnp6REFERmMySERmamstQThWYnZManFXTVp6dEVLQjJCaVRQMUc4ak1EQ1ZWaERZQmpCOUxIdzBIYnhwVHJpdDJZOG1jTFFFVDlqM0s1ZjRJ?oc=5",
-                  "matched_terms": [],
-                  "topics": [
-                    "taiwan_market"
-                  ],
-                  "direction": "supportive",
-                  "score": 1
-                },
-                {
-                  "title": "台股勁揚893點站穩47,000點 台積電尾盤拉一把重回2,500元 - 經濟日報",
-                  "source": "Google News 台股",
-                  "published": "Sat, 04 Jul 2026 09:00:00 GMT",
-                  "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1WMW9QVWFVR2xBWkJMOWNXTTJNQWFRVDNZSlNvajQ2aUZEd3lSQXJJaTgwNGREWEJsNkRTdm9aQmFJdW05dXU0aHB6SmZlOTUzVHVBRFpHaGo5UdIBX0FVX3lxTFBLcWEtWDFfS0plNWdNUWxfeUVUbkhVRThkNm1hTUhBcmYxOGRsVjJYY3hsMHNhbGpoRTQxVmhzYzdqVlcxVFFvcmlSLTJ4bjRDOU9RalJkNUtaVlFRa2g0?oc=5",
+                  "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBZenlHNTUwa3RUZDRMSVN3Yk1Hc3hQRjM1aE0zVjZjM2M4UlhtcnpYa0xJSGhDTmtGeTNnQktuS0hITFU0enY2T1ZJSXlRZWR6TWI4dnN1OTlwZ9IBX0FVX3lxTFB2WnpsUTliM3FYa084RGdzMXJacjJ3SDQxS3p1ODQxVFlTZ2QwOVYySkJFaVZtTkk0bUhmOVRYNk90cFpVclVkWDFjMngyWGtOZ3QxVkZHZlFkczZNQlI0?oc=5",
                   "matched_terms": [],
                   "topics": [
                     "taiwan_market",
@@ -5313,6 +5301,18 @@
                   ],
                   "direction": "neutral",
                   "score": 0
+                },
+                {
+                  "title": "外資回頭買台股！台股重回4萬7千點 三大法人買超529億元 - 經濟日報",
+                  "source": "Google News 台股",
+                  "published": "Sat, 04 Jul 2026 09:00:00 GMT",
+                  "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1jTTZoY294ejF1ZjFxSzNPSXFXQjJKMFJlV2pfUHBnWElIdUJ6TTJVeC0waWdmeXZwbWhEZmlVSmNDdHlUakVSc3dlVmVtVktmOUdCYVg1UWo1UdIBX0FVX3lxTE12VXEzVVlvaWVWNXFfVnc0WktXNlk0VGdwWkZoVndILWowdDdDX0NJZU14dngyZHJobnVmNU8tdW9pS282SmJYa3pwT1JDNGdPME45Zy1sclB6bTlNUG4w?oc=5",
+                  "matched_terms": [],
+                  "topics": [
+                    "taiwan_market"
+                  ],
+                  "direction": "supportive",
+                  "score": 1
                 }
               ]
             },
@@ -5328,7 +5328,7 @@
                 },
                 {
                   "topic": "ai_semiconductor",
-                  "count": 24
+                  "count": 23
                 },
                 {
                   "topic": "earnings_business",
@@ -5375,22 +5375,10 @@
                   "score": 0
                 },
                 {
-                  "title": "台股大漲千點 外資卻賣5億元 三大法人共買超148.32億元 - 經濟日報",
+                  "title": "台股7月開門紅！台積電大漲逾3% 大盤續飆逾千點重返47K - 經濟日報",
                   "source": "Google News 台股",
                   "published": "Sat, 04 Jul 2026 09:00:00 GMT",
-                  "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBZQlpqSk4wRHJYZEhMU0hxQ3ZkVXdic2VBaWdFYkJpNm5IbGlmak1KMkN4ZkJOdDlOTW12RE9tOFQ3X2hsZUc3RGRYZmFyNzZMVV9pNUlQb0RmQdIBX0FVX3lxTE8tZ0QxZ1h6Nnp6REFERmMySERmamstQThWYnZManFXTVp6dEVLQjJCaVRQMUc4ak1EQ1ZWaERZQmpCOUxIdzBIYnhwVHJpdDJZOG1jTFFFVDlqM0s1ZjRJ?oc=5",
-                  "matched_terms": [],
-                  "topics": [
-                    "taiwan_market"
-                  ],
-                  "direction": "supportive",
-                  "score": 1
-                },
-                {
-                  "title": "台股勁揚893點站穩47,000點 台積電尾盤拉一把重回2,500元 - 經濟日報",
-                  "source": "Google News 台股",
-                  "published": "Sat, 04 Jul 2026 09:00:00 GMT",
-                  "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1WMW9QVWFVR2xBWkJMOWNXTTJNQWFRVDNZSlNvajQ2aUZEd3lSQXJJaTgwNGREWEJsNkRTdm9aQmFJdW05dXU0aHB6SmZlOTUzVHVBRFpHaGo5UdIBX0FVX3lxTFBLcWEtWDFfS0plNWdNUWxfeUVUbkhVRThkNm1hTUhBcmYxOGRsVjJYY3hsMHNhbGpoRTQxVmhzYzdqVlcxVFFvcmlSLTJ4bjRDOU9RalJkNUtaVlFRa2g0?oc=5",
+                  "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBZenlHNTUwa3RUZDRMSVN3Yk1Hc3hQRjM1aE0zVjZjM2M4UlhtcnpYa0xJSGhDTmtGeTNnQktuS0hITFU0enY2T1ZJSXlRZWR6TWI4dnN1OTlwZ9IBX0FVX3lxTFB2WnpsUTliM3FYa084RGdzMXJacjJ3SDQxS3p1ODQxVFlTZ2QwOVYySkJFaVZtTkk0bUhmOVRYNk90cFpVclVkWDFjMngyWGtOZ3QxVkZHZlFkczZNQlI0?oc=5",
                   "matched_terms": [],
                   "topics": [
                     "taiwan_market",
@@ -5398,6 +5386,18 @@
                   ],
                   "direction": "neutral",
                   "score": 0
+                },
+                {
+                  "title": "外資回頭買台股！台股重回4萬7千點 三大法人買超529億元 - 經濟日報",
+                  "source": "Google News 台股",
+                  "published": "Sat, 04 Jul 2026 09:00:00 GMT",
+                  "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1jTTZoY294ejF1ZjFxSzNPSXFXQjJKMFJlV2pfUHBnWElIdUJ6TTJVeC0waWdmeXZwbWhEZmlVSmNDdHlUakVSc3dlVmVtVktmOUdCYVg1UWo1UdIBX0FVX3lxTE12VXEzVVlvaWVWNXFfVnc0WktXNlk0VGdwWkZoVndILWowdDdDX0NJZU14dngyZHJobnVmNU8tdW9pS282SmJYa3pwT1JDNGdPME45Zy1sclB6bTlNUG4w?oc=5",
+                  "matched_terms": [],
+                  "topics": [
+                    "taiwan_market"
+                  ],
+                  "direction": "supportive",
+                  "score": 1
                 }
               ]
             },
@@ -5413,7 +5413,7 @@
                 },
                 {
                   "topic": "ai_semiconductor",
-                  "count": 24
+                  "count": 23
                 },
                 {
                   "topic": "earnings_business",
@@ -5460,22 +5460,10 @@
                   "score": 0
                 },
                 {
-                  "title": "台股大漲千點 外資卻賣5億元 三大法人共買超148.32億元 - 經濟日報",
+                  "title": "台股7月開門紅！台積電大漲逾3% 大盤續飆逾千點重返47K - 經濟日報",
                   "source": "Google News 台股",
                   "published": "Sat, 04 Jul 2026 09:00:00 GMT",
-                  "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBZQlpqSk4wRHJYZEhMU0hxQ3ZkVXdic2VBaWdFYkJpNm5IbGlmak1KMkN4ZkJOdDlOTW12RE9tOFQ3X2hsZUc3RGRYZmFyNzZMVV9pNUlQb0RmQdIBX0FVX3lxTE8tZ0QxZ1h6Nnp6REFERmMySERmamstQThWYnZManFXTVp6dEVLQjJCaVRQMUc4ak1EQ1ZWaERZQmpCOUxIdzBIYnhwVHJpdDJZOG1jTFFFVDlqM0s1ZjRJ?oc=5",
-                  "matched_terms": [],
-                  "topics": [
-                    "taiwan_market"
-                  ],
-                  "direction": "supportive",
-                  "score": 1
-                },
-                {
-                  "title": "台股勁揚893點站穩47,000點 台積電尾盤拉一把重回2,500元 - 經濟日報",
-                  "source": "Google News 台股",
-                  "published": "Sat, 04 Jul 2026 09:00:00 GMT",
-                  "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1WMW9QVWFVR2xBWkJMOWNXTTJNQWFRVDNZSlNvajQ2aUZEd3lSQXJJaTgwNGREWEJsNkRTdm9aQmFJdW05dXU0aHB6SmZlOTUzVHVBRFpHaGo5UdIBX0FVX3lxTFBLcWEtWDFfS0plNWdNUWxfeUVUbkhVRThkNm1hTUhBcmYxOGRsVjJYY3hsMHNhbGpoRTQxVmhzYzdqVlcxVFFvcmlSLTJ4bjRDOU9RalJkNUtaVlFRa2g0?oc=5",
+                  "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBZenlHNTUwa3RUZDRMSVN3Yk1Hc3hQRjM1aE0zVjZjM2M4UlhtcnpYa0xJSGhDTmtGeTNnQktuS0hITFU0enY2T1ZJSXlRZWR6TWI4dnN1OTlwZ9IBX0FVX3lxTFB2WnpsUTliM3FYa084RGdzMXJacjJ3SDQxS3p1ODQxVFlTZ2QwOVYySkJFaVZtTkk0bUhmOVRYNk90cFpVclVkWDFjMngyWGtOZ3QxVkZHZlFkczZNQlI0?oc=5",
                   "matched_terms": [],
                   "topics": [
                     "taiwan_market",
@@ -5483,6 +5471,18 @@
                   ],
                   "direction": "neutral",
                   "score": 0
+                },
+                {
+                  "title": "外資回頭買台股！台股重回4萬7千點 三大法人買超529億元 - 經濟日報",
+                  "source": "Google News 台股",
+                  "published": "Sat, 04 Jul 2026 09:00:00 GMT",
+                  "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1jTTZoY294ejF1ZjFxSzNPSXFXQjJKMFJlV2pfUHBnWElIdUJ6TTJVeC0waWdmeXZwbWhEZmlVSmNDdHlUakVSc3dlVmVtVktmOUdCYVg1UWo1UdIBX0FVX3lxTE12VXEzVVlvaWVWNXFfVnc0WktXNlk0VGdwWkZoVndILWowdDdDX0NJZU14dngyZHJobnVmNU8tdW9pS282SmJYa3pwT1JDNGdPME45Zy1sclB6bTlNUG4w?oc=5",
+                  "matched_terms": [],
+                  "topics": [
+                    "taiwan_market"
+                  ],
+                  "direction": "supportive",
+                  "score": 1
                 }
               ]
             },
@@ -5498,7 +5498,7 @@
                 },
                 {
                   "topic": "ai_semiconductor",
-                  "count": 24
+                  "count": 23
                 },
                 {
                   "topic": "earnings_business",
@@ -5545,22 +5545,10 @@
                   "score": 0
                 },
                 {
-                  "title": "台股大漲千點 外資卻賣5億元 三大法人共買超148.32億元 - 經濟日報",
+                  "title": "台股7月開門紅！台積電大漲逾3% 大盤續飆逾千點重返47K - 經濟日報",
                   "source": "Google News 台股",
                   "published": "Sat, 04 Jul 2026 09:00:00 GMT",
-                  "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBZQlpqSk4wRHJYZEhMU0hxQ3ZkVXdic2VBaWdFYkJpNm5IbGlmak1KMkN4ZkJOdDlOTW12RE9tOFQ3X2hsZUc3RGRYZmFyNzZMVV9pNUlQb0RmQdIBX0FVX3lxTE8tZ0QxZ1h6Nnp6REFERmMySERmamstQThWYnZManFXTVp6dEVLQjJCaVRQMUc4ak1EQ1ZWaERZQmpCOUxIdzBIYnhwVHJpdDJZOG1jTFFFVDlqM0s1ZjRJ?oc=5",
-                  "matched_terms": [],
-                  "topics": [
-                    "taiwan_market"
-                  ],
-                  "direction": "supportive",
-                  "score": 1
-                },
-                {
-                  "title": "台股勁揚893點站穩47,000點 台積電尾盤拉一把重回2,500元 - 經濟日報",
-                  "source": "Google News 台股",
-                  "published": "Sat, 04 Jul 2026 09:00:00 GMT",
-                  "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1WMW9QVWFVR2xBWkJMOWNXTTJNQWFRVDNZSlNvajQ2aUZEd3lSQXJJaTgwNGREWEJsNkRTdm9aQmFJdW05dXU0aHB6SmZlOTUzVHVBRFpHaGo5UdIBX0FVX3lxTFBLcWEtWDFfS0plNWdNUWxfeUVUbkhVRThkNm1hTUhBcmYxOGRsVjJYY3hsMHNhbGpoRTQxVmhzYzdqVlcxVFFvcmlSLTJ4bjRDOU9RalJkNUtaVlFRa2g0?oc=5",
+                  "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBZenlHNTUwa3RUZDRMSVN3Yk1Hc3hQRjM1aE0zVjZjM2M4UlhtcnpYa0xJSGhDTmtGeTNnQktuS0hITFU0enY2T1ZJSXlRZWR6TWI4dnN1OTlwZ9IBX0FVX3lxTFB2WnpsUTliM3FYa084RGdzMXJacjJ3SDQxS3p1ODQxVFlTZ2QwOVYySkJFaVZtTkk0bUhmOVRYNk90cFpVclVkWDFjMngyWGtOZ3QxVkZHZlFkczZNQlI0?oc=5",
                   "matched_terms": [],
                   "topics": [
                     "taiwan_market",
@@ -5568,18 +5556,30 @@
                   ],
                   "direction": "neutral",
                   "score": 0
+                },
+                {
+                  "title": "外資回頭買台股！台股重回4萬7千點 三大法人買超529億元 - 經濟日報",
+                  "source": "Google News 台股",
+                  "published": "Sat, 04 Jul 2026 09:00:00 GMT",
+                  "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1jTTZoY294ejF1ZjFxSzNPSXFXQjJKMFJlV2pfUHBnWElIdUJ6TTJVeC0waWdmeXZwbWhEZmlVSmNDdHlUakVSc3dlVmVtVktmOUdCYVg1UWo1UdIBX0FVX3lxTE12VXEzVVlvaWVWNXFfVnc0WktXNlk0VGdwWkZoVndILWowdDdDX0NJZU14dngyZHJobnVmNU8tdW9pS282SmJYa3pwT1JDNGdPME45Zy1sclB6bTlNUG4w?oc=5",
+                  "matched_terms": [],
+                  "topics": [
+                    "taiwan_market"
+                  ],
+                  "direction": "supportive",
+                  "score": 1
                 }
               ]
             },
             {
               "symbol": "2330.TW",
-              "event_count": 65,
+              "event_count": 64,
               "score": 4,
               "bias": "事件偏多",
               "top_topics": [
                 {
                   "topic": "ai_semiconductor",
-                  "count": 65
+                  "count": 64
                 },
                 {
                   "topic": "earnings_business",
@@ -5644,10 +5644,10 @@
                   "score": 0
                 },
                 {
-                  "title": "發錢不手軟公司揭曉！基層員工薪資聯發科446萬元奪冠、祥碩超車台積電 - 經濟日報",
+                  "title": "台股7月開門紅！台積電大漲逾3% 大盤續飆逾千點重返47K - 經濟日報",
                   "source": "Google News 台股",
                   "published": "Sat, 04 Jul 2026 09:00:00 GMT",
-                  "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBXTUtUQy15bUl6TFJqQkc2Ty1NZG11dkJCYXczRGNheUthWjJORzk2WFhYXzl0Vjk0WXIxNC1IMVFFTFFUSUFESE9fQXhjQXpjMGNKRVJxRjhMUdIBX0FVX3lxTE5WV1ltWWY5WXBoOXMwZFBxNlVDYmxlTEdQTklFc244SmEza1h6Nnk1Z0VPN0c5OVh2RmZaSXhaemhfcy14a0pqMWpsUktoSm1nWndBVzdibk1NS0c0QklB?oc=5",
+                  "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBZenlHNTUwa3RUZDRMSVN3Yk1Hc3hQRjM1aE0zVjZjM2M4UlhtcnpYa0xJSGhDTmtGeTNnQktuS0hITFU0enY2T1ZJSXlRZWR6TWI4dnN1OTlwZ9IBX0FVX3lxTFB2WnpsUTliM3FYa084RGdzMXJacjJ3SDQxS3p1ODQxVFlTZ2QwOVYySkJFaVZtTkk0bUhmOVRYNk90cFpVclVkWDFjMngyWGtOZ3QxVkZHZlFkczZNQlI0?oc=5",
                   "matched_terms": [
                     "台積電"
                   ],
@@ -6046,64 +6046,6 @@
                   "score": 0
                 }
               ]
-            },
-            {
-              "symbol": "3037.TW",
-              "event_count": 1,
-              "score": 0,
-              "bias": "事件中性",
-              "top_topics": [
-                {
-                  "topic": "ai_semiconductor",
-                  "count": 1
-                }
-              ],
-              "events": [
-                {
-                  "title": "台股Q3漲價潮主角不是台積電！國巨(2327)、華新科(2492)、欣興(3037)、南電(8046)...4大飆股全解析：這2檔「還能旺4年」 - 今周刊",
-                  "source": "Google News 台股",
-                  "published": "Thu, 02 Jul 2026 07:00:00 GMT",
-                  "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdlJOY2tteVlSSEhIbzFvYUthVWVvVFNfRVFfUEhHSmwxQ2lpajA4ZmJiU0NncC1RM3A4WERYTTNmUUlSLTdfUGZja0lHbEUtbGVDQTliUHNGR0VKTVlUcnZvV2luTjFJR3NjRERFQmxZMWI2eFg3WElwbnBzdmc2Sg?oc=5",
-                  "matched_terms": [
-                    "3037",
-                    "欣興"
-                  ],
-                  "topics": [
-                    "ai_semiconductor"
-                  ],
-                  "direction": "neutral",
-                  "score": 0
-                }
-              ]
-            },
-            {
-              "symbol": "8046.TW",
-              "event_count": 1,
-              "score": 0,
-              "bias": "事件中性",
-              "top_topics": [
-                {
-                  "topic": "ai_semiconductor",
-                  "count": 1
-                }
-              ],
-              "events": [
-                {
-                  "title": "台股Q3漲價潮主角不是台積電！國巨(2327)、華新科(2492)、欣興(3037)、南電(8046)...4大飆股全解析：這2檔「還能旺4年」 - 今周刊",
-                  "source": "Google News 台股",
-                  "published": "Thu, 02 Jul 2026 07:00:00 GMT",
-                  "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdlJOY2tteVlSSEhIbzFvYUthVWVvVFNfRVFfUEhHSmwxQ2lpajA4ZmJiU0NncC1RM3A4WERYTTNmUUlSLTdfUGZja0lHbEUtbGVDQTliUHNGR0VKTVlUcnZvV2luTjFJR3NjRERFQmxZMWI2eFg3WElwbnBzdmc2Sg?oc=5",
-                  "matched_terms": [
-                    "8046",
-                    "南電"
-                  ],
-                  "topics": [
-                    "ai_semiconductor"
-                  ],
-                  "direction": "neutral",
-                  "score": 0
-                }
-              ]
             }
           ],
           "top_event_supported": [
@@ -6145,13 +6087,13 @@
           "symbols": [
             {
               "symbol": "QQQ",
-              "event_count": 54,
+              "event_count": 53,
               "score": 5,
               "bias": "事件偏多",
               "top_topics": [
                 {
                   "topic": "ai_semiconductor",
-                  "count": 44
+                  "count": 43
                 },
                 {
                   "topic": "earnings_business",
@@ -6227,13 +6169,13 @@
             },
             {
               "symbol": "VOO",
-              "event_count": 53,
+              "event_count": 52,
               "score": 5,
               "bias": "事件偏多",
               "top_topics": [
                 {
                   "topic": "ai_semiconductor",
-                  "count": 44
+                  "count": 43
                 },
                 {
                   "topic": "earnings_business",
@@ -6309,13 +6251,13 @@
             },
             {
               "symbol": "VT",
-              "event_count": 52,
+              "event_count": 51,
               "score": 5,
               "bias": "事件偏多",
               "top_topics": [
                 {
                   "topic": "ai_semiconductor",
-                  "count": 44
+                  "count": 43
                 },
                 {
                   "topic": "earnings_business",
@@ -6391,13 +6333,13 @@
             },
             {
               "symbol": "SOXX",
-              "event_count": 96,
+              "event_count": 95,
               "score": 1,
               "bias": "事件中性",
               "top_topics": [
                 {
                   "topic": "ai_semiconductor",
-                  "count": 96
+                  "count": 95
                 },
                 {
                   "topic": "earnings_business",
@@ -6458,10 +6400,10 @@
                   "score": 0
                 },
                 {
-                  "title": "發錢不手軟公司揭曉！基層員工薪資聯發科446萬元奪冠、祥碩超車台積電 - 經濟日報",
+                  "title": "台股7月開門紅！台積電大漲逾3% 大盤續飆逾千點重返47K - 經濟日報",
                   "source": "Google News 台股",
                   "published": "Sat, 04 Jul 2026 09:00:00 GMT",
-                  "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBXTUtUQy15bUl6TFJqQkc2Ty1NZG11dkJCYXczRGNheUthWjJORzk2WFhYXzl0Vjk0WXIxNC1IMVFFTFFUSUFESE9fQXhjQXpjMGNKRVJxRjhMUdIBX0FVX3lxTE5WV1ltWWY5WXBoOXMwZFBxNlVDYmxlTEdQTklFc244SmEza1h6Nnk1Z0VPN0c5OVh2RmZaSXhaemhfcy14a0pqMWpsUktoSm1nWndBVzdibk1NS0c0QklB?oc=5",
+                  "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBZenlHNTUwa3RUZDRMSVN3Yk1Hc3hQRjM1aE0zVjZjM2M4UlhtcnpYa0xJSGhDTmtGeTNnQktuS0hITFU0enY2T1ZJSXlRZWR6TWI4dnN1OTlwZ9IBX0FVX3lxTFB2WnpsUTliM3FYa084RGdzMXJacjJ3SDQxS3p1ODQxVFlTZ2QwOVYySkJFaVZtTkk0bUhmOVRYNk90cFpVclVkWDFjMngyWGtOZ3QxVkZHZlFkczZNQlI0?oc=5",
                   "matched_terms": [],
                   "topics": [
                     "ai_semiconductor"
@@ -6972,19 +6914,19 @@
               "symbol": "QQQ",
               "score": 5,
               "bias": "事件偏多",
-              "event_count": 54
+              "event_count": 53
             },
             {
               "symbol": "VOO",
               "score": 5,
               "bias": "事件偏多",
-              "event_count": 53
+              "event_count": 52
             },
             {
               "symbol": "VT",
               "score": 5,
               "bias": "事件偏多",
-              "event_count": 52
+              "event_count": 51
             }
           ],
           "top_event_risk": [
@@ -7044,7 +6986,7 @@
         }
       ],
       "market_proxy": {
-        "generated_at": "2026-07-05T16:25:49",
+        "generated_at": "2026-07-05T16:29:12",
         "values": [
           {
             "date": "2026-07-03",
