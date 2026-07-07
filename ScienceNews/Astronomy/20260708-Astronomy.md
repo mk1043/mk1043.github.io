@@ -12,7 +12,7 @@
 - Keep the Hubble and James Webb Space Telescopes alive — the science is worth the price tag
 - ESA’s Euclid captures the Milky Way’s crowded heart
 - Webb studies how a planet survived the death of its star
-- South Pole Telescope analysis releases new catalog of more than 7,000 galaxy clusters
+- XMM-Newton helps revise distance to outer spiral arms
 
 ## 內容
 
@@ -20,7 +20,7 @@
 
 ### 核心脈絡
 
-從ESA、Nature、Phys.org的報導來看，恆星與星系的進展通常不是靠單一突破完成，而是由觀測、實驗、模型與長期資料累積交互推動。因此，判讀今日新聞時，重點不只在於哪一項結果最吸睛，也在於它是否能補上既有理論或應用中的缺口。
+從ESA、Nature的報導來看，恆星與星系的進展通常不是靠單一突破完成，而是由觀測、實驗、模型與長期資料累積交互推動。因此，判讀今日新聞時，重點不只在於哪一項結果最吸睛，也在於它是否能補上既有理論或應用中的缺口。
 
 ### 關鍵進展
 
@@ -44,4 +44,4 @@
 - [Keep the Hubble and James Webb Space Telescopes alive — the science is worth the price tag](https://www.nature.com/articles/d41586-026-02095-2)
 - [ESA’s Euclid captures the Milky Way’s crowded heart](https://www.esa.int/ESA_Multimedia/Videos/2026/06/ESA_s_Euclid_captures_the_Milky_Way_s_crowded_heart)
 - [Webb studies how a planet survived the death of its star](https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_studies_how_a_planet_survived_the_death_of_its_star)
-- [South Pole Telescope analysis releases new catalog of more than 7,000 galaxy clusters](https://phys.org/news/2026-07-south-pole-telescope-analysis-galaxy.html)
+- [XMM-Newton helps revise distance to outer spiral arms](https://www.esa.int/Science_Exploration/Space_Science/XMM-Newton/XMM-Newton_helps_revise_distance_to_outer_spiral_arms)

@@ -28,7 +28,6 @@
 
 今日子題：環境化學
 
-- [Sunlight-powered chemistry reduces hazardous oxidant risk](https://phys.org/news/2026-07-sunlight-powered-chemistry-hazardous-oxidant.html) - Phys.org
 - [Scientists reveal what really happens when water is trapped in tiny spaces](https://www.sciencedaily.com/releases/2026/06/260626124706.htm) - ScienceDaily
 - [Author Correction: Synthesis of enantioenriched atropisomers by biocatalytic deracemization](https://www.nature.com/articles/s41586-026-10854-4) - Nature
 

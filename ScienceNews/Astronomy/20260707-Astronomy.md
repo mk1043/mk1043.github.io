@@ -2,46 +2,46 @@
 
 更新日期：2026-07-07
 
-## 今日子題
-
-太陽系與行星科學
-
 ## 今日重點
 
-- Artemis II Crew and Apollo 14 Moon Tree
-- Webb sniffs methane from interstellar Comet 3I/ATLAS
-- NASA Webb Uncovers Unusual Galaxy Shaped by Cosmic Collision
-- NASA’s CAPSTONE Completes Extended Mission Testing Lunar Technologies
-- NASA’s Hubble Spies Stellar Sparkler for July 4th
+1. 太空望遠鏡用「紅外線視力」穿透塵埃，看見被遮住的星系核心與恆星分布。  
+2. 月球探測正從「一次性任務」走向「可長期運作的系統」，自主導航與通訊成關鍵。  
+3. 彗星與星團像是「宇宙樣本庫」：一個保存早期太陽系材料，一個保存銀河系早期恆星。  
+4. 從「月球樹」到月球軌道技術驗證，人類探索不只靠火箭，也靠生物、資料與工程的接力。
 
 ## 內容
 
-今天的「太陽系與行星科學」新聞呈現出幾個共同線索：行星環境、月球與火星探索，以及小天體研究。這些研究或觀測不只是單一事件，而是共同指向一個趨勢：科學家正透過更細緻的資料、更精密的儀器與更跨領域的方法，重新理解自然現象背後的機制。
+如果把太空探索想成一場長跑，早期更像衝刺：把探測器送到目的地、拍照、量測、回傳，任務結束就告一段落。但近年的趨勢明顯轉變——我們開始打造能「持續運作」的太空基礎設施：更穩定的月球軌道、更聰明的航行方式、更能看穿塵埃的望遠鏡，以及能把探索記憶延續到地球日常的象徵物。
 
-### 核心脈絡
+這五則消息表面上分散：有阿提米絲二號（Artemis II）太空人參與「阿波羅14號月球樹」紀念、有韋伯（JWST）觀測星系半人馬座A（Centaurus A）、也有韋伯用中紅外線「聞」到星際彗星 3I/ATLAS 的甲烷，外加 CAPSTONE 在月球特殊軌道完成延伸測試、哈伯拍下像煙火般的古老球狀星團 NGC 6426。其實它們共同指向同一個更大的科學問題：**我們要如何在充滿遮蔽（塵埃）、距離遙遠、通訊延遲又資源有限的環境中，可靠地取得資訊、解讀資訊，並把探索變成可累積的能力？**
 
-從ESA、NASA的報導來看，太陽系與行星科學的進展通常不是靠單一突破完成，而是由觀測、實驗、模型與長期資料累積交互推動。因此，判讀今日新聞時，重點不只在於哪一項結果最吸睛，也在於它是否能補上既有理論或應用中的缺口。
+先看「看見」：韋伯的強項是近紅外與中紅外觀測（你可以把它想成更擅長看「熱與塵後面」的相機）。半人馬座A是一個距離約1100萬光年的活躍星系，外觀在可見光下常被厚厚塵帶切割、遮住核心。但韋伯能穿透塵埃，讓我們更清楚看到核心附近的恆星與結構，並追查星系過去可能經歷過的碰撞與併合。這不只是「照片更漂亮」，而是幫助我們理解：星系如何在重力拉扯、碰撞合併、黑洞活動與恆星誕生之間演化。
 
-### 關鍵進展
+再把視線拉回「太陽系附近」：星際彗星 3I/ATLAS 來自太陽系之外，是少數被確認的「外來訪客」。韋伯用 MIRI（中紅外儀器）在多個波段成像與量測，偵測到甲烷等揮發性分子訊號。甲烷在彗星中的存在與比例，能提示它在原母恆星系統形成時的溫度與化學環境。簡單說，這顆彗星像是別人家廚房留下的一小包香料：即使我們沒去過那個廚房，也能從成分推測它原本的「料理環境」。
 
-最突出的線索來自「Artemis II Crew and Apollo 14 Moon Tree」。In this photograph, the Artemis II crew participates in the dedication of the Apollo 14 Moon tree at the Lunar Receiving Park at NASA&#8217;s Johnson Space Center on June 25, 2026.這類成果的價值，在於它為今日主題提供了一個可以被後續研究檢驗的切入點。與此同時，「Webb sniffs methane from interstellar Comet 3I/ATLAS」、「NASA Webb Uncovers Unusual Galaxy Shaped by Cosmic Collision」、「NASA’s CAPSTONE Completes Extended Mission Testing Lunar Technologies」也從不同角度補充了同一個問題：有些文章提供觀測資料，有些凸顯實驗或模型方法，另一些則指出可能的應用與風險。把這些線索放在一起看，比單獨閱讀任何一篇新聞更能看出研究方向的變化。
+而要把人與設備長期送到月球、甚至當作深空任務的跳板，單靠地球即時指揮是不夠的。CAPSTONE 的任務亮點之一，是驗證一種「三體軌道」概念：利用地球與月球的重力共同作用，讓太空器在近直線暈軌道（常見縮寫 NRHO）附近運行，能用較少燃料維持軌道。更重要的是，它延伸測試了自主導航與通訊網路等技術：未來月球周邊若有多個太空器與基地，就需要像「月球版網路」那樣彼此轉傳、定位、協同，而不是每件事都回地球問答案。
 
-### 值得觀察
+在更「古老的時間尺度」上，哈伯拍到的 NGC 6426 是球狀星團——一群被重力綁在一起、年齡很古老的恆星集合。它大約130億年，接近宇宙年齡（約137億年）的早期階段。研究這些老星，就像翻閱銀河系的早期史料：恆星的顏色與亮度分布，能反映其年齡與化學元素含量，進而推估銀河在早期如何累積物質、如何形成第一批恆星族群。
 
-其中最值得後續追蹤的是「NASA Webb Uncovers Unusual Galaxy Shaped by Cosmic Collision」。它的意義不只在於單篇新聞本身，而在於後續是否會被更多觀測、實驗或同儕研究驗證。如果相關證據持續累積，這類成果就可能從新聞事件變成推動領域前進的穩定知識。
+最後，「月球樹」把探索拉回人類文化與記憶。阿波羅14號太空人羅薩（Stuart Roosa）曾把樹種子帶上月球再帶回地球，後來發芽成樹並在各地種植；如今出現第二代月球樹，並由 Artemis II 團隊參與紀念。這不是說「去過月球就會變特別樹種」，而是提醒我們：太空任務的價值不只在科學數據，也在跨機構合作、教育與公共記憶的延續——探索需要長期的社會支持，而象徵能把抽象的任務變成具體、可被看見的故事。
 
 ## 科學背景
 
-本篇聚焦「太陽系與行星科學」，整理今日相關新聞中的關鍵科學脈絡。
+- **紅外線觀測**：塵埃會強烈散射與吸收可見光，但對較長波長的紅外線比較「透明」。因此韋伯能在塵帶後面看見恆星與暖塵結構，補足可見光望遠鏡的盲點。  
+- **彗星的揮發物**：甲烷、二氧化碳等分子在低溫環境容易保存。偵測到哪些分子、比例如何，能用來推測天體形成區域的溫度與化學條件。  
+- **三體動力學與月球軌道**：地球—月球系統不是單純兩體問題。善用重力平衡與軌道設計，可降低燃料消耗，讓長期任務更可行。  
+- **球狀星團**：多為老年恆星，化學元素較少（「金屬量」低），是研究早期宇宙與銀河形成的重要天然實驗室。  
+- **月球樹的意義**：種子上月球並不會神奇改變基因，但它把「太空飛行的歷史事件」具象化，成為跨世代的教育媒介。
 
 ## 為什麼重要
 
-這篇精華文章選取 5 篇與「太陽系與行星科學」最相關且分數較高的文章，目標是把分散的新聞整理成可理解的科學脈絡。對一般讀者而言，這能幫助快速掌握今日重要進展；對長期追蹤者而言，則能看出哪些問題正在形成新的研究焦點。
+這些成果共同描繪出下一階段太空科學的樣貌：**用更好的眼睛（韋伯、哈伯）取得更乾淨的訊號，用更聰明的交通與網路（CAPSTONE 等）讓月球附近成為可持續運作的環境，並用可被社會理解的故事（如月球樹）維持長期投入。**  
+對高中生來說，這也提示一件事：太空科學不是單一學科的勝利，而是物理（軌道與光）、化學（分子光譜）、資訊與工程（通訊與自主導航）、甚至社會溝通一起推動的長程計畫。當我們能在更遠、更暗、更混亂的宇宙環境中穩定「看見並理解」，人類探索的邊界才會真正被推開。
 
 ## 參考來源
 
-- [Artemis II Crew and Apollo 14 Moon Tree](https://www.nasa.gov/image-article/artemis-ii-crew-and-apollo-14-moon-tree/)
-- [Webb sniffs methane from interstellar Comet 3I/ATLAS](https://www.esa.int/ESA_Multimedia/Images/2026/06/Webb_sniffs_methane_from_interstellar_Comet_3I_ATLAS)
-- [NASA Webb Uncovers Unusual Galaxy Shaped by Cosmic Collision](https://science.nasa.gov/missions/webb/nasa-webb-uncovers-unusual-galaxy-shaped-by-cosmic-collision/)
-- [NASA’s CAPSTONE Completes Extended Mission Testing Lunar Technologies](https://www.nasa.gov/technology/space-comms/nasas-capstone-completes-extended-mission-testing-lunar-technologies/)
-- [NASA’s Hubble Spies Stellar Sparkler for July 4th](https://science.nasa.gov/missions/hubble/nasas-hubble-spies-stellar-sparkler-for-july-4th/)
+- Artemis II Crew and Apollo 14 Moon Tree — https://www.nasa.gov/image-article/artemis-ii-crew-and-apollo-14-moon-tree/  
+- Webb sniffs methane from interstellar Comet 3I/ATLAS — https://www.esa.int/ESA_Multimedia/Images/2026/06/Webb_sniffs_methane_from_interstellar_Comet_3I_ATLAS  
+- NASA Webb Uncovers Unusual Galaxy Shaped by Cosmic Collision — https://science.nasa.gov/missions/webb/nasa-webb-uncovers-unusual-galaxy-shaped-by-cosmic-collision/  
+- NASA’s CAPSTONE Completes Extended Mission Testing Lunar Technologies — https://www.nasa.gov/technology/space-comms/nasas-capstone-completes-extended-mission-testing-lunar-technologies/  
+- NASA’s Hubble Spies Stellar Sparkler for July 4th — https://science.nasa.gov/missions/hubble/nasas-hubble-spies-stellar-sparkler-for-july-4th/
