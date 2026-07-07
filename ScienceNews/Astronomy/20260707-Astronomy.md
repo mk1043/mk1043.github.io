@@ -24,43 +24,11 @@
 
 ### 關鍵進展
 
-- Artemis II Crew and Apollo 14 Moon Tree：In this photograph, the Artemis II crew participates in the dedication of the Apollo 14 Moon tree at the Lunar Receiving Park at NASA&#8217;s Johnson Space Center on June 25, 2026.
-- Webb sniffs methane from interstellar Comet 3I/ATLAS：Image: Webb's MIRI image of the interstellar Comet 3I/ATLAS in three different light wavelengths
-- NASA Webb Uncovers Unusual Galaxy Shaped by Cosmic Collision：In new images from NASA’s James Webb Space Telescope to celebrate its fourth science anniversary, a familiar galaxy transforms into something far richer, and far more complex, than ever seen before.
-- NASA’s CAPSTONE Completes Extended Mission Testing Lunar Technologies：As NASA prepares for a sustained human presence on the Moon, missions will increasingly require spacecraft that can navigate and communicate without a direct connection to Earth.
-- NASA’s Hubble Spies Stellar Sparkler for July 4th：Red, white, and blue stars glitter like a sparkler being waved on a dark night in this new image from NASA’s Hubble Space Telescope.
+最突出的線索來自「Artemis II Crew and Apollo 14 Moon Tree」。In this photograph, the Artemis II crew participates in the dedication of the Apollo 14 Moon tree at the Lunar Receiving Park at NASA&#8217;s Johnson Space Center on June 25, 2026.這類成果的價值，在於它為今日主題提供了一個可以被後續研究檢驗的切入點。與此同時，「Webb sniffs methane from interstellar Comet 3I/ATLAS」、「NASA Webb Uncovers Unusual Galaxy Shaped by Cosmic Collision」、「NASA’s CAPSTONE Completes Extended Mission Testing Lunar Technologies」也從不同角度補充了同一個問題：有些文章提供觀測資料，有些凸顯實驗或模型方法，另一些則指出可能的應用與風險。把這些線索放在一起看，比單獨閱讀任何一篇新聞更能看出研究方向的變化。
 
 ### 值得觀察
 
 其中最值得後續追蹤的是「NASA Webb Uncovers Unusual Galaxy Shaped by Cosmic Collision」。它的意義不只在於單篇新聞本身，而在於後續是否會被更多觀測、實驗或同儕研究驗證。如果相關證據持續累積，這類成果就可能從新聞事件變成推動領域前進的穩定知識。
-
-### 今日採用的五篇文章
-
-1. [Artemis II Crew and Apollo 14 Moon Tree](https://www.nasa.gov/image-article/artemis-ii-crew-and-apollo-14-moon-tree/)
-   - 來源：NASA
-   - 日期：2026-07-07
-   - 子類別：SolarSystemAndPlanetaryScience
-   - 重要性分數：3.52
-2. [Webb sniffs methane from interstellar Comet 3I/ATLAS](https://www.esa.int/ESA_Multimedia/Images/2026/06/Webb_sniffs_methane_from_interstellar_Comet_3I_ATLAS)
-   - 來源：ESA
-   - 日期：2026-06-01
-   - 子類別：SolarSystemAndPlanetaryScience
-   - 重要性分數：2.58
-3. [NASA Webb Uncovers Unusual Galaxy Shaped by Cosmic Collision](https://science.nasa.gov/missions/webb/nasa-webb-uncovers-unusual-galaxy-shaped-by-cosmic-collision/)
-   - 來源：NASA
-   - 日期：2026-07-06
-   - 子類別：SpaceMissionsAndTelescopes
-   - 重要性分數：5.6
-4. [NASA’s CAPSTONE Completes Extended Mission Testing Lunar Technologies](https://www.nasa.gov/technology/space-comms/nasas-capstone-completes-extended-mission-testing-lunar-technologies/)
-   - 來源：NASA
-   - 日期：2026-07-06
-   - 子類別：SpaceMissionsAndTelescopes
-   - 重要性分數：4.8
-5. [NASA’s Hubble Spies Stellar Sparkler for July 4th](https://science.nasa.gov/missions/hubble/nasas-hubble-spies-stellar-sparkler-for-july-4th/)
-   - 來源：NASA
-   - 日期：2026-07-04
-   - 子類別：SpaceMissionsAndTelescopes
-   - 重要性分數：4.8
 
 ## 科學背景
 

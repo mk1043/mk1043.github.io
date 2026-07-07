@@ -11,8 +11,8 @@
 - Streetlights are trapping thousands of pill bugs in giant “death spirals”
 - Examining Algal Blooms in Blue Mesa
 - July 2026 Satellite Puzzler
+- Measuring iron in motion at Earth-core conditions
 - New research reveals the hidden pollution left behind by fireworks
-- Much of Earth's 'space dust' may come from unidentified near-Earth asteroids
 
 ## 內容
 
@@ -24,43 +24,11 @@
 
 ### 關鍵進展
 
-- Streetlights are trapping thousands of pill bugs in giant “death spirals”：Researchers discovered that artificial streetlights can trap thousands of woodlice in mesmerizing circular "death spirals" never before seen in the wild.
-- Examining Algal Blooms in Blue Mesa：Using satellite data, researchers connected harmful algal blooms with warm water and low water levels at one of Colorado’s largest reservoirs.
-- July 2026 Satellite Puzzler：Your challenge is to tell us the location of the satellite image and why it is interesting.
-- New research reveals the hidden pollution left behind by fireworks：Scientists have uncovered new evidence that fireworks can pollute both the air and water in ways that extend beyond the visible smoke.
-- Much of Earth's 'space dust' may come from unidentified near-Earth asteroids：Like a shelf in an old house, the Earth collects a lot of dust from its surroundings.
+最突出的線索來自「Streetlights are trapping thousands of pill bugs in giant “death spirals”」。Researchers discovered that artificial streetlights can trap thousands of woodlice in mesmerizing circular "death spirals" never before seen in the wild.這類成果的價值，在於它為今日主題提供了一個可以被後續研究檢驗的切入點。與此同時，「Examining Algal Blooms in Blue Mesa」、「July 2026 Satellite Puzzler」、「Measuring iron in motion at Earth-core conditions」也從不同角度補充了同一個問題：有些文章提供觀測資料，有些凸顯實驗或模型方法，另一些則指出可能的應用與風險。把這些線索放在一起看，比單獨閱讀任何一篇新聞更能看出研究方向的變化。
 
 ### 值得觀察
 
 其中最值得後續追蹤的是「Examining Algal Blooms in Blue Mesa」。它的意義不只在於單篇新聞本身，而在於後續是否會被更多觀測、實驗或同儕研究驗證。如果相關證據持續累積，這類成果就可能從新聞事件變成推動領域前進的穩定知識。
-
-### 今日採用的五篇文章
-
-1. [Streetlights are trapping thousands of pill bugs in giant “death spirals”](https://www.sciencedaily.com/releases/2026/06/260626125707.htm)
-   - 來源：ScienceDaily
-   - 日期：2026-07-06
-   - 子類別：EnvironmentAndEcosystems
-   - 重要性分數：2.647
-2. [Examining Algal Blooms in Blue Mesa](https://science.nasa.gov/earth/earth-observatory/examining-algal-blooms-in-blue-mesa/)
-   - 來源：NASA
-   - 日期：2026-07-06
-   - 子類別：Geology
-   - 重要性分數：4.8
-3. [July 2026 Satellite Puzzler](https://science.nasa.gov/earth/earth-observatory/july-2026-satellite-puzzler/)
-   - 來源：NASA
-   - 日期：2026-07-07
-   - 子類別：AtmosphericScience
-   - 重要性分數：4.4
-4. [New research reveals the hidden pollution left behind by fireworks](https://www.sciencedaily.com/releases/2026/07/260701205009.htm)
-   - 來源：ScienceDaily
-   - 日期：2026-07-03
-   - 子類別：AtmosphericScience
-   - 重要性分數：3.058
-5. [Much of Earth's 'space dust' may come from unidentified near-Earth asteroids](https://phys.org/news/2026-07-earth-space-unidentified-asteroids.html)
-   - 來源：Phys.org
-   - 日期：2026-07-07
-   - 子類別：AtmosphericScience
-   - 重要性分數：2.892
 
 ## 科學背景
 
@@ -75,5 +43,5 @@
 - [Streetlights are trapping thousands of pill bugs in giant “death spirals”](https://www.sciencedaily.com/releases/2026/06/260626125707.htm)
 - [Examining Algal Blooms in Blue Mesa](https://science.nasa.gov/earth/earth-observatory/examining-algal-blooms-in-blue-mesa/)
 - [July 2026 Satellite Puzzler](https://science.nasa.gov/earth/earth-observatory/july-2026-satellite-puzzler/)
+- [Measuring iron in motion at Earth-core conditions](https://phys.org/news/2026-07-iron-motion-earth-core-conditions.html)
 - [New research reveals the hidden pollution left behind by fireworks](https://www.sciencedaily.com/releases/2026/07/260701205009.htm)
-- [Much of Earth's 'space dust' may come from unidentified near-Earth asteroids](https://phys.org/news/2026-07-earth-space-unidentified-asteroids.html)

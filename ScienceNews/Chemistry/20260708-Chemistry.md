@@ -22,31 +22,11 @@
 
 ### 關鍵進展
 
-- Author Correction: Synthesis of enantioenriched atropisomers by biocatalytic deracemization：Nature, Published online: 02 July 2026; doi:10.1038/s41586-026-10854-4 Author Correction: Synthesis of enantioenriched atropisomers by biocatalytic deracemization
-- Sunlight-powered chemistry reduces hazardous oxidant risk：Researchers at the University of Osaka developed a light-driven method for synthesizing Davis reagents that generates the hazardous oxidant mCPBA only on demand and consumes it immediately.
-- Scientists reveal what really happens when water is trapped in tiny spaces：A decades-old puzzle about water has finally been unraveled.
+最突出的線索來自「Author Correction: Synthesis of enantioenriched atropisomers by biocatalytic deracemization」。Nature, Published online: 02 July 2026; doi:10.1038/s41586-026-10854-4 Author Correction: Synthesis of enantioenriched atropisomers by biocatalytic deracemization這類成果的價值，在於它為今日主題提供了一個可以被後續研究檢驗的切入點。與此同時，「Sunlight-powered chemistry reduces hazardous oxidant risk」、「Scientists reveal what really happens when water is trapped in tiny spaces」也從不同角度補充了同一個問題：有些文章提供觀測資料，有些凸顯實驗或模型方法，另一些則指出可能的應用與風險。把這些線索放在一起看，比單獨閱讀任何一篇新聞更能看出研究方向的變化。
 
 ### 值得觀察
 
 其中最值得後續追蹤的是「Author Correction: Synthesis of enantioenriched atropisomers by biocatalytic deracemization」。它的意義不只在於單篇新聞本身，而在於後續是否會被更多觀測、實驗或同儕研究驗證。如果相關證據持續累積，這類成果就可能從新聞事件變成推動領域前進的穩定知識。
-
-### 今日採用的五篇文章
-
-1. [Author Correction: Synthesis of enantioenriched atropisomers by biocatalytic deracemization](https://www.nature.com/articles/s41586-026-10854-4)
-   - 來源：Nature
-   - 日期：2026-07-02
-   - 子類別：OrganicChemistryAndSynthesis
-   - 重要性分數：3.635
-2. [Sunlight-powered chemistry reduces hazardous oxidant risk](https://phys.org/news/2026-07-sunlight-powered-chemistry-hazardous-oxidant.html)
-   - 來源：Phys.org
-   - 日期：2026-07-07
-   - 子類別：EnvironmentalChemistry
-   - 重要性分數：2.837
-3. [Scientists reveal what really happens when water is trapped in tiny spaces](https://www.sciencedaily.com/releases/2026/06/260626124706.htm)
-   - 來源：ScienceDaily
-   - 日期：2026-07-01
-   - 子類別：EnvironmentalChemistry
-   - 重要性分數：2.704
 
 ## 科學背景
 

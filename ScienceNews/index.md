@@ -49,5 +49,5 @@
 - [Streetlights are trapping thousands of pill bugs in giant “death spirals”](https://www.sciencedaily.com/releases/2026/06/260626125707.htm) - ScienceDaily
 - [Examining Algal Blooms in Blue Mesa](https://science.nasa.gov/earth/earth-observatory/examining-algal-blooms-in-blue-mesa/) - NASA
 - [July 2026 Satellite Puzzler](https://science.nasa.gov/earth/earth-observatory/july-2026-satellite-puzzler/) - NASA
+- [Measuring iron in motion at Earth-core conditions](https://phys.org/news/2026-07-iron-motion-earth-core-conditions.html) - Phys.org
 - [New research reveals the hidden pollution left behind by fireworks](https://www.sciencedaily.com/releases/2026/07/260701205009.htm) - ScienceDaily
-- [Much of Earth's 'space dust' may come from unidentified near-Earth asteroids](https://phys.org/news/2026-07-earth-space-unidentified-asteroids.html) - Phys.org

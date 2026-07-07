@@ -24,43 +24,11 @@
 
 ### 關鍵進展
 
-- Thousands of planets are hidden in this photo：Video: 00:10:45 Millions of stars.
-- Keep the Hubble and James Webb Space Telescopes alive — the science is worth the price tag：Nature, Published online: 07 July 2026; doi:10.1038/d41586-026-02095-2 These collaborations are delivering scientific discoveries beyond most astronomers’ dreams.
-- ESA’s Euclid captures the Milky Way’s crowded heart：Video: 00:03:00 This is the largest high-resolution photo ever made of our Milky Way galaxy’s centre in visible light.
-- Webb studies how a planet survived the death of its star：An international team of astronomers has used the NASA/ESA/CSA James Webb Space Telescope to watch the Jupiter-sized exoplanet WD 1856 b transit its host star, measuring the planet’s mass and temperature and even detecting its atmosphere.
-- South Pole Telescope analysis releases new catalog of more than 7,000 galaxy clusters：Researchers working with data from the South Pole Telescope have released a major catalog of galaxy clusters, giving scientists a powerful new tool for studying how the universe grew and changed over billions of years.
+最突出的線索來自「Thousands of planets are hidden in this photo」。Video: 00:10:45 Millions of stars.這類成果的價值，在於它為今日主題提供了一個可以被後續研究檢驗的切入點。與此同時，「Keep the Hubble and James Webb Space Telescopes alive — the science is worth the price tag」、「ESA’s Euclid captures the Milky Way’s crowded heart」、「Webb studies how a planet survived the death of its star」也從不同角度補充了同一個問題：有些文章提供觀測資料，有些凸顯實驗或模型方法，另一些則指出可能的應用與風險。把這些線索放在一起看，比單獨閱讀任何一篇新聞更能看出研究方向的變化。
 
 ### 值得觀察
 
 其中最值得後續追蹤的是「Thousands of planets are hidden in this photo」。它的意義不只在於單篇新聞本身，而在於後續是否會被更多觀測、實驗或同儕研究驗證。如果相關證據持續累積，這類成果就可能從新聞事件變成推動領域前進的穩定知識。
-
-### 今日採用的五篇文章
-
-1. [Thousands of planets are hidden in this photo](https://www.esa.int/ESA_Multimedia/Videos/2026/06/Thousands_of_planets_are_hidden_in_this_photo)
-   - 來源：ESA
-   - 日期：2026-07-01
-   - 子類別：StarsAndGalaxies
-   - 重要性分數：3.647
-2. [Keep the Hubble and James Webb Space Telescopes alive — the science is worth the price tag](https://www.nature.com/articles/d41586-026-02095-2)
-   - 來源：Nature
-   - 日期：2026-07-07
-   - 子類別：StarsAndGalaxies
-   - 重要性分數：3.635
-3. [ESA’s Euclid captures the Milky Way’s crowded heart](https://www.esa.int/ESA_Multimedia/Videos/2026/06/ESA_s_Euclid_captures_the_Milky_Way_s_crowded_heart)
-   - 來源：ESA
-   - 日期：2026-06-24
-   - 子類別：StarsAndGalaxies
-   - 重要性分數：3.5
-4. [Webb studies how a planet survived the death of its star](https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_studies_how_a_planet_survived_the_death_of_its_star)
-   - 來源：ESA
-   - 日期：2026-07-01
-   - 子類別：StarsAndGalaxies
-   - 重要性分數：3.345
-5. [South Pole Telescope analysis releases new catalog of more than 7,000 galaxy clusters](https://phys.org/news/2026-07-south-pole-telescope-analysis-galaxy.html)
-   - 來源：Phys.org
-   - 日期：2026-07-07
-   - 子類別：StarsAndGalaxies
-   - 重要性分數：3.029
 
 ## 科學背景
 
