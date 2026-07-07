@@ -2,59 +2,44 @@
 
 更新日期：2026-07-07
 
+## 今日子題
+
+太陽系與行星科學
+
 ## 今日重點
 
-* **跨越半世紀的綠色傳承**：Artemis II 載人任務的太空人於 2026 年 6 月親自參與了第二代「月球樹」的啟用儀式，象徵著阿波羅時代與現代阿提米絲計畫的緊密連結。
-* **阿波羅 14 號的太空種子**：回顧 1971 年，太空人 Stuart Roosa 攜帶了數百顆植物種子繞月飛行，這些種子回到地球後成功發芽，成為第一代「月球樹」。
-* **太空環境對植物的考驗**：科學家透過這些種子研究微重力與宇宙輻射對陸生植物遺傳與發育的影響，奠定了太空生物學的早期基礎。
-* **從地球到深空的生態反思**：月球樹不僅是科學實驗，更是一項活生生的文化紀念碑，提醒我們在探索未知宇宙的同時，必須守護地球的生態根基。
-
----
+- NASA Seeks Volunteers for New Yearlong Simulated Moon, Mars Mission
 
 ## 內容
 
-在美國德州休士頓的 NASA 詹森太空中心（Johnson Space Center）內，一場別具歷史意義的儀式於 2026 年 6 月 25 日溫馨展開。即將執行 Artemis II 繞月任務的太空人團隊，聚集在月球接收公園（Lunar Receiving Park），共同為一棵外表看似尋常、背後卻大有來頭的「火炬松」（loblolly pine）幼苗進行啟用與獻樹儀式。
+今天的「太陽系與行星科學」新聞呈現出幾個共同線索：行星環境、月球與火星探索，以及小天體研究。這些研究或觀測不只是單一事件，而是共同指向一個趨勢：科學家正透過更細緻的資料、更精密的儀器與更跨領域的方法，重新理解自然現象背後的機制。
 
-這棵年輕的松樹並非一般的植物，它是一棵「第二代阿波羅月球樹」（second-generation Apollo Moon tree）。它的祖先，是早在 1971 年就曾離開地球、前往月球軌道旅行的傳奇種子。
+### 核心脈絡
 
-要理解這棵樹的來歷，我們必須將時間撥回半個世紀前的阿波羅 14 號（Apollo 14）任務。當時，太空人 Stuart Roosa 隨身攜帶了一個裝有約 500 顆植物種子的金屬小罐。Roosa 在加入 NASA 成為太空人之前，曾是美國林務局（U.S. Forest Service）的「空降消防員」（smoke jumper）——這是一群專門搭乘飛機深入森林火場第一線、跳傘進行滅火的英勇先鋒。出於對森林的熱愛與對前同僚的敬意，Roosa 決定帶著這些種子一起飛向太空。
+從NASA的報導來看，太陽系與行星科學的進展通常不是靠單一突破完成，而是由觀測、實驗、模型與長期資料累積交互推動。因此，判讀今日新聞時，重點不只在於哪一項結果最吸睛，也在於它是否能補上既有理論或應用中的缺口。
 
-當他的隊友 Alan Shepard 與 Edgar Mitchell 在月球表面漫步、採集岩石樣本時，Roosa 則獨自駕駛著指令艙「小鷹號」（Kitty Hawk）在月球軌道上運行。這數百顆種子也隨之環繞了月球 34 圈。
+### 關鍵進展
 
-任務結束回到地球後，這批種子交由美國林務局進行專業的培育與催芽。儘管在檢疫過程中曾發生罐子破裂、種子混雜的意外，林務局的科學家仍成功讓大部分的種子萌芽。這些長成的幼苗被分贈給美國各地的學校、公園、政府機關，甚至作為外交禮物送往世界各地，它們被統稱為第一代「月球樹」。而如今在詹森太空中心展出的這棵火炬松，正是由當年那些第一代月球樹的種子所培育出來的「第二代」後代。
+最突出的線索來自「NASA Seeks Volunteers for New Yearlong Simulated Moon, Mars Mission」。NASA is recruiting research participants for the agency’s next simulated deep space mission.這類成果的價值，在於它為今日主題提供了一個可以被後續研究檢驗的切入點。
 
----
+### 值得觀察
+
+其中最值得後續追蹤的是「NASA Seeks Volunteers for New Yearlong Simulated Moon, Mars Mission」。它的意義不只在於單篇新聞本身，而在於後續是否會被更多觀測、實驗或同儕研究驗證。如果相關證據持續累積，這類成果就可能從新聞事件變成推動領域前進的穩定知識。
 
 ## 科學背景
 
-從現代太空生物學（Space Biology）的角度來看，當年的「月球樹」計畫是一次大膽且具前瞻性的實驗。在 1970 年代初期，科學家對於太空環境——尤其是微重力（microgravity）與高強度的宇宙輻射（cosmic radiation）——會對地球生物造成何種程度的生理與遺傳損傷，所知仍相當有限。
-
-植物種子雖然處於休眠狀態，但其內部的細胞核與 DNA 依然可能受到高能宇宙射線的轟擊。如果 DNA 鏈在太空旅行中受損，種子回到地球後可能會面臨無法發芽、生長畸形，或是產生基因突變的風險。
-
-當時 Stuart Roosa 帶上太空的種子共有五種，分別是：
-1. **火炬松**（Loblolly Pine）：美國南方常見的針葉樹，生長快速。
-2. **紅杉**（Redwood）：以高聳長壽著稱的巨大喬木。
-3. **香楓**（Sweetgum）：具有美麗掌狀葉的落葉喬木。
-4. **梧桐**（Sycamore，此處指美洲梧桐）：生長迅速且適應力強。
-5. **黃杉**（Douglas Fir）：北美重要的針葉林木。
-
-當這些種子隨阿波羅 14 號返回地球並成功發芽後，林務局將它們與一直留在地球上的「對照組」種子進行了長期的對比研究。令人驚訝的是，經過數十年的觀察，科學家發現這些「月球樹」在生長速度、外觀形態、葉綠素分布以及光合作用效率上，與一般的地球同類並沒有顯著的差異。這項結果證明了植物種子在乾燥、休眠的狀態下，對於短期的太空輻射與微重力環境具有相當強韌的耐受性。
-
----
+本篇聚焦「太陽系與行星科學」，整理今日相關新聞中的關鍵科學脈絡。
 
 ## 為什麼重要
 
-這棵第二代月球樹的啟用，不僅僅是一次科學成果的展示，更承載了深遠的文化與世代傳承意義。
-
-首先，它象徵著**「阿波羅時代」與「阿提米絲時代」的接力**。阿波羅計畫讓我們知道人類有能力踏上另一個天體；而阿提米絲計畫（Artemis program）則旨在建立長期的月球科研基地，並為未來的火星載人任務做準備。Artemis II 的太空人們在出發前往月球軌道前，與這棵象徵前輩精神的月球樹合影，正是將前人的探索精神實體化，並承諾將這份火炬傳遞下去。
-
-其次，這項活動重新喚起了大眾對**太空農業與維生系統**的關注。未來的月球或火星基地不可能完全依賴來自地球的補給，太空人必須在當地的溫室中種植作物。從阿波羅 14 號的種子實驗，到如今國際太空站（ISS）上成功種植出太空蔬菜，人類正一步步掌握在微重力環境下進行農業生產的技術。
-
-最後，月球樹提醒了我們**地球生態的珍貴**。當太空人從荒涼、寂靜的月球軌道回望地球時，最令人震撼的莫過於那顆藍色星球上生機蓬勃的綠意。將太空探索的成果帶回地球、化作一棵棵綠樹，正是提醒人類：無論我們飛得有多遠，地球永遠是我們唯一的、必須悉心守護的家園。
-
----
+這篇精華文章選取 1 篇與「太陽系與行星科學」最相關且分數較高的文章，目標是把分散的新聞整理成可理解的科學脈絡。對一般讀者而言，這能幫助快速掌握今日重要進展；對長期追蹤者而言，則能看出哪些問題正在形成新的研究焦點。
 
 ## 參考來源
 
-* **NASA**: Artemis II Crew and Apollo 14 Moon Tree  
-  https://www.nasa.gov/image-article/artemis-ii-crew-and-apollo-14-moon-tree/
+- [NASA Seeks Volunteers for New Yearlong Simulated Moon, Mars Mission](https://www.nasa.gov/humans-in-space/nasa-seeks-volunteers-for-new-yearlong-simulated-moon-mars-mission/)
+
+## 入選文章詳細內容
+
+### NASA Seeks Volunteers for New Yearlong Simulated Moon, Mars Mission
+
+A research volunteer uses augmented reality goggles to perform astronaut-like tasks during a simulated space mission. Participants selected for NASA’s first Moon and Mars Exploration Analog mission also will perform tasks in immersive, interactive environments while living inside habitats that simulate traveling to and living on the Moon and Mars. Credit: NASA NASA is recruiting research participants for the agency’s next simulated deep space mission. Beginning no earlier than August 2027, research volunteers will spend one year living and working in interplanetary environments at the agency’s Johnson Space Center in Houston, operating under isolated conditions expected during crewed missions to the Moon or Red Planet. &nbsp; Insights from this new, yearlong experience, called the Moon and Mars Exploration Analog, can be used to help keep astronauts safe and mission-ready during future planetary surface operations. The results also could inform plans for a sustained lunar presence through the agency’s Moon Base and future Artemis missions. &nbsp; NASA is looking for applicants for the approximately year-long mission simulation, which will take place in two confined habitats. In addition to specific physical and education requirements, volunteers must be willing to take part in a multi-day selection process and pass NASA’s physical and psychological assessments, found on the Moon and Mars Exploration Analog web page . Candidates also should have a strong desire for unique, rewarding experiences, and interest in contributing to NASA’s work to prepare for extended stays on the lunar surface and the first crewed mission to Mars. &nbsp; The Moon and Mars Exploration Analog evolves elements of the agency’s HERA ( Human Exploration Research Analog ) and CHAPEA ( Crew Health And Performance Exploration Analog ) missions into a single, integrated mission to streamline how researchers evaluate astronaut adaptation across the full range of potential mission scenarios. Using the HERA habitat as a spacecraft and the CHAPEA habitat as a base, the volunteers will live and work in confined, isolated environments that simulate months-long flights to and from other planetary surfaces. They also will mimic surface operations, including mock Mars walks and using a rover to travel to exploration sites located beyond the main habitat. &nbsp; Throughout the Moon and Mars Exploration Analog mission, researchers will study crew health and performance under resource limitations and mission demands. These missions also help NASA assess and validate hardware, technologies, protocols, requirements, and other systems designed to support crew health and performance on long-duration deep space missions, all without leaving Earth. The effort will provide valuable data for NASA’s Human Research Program , which innovates ways to keep astronauts healthy and mission-ready. &nbsp; To apply, visit: &nbsp; NASA Analogs Recruiting As part of the Golden Age of innovation and exploration, NASA will send astronauts on increasingly difficult missions to explore more of the Moon for scientific discovery, economic benefits, establish an enduring human&nbsp;presence on the lunar surface, and to build on the foundation for the first crewed missions to Mars. &nbsp; For more about NASA’s Human Research Program, visit: https://www.nasa.gov/hrp/ Share Details Last Updated Jul 01, 2026 Related Terms Humans in Space Human Research Program Johnson Space Center Missions
