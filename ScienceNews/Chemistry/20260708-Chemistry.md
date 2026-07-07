@@ -2,6 +2,10 @@
 
 更新日期：2026-07-08
 
+## 今日子題
+
+有機化學與合成
+
 ## 今日重點
 
 - Author Correction: Synthesis of enantioenriched atropisomers by biocatalytic deracemization
@@ -17,6 +21,8 @@ Nature, Published online: 02 July 2026; doi:10.1038/s41586-026-10854-4 Author Co
 - 來源：Nature
 - 日期：2026-07-02
 - 分類理由：Local Python classifier score 6.0.
+- 子類別：OrganicChemistryAndSynthesis
+- 子類別理由：Local subcategory classifier matched 有機化學與合成 with score 6.0.
 - 重要性分數：3.635
 - 原文：[https://www.nature.com/articles/s41586-026-10854-4](https://www.nature.com/articles/s41586-026-10854-4)
 
@@ -27,6 +33,8 @@ Researchers at the University of Osaka developed a light-driven method for synth
 - 來源：Phys.org
 - 日期：2026-07-07
 - 分類理由：Local Python classifier score 21.0.
+- 子類別：EnvironmentalChemistry
+- 子類別理由：Local subcategory classifier matched 環境化學 with score 12.0.
 - 重要性分數：2.837
 - 原文：[https://phys.org/news/2026-07-sunlight-powered-chemistry-hazardous-oxidant.html](https://phys.org/news/2026-07-sunlight-powered-chemistry-hazardous-oxidant.html)
 
@@ -37,12 +45,14 @@ A decades-old puzzle about water has finally been unraveled. Researchers found t
 - 來源：ScienceDaily
 - 日期：2026-07-01
 - 分類理由：Local Python classifier score 9.0.
+- 子類別：EnvironmentalChemistry
+- 子類別理由：Local subcategory classifier matched 環境化學 with score 12.0.
 - 重要性分數：2.704
 - 原文：[https://www.sciencedaily.com/releases/2026/06/260626124706.htm](https://www.sciencedaily.com/releases/2026/06/260626124706.htm)
 
 ## 科學背景
 
-本頁依最新新聞內容彙整，後續版本會加入更完整的 AI 科普長文。
+本篇聚焦「有機化學與合成」，整理今日相關新聞中的關鍵科學脈絡。
 
 ## 為什麼重要
 

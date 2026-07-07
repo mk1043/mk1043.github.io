@@ -2,69 +2,83 @@
 
 更新日期：2026-07-08
 
+## 今日子題
+
+恆星與星系
+
 ## 今日重點
 
-- NASA Webb Uncovers Unusual Galaxy Shaped by Cosmic Collision
-- NASA’s CAPSTONE Completes Extended Mission Testing Lunar Technologies
-- NASA’s Hubble Spies Stellar Sparkler for July 4th
-- The World Cup From 250 Miles Up
-- NASA’s Hubble Captures Crimson Cloud Sparkling with White, Blue Stars
+- Thousands of planets are hidden in this photo
+- Keep the Hubble and James Webb Space Telescopes alive — the science is worth the price tag
+- ESA’s Euclid captures the Milky Way’s crowded heart
+- Webb studies how a planet survived the death of its star
+- South Pole Telescope analysis releases new catalog of more than 7,000 galaxy clusters
 
 ## 內容
 
-### 1. NASA Webb Uncovers Unusual Galaxy Shaped by Cosmic Collision
+### 1. Thousands of planets are hidden in this photo
 
-In new images from NASA’s James Webb Space Telescope to celebrate its fourth science anniversary, a familiar galaxy transforms into something far richer, and far more complex, than ever seen before. Webb’s unprecedented sensitivity across near- and mid-infrared wavelengths cuts through the thick lanes of dust that obscure Centaurus A’s center in visible light, showing […]
+Video: 00:10:45 Millions of stars. Thousands of hidden worlds. One unprecedented view of our galaxy. Three years since launch , ESA’s Euclid space telescope reveals the Milky Way galaxy’s centre in extraordinary detail: a mosaic of tens of millions of stars captured in just 26 hours.But this is more than an image. It is a map of stellar evolution, from dark clouds where stars are being born to ancient populations packed into the galactic bulge. And hidden within this dense field of light are planets we cannot see directly. Through gravitational microlensing, astronomers detect distant worlds by measuring tiny, temporary changes in light as stars pass in front of one another, revealing planets and even their masses through gravity alone. Euclid, originally built to explore dark matter and dark energy, is now helping open a new window on our own galaxy, and the unseen worlds within it.
 
-- 來源：NASA
-- 日期：2026-07-06
-- 分類理由：Local Python classifier score 55.0.
-- 重要性分數：5.6
-- 原文：[https://science.nasa.gov/missions/webb/nasa-webb-uncovers-unusual-galaxy-shaped-by-cosmic-collision/](https://science.nasa.gov/missions/webb/nasa-webb-uncovers-unusual-galaxy-shaped-by-cosmic-collision/)
+- 來源：ESA
+- 日期：2026-07-01
+- 分類理由：Local Python classifier score 23.0.
+- 子類別：StarsAndGalaxies
+- 子類別理由：Local subcategory classifier matched 恆星與星系 with score 12.0.
+- 重要性分數：3.647
+- 原文：[https://www.esa.int/ESA_Multimedia/Videos/2026/06/Thousands_of_planets_are_hidden_in_this_photo](https://www.esa.int/ESA_Multimedia/Videos/2026/06/Thousands_of_planets_are_hidden_in_this_photo)
 
-### 2. NASA’s CAPSTONE Completes Extended Mission Testing Lunar Technologies
+### 2. Keep the Hubble and James Webb Space Telescopes alive — the science is worth the price tag
 
-As NASA prepares for a sustained human presence on the Moon, missions will increasingly require spacecraft that can navigate and communicate without a direct connection to Earth. NASA’s Cislunar Autonomous Positioning System Technology Operations and Navigation Experiment, or CAPSTONE, validated and advanced these capabilities. Designed to test and validate technologies in lunar orbit, CAPSTONE launched [&#8230;]
+Nature, Published online: 07 July 2026; doi:10.1038/d41586-026-02095-2 These collaborations are delivering scientific discoveries beyond most astronomers’ dreams.
 
-- 來源：NASA
-- 日期：2026-07-06
-- 分類理由：Local Python classifier score 38.0.
-- 重要性分數：4.8
-- 原文：[https://www.nasa.gov/technology/space-comms/nasas-capstone-completes-extended-mission-testing-lunar-technologies/](https://www.nasa.gov/technology/space-comms/nasas-capstone-completes-extended-mission-testing-lunar-technologies/)
-
-### 3. NASA’s Hubble Spies Stellar Sparkler for July 4th
-
-Red, white, and blue stars glitter like a sparkler being waved on a dark night in this new image from NASA’s Hubble Space Telescope.
-
-- 來源：NASA
-- 日期：2026-07-04
-- 分類理由：Local Python classifier score 43.0.
-- 重要性分數：4.8
-- 原文：[https://science.nasa.gov/missions/hubble/nasas-hubble-spies-stellar-sparkler-for-july-4th/](https://science.nasa.gov/missions/hubble/nasas-hubble-spies-stellar-sparkler-for-july-4th/)
-
-### 4. The World Cup From 250 Miles Up
-
-Over the years, astronauts aboard the International Space Station have photographed several of the cities hosting the 2026 FIFA World Cup.
-
-- 來源：NASA
+- 來源：Nature
 - 日期：2026-07-07
-- 分類理由：Local Python classifier score 13.0.
-- 重要性分數：4.4
-- 原文：[https://science.nasa.gov/earth/earth-observatory/the-world-cup-from-250-miles-up/](https://science.nasa.gov/earth/earth-observatory/the-world-cup-from-250-miles-up/)
+- 分類理由：Local Python classifier score 9.0.
+- 子類別：StarsAndGalaxies
+- 子類別理由：Local subcategory classifier matched 恆星與星系 with score 6.0.
+- 重要性分數：3.635
+- 原文：[https://www.nature.com/articles/d41586-026-02095-2](https://www.nature.com/articles/d41586-026-02095-2)
 
-### 5. NASA’s Hubble Captures Crimson Cloud Sparkling with White, Blue Stars
+### 3. ESA’s Euclid captures the Milky Way’s crowded heart
 
-Blue and white stars shine brightly against crimson gas in this image from NASA’s Hubble Space Telescope.
+Video: 00:03:00 This is the largest high-resolution photo ever made of our Milky Way galaxy’s centre in visible light. It was taken on 23 March 2025 by the European Space Agency’s Euclid space telescope. Packed with more than 60 million stars, this image opens the door for scientists to confirm the existence of any exoplanet found in this region and measure its mass using tiny changes in starlight over time.&nbsp; The galactic bulge – the central region of our galaxy – is a vast, tightly packed structure filled mainly with old, cooler stars, giving it its characteristic yellow colour. Seen from some 26 000 light-years away, Euclid observes the galaxy’s centre through a complex foreground of material along its line of sight.&nbsp;&nbsp; This ultra-wide view towards the bulge reveals not only stars, but also seemingly empty dark regions. The dark patches are not devoid of stars: they mark dense, dust-rich molecular clouds that absorb and scatter light from the bulge behind them. As Euclid looks through two of the Milky Way’s spiral arms, it also encounters regions of active star formation, traced by newly formed, massive blue stars. Their intense ultraviolet radiation ionises surrounding hydrogen gas, producing the faint red glow.&nbsp;&nbsp; Learn more .
 
-- 來源：NASA
-- 日期：2026-07-03
+- 來源：ESA
+- 日期：2026-06-24
+- 分類理由：Local Python classifier score 29.0.
+- 子類別：StarsAndGalaxies
+- 子類別理由：Local subcategory classifier matched 恆星與星系 with score 12.0.
+- 重要性分數：3.5
+- 原文：[https://www.esa.int/ESA_Multimedia/Videos/2026/06/ESA_s_Euclid_captures_the_Milky_Way_s_crowded_heart](https://www.esa.int/ESA_Multimedia/Videos/2026/06/ESA_s_Euclid_captures_the_Milky_Way_s_crowded_heart)
+
+### 4. Webb studies how a planet survived the death of its star
+
+An international team of astronomers has used the NASA/ESA/CSA James Webb Space Telescope to watch the Jupiter-sized exoplanet WD 1856 b transit its host star, measuring the planet’s mass and temperature and even detecting its atmosphere. They found that the planet is significantly warmer than expected and determined how it most likely reached its very tight orbit around the star, a white dwarf. The results are our first window into the future of planets like Jupiter after the death of the Sun, billions of years into the future.
+
+- 來源：ESA
+- 日期：2026-07-01
 - 分類理由：Local Python classifier score 41.0.
-- 重要性分數：4.4
-- 原文：[https://science.nasa.gov/missions/hubble/nasas-hubble-captures-crimson-cloud-sparkling-with-white-blue-stars/](https://science.nasa.gov/missions/hubble/nasas-hubble-captures-crimson-cloud-sparkling-with-white-blue-stars/)
+- 子類別：StarsAndGalaxies
+- 子類別理由：Local subcategory classifier matched 恆星與星系 with score 15.0.
+- 重要性分數：3.345
+- 原文：[https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_studies_how_a_planet_survived_the_death_of_its_star](https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_studies_how_a_planet_survived_the_death_of_its_star)
+
+### 5. South Pole Telescope analysis releases new catalog of more than 7,000 galaxy clusters
+
+Researchers working with data from the South Pole Telescope have released a major catalog of galaxy clusters, giving scientists a powerful new tool for studying how the universe grew and changed over billions of years. The findings are published on the arXiv preprint server.
+
+- 來源：Phys.org
+- 日期：2026-07-07
+- 分類理由：Local Python classifier score 12.0.
+- 子類別：StarsAndGalaxies
+- 子類別理由：Local subcategory classifier matched 恆星與星系 with score 6.0.
+- 重要性分數：3.029
+- 原文：[https://phys.org/news/2026-07-south-pole-telescope-analysis-galaxy.html](https://phys.org/news/2026-07-south-pole-telescope-analysis-galaxy.html)
 
 ## 科學背景
 
-本頁依最新新聞內容彙整，後續版本會加入更完整的 AI 科普長文。
+本篇聚焦「恆星與星系」，整理今日相關新聞中的關鍵科學脈絡。
 
 ## 為什麼重要
 
@@ -72,8 +86,8 @@ Blue and white stars shine brightly against crimson gas in this image from NASA�
 
 ## 參考來源
 
-- [NASA Webb Uncovers Unusual Galaxy Shaped by Cosmic Collision](https://science.nasa.gov/missions/webb/nasa-webb-uncovers-unusual-galaxy-shaped-by-cosmic-collision/)
-- [NASA’s CAPSTONE Completes Extended Mission Testing Lunar Technologies](https://www.nasa.gov/technology/space-comms/nasas-capstone-completes-extended-mission-testing-lunar-technologies/)
-- [NASA’s Hubble Spies Stellar Sparkler for July 4th](https://science.nasa.gov/missions/hubble/nasas-hubble-spies-stellar-sparkler-for-july-4th/)
-- [The World Cup From 250 Miles Up](https://science.nasa.gov/earth/earth-observatory/the-world-cup-from-250-miles-up/)
-- [NASA’s Hubble Captures Crimson Cloud Sparkling with White, Blue Stars](https://science.nasa.gov/missions/hubble/nasas-hubble-captures-crimson-cloud-sparkling-with-white-blue-stars/)
+- [Thousands of planets are hidden in this photo](https://www.esa.int/ESA_Multimedia/Videos/2026/06/Thousands_of_planets_are_hidden_in_this_photo)
+- [Keep the Hubble and James Webb Space Telescopes alive — the science is worth the price tag](https://www.nature.com/articles/d41586-026-02095-2)
+- [ESA’s Euclid captures the Milky Way’s crowded heart](https://www.esa.int/ESA_Multimedia/Videos/2026/06/ESA_s_Euclid_captures_the_Milky_Way_s_crowded_heart)
+- [Webb studies how a planet survived the death of its star](https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_studies_how_a_planet_survived_the_death_of_its_star)
+- [South Pole Telescope analysis releases new catalog of more than 7,000 galaxy clusters](https://phys.org/news/2026-07-south-pole-telescope-analysis-galaxy.html)
