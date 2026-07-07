@@ -9,8 +9,6 @@
 ## 今日重點
 
 - July 2026 Satellite Puzzler
-- New research reveals the hidden pollution left behind by fireworks
-- Much of Earth's 'space dust' may come from unidentified near-Earth asteroids
 
 ## 內容
 
@@ -18,11 +16,11 @@
 
 ### 核心脈絡
 
-從NASA、Phys.org、ScienceDaily的報導來看，大氣科學的進展通常不是靠單一突破完成，而是由觀測、實驗、模型與長期資料累積交互推動。因此，判讀今日新聞時，重點不只在於哪一項結果最吸睛，也在於它是否能補上既有理論或應用中的缺口。
+從NASA的報導來看，大氣科學的進展通常不是靠單一突破完成，而是由觀測、實驗、模型與長期資料累積交互推動。因此，判讀今日新聞時，重點不只在於哪一項結果最吸睛，也在於它是否能補上既有理論或應用中的缺口。
 
 ### 關鍵進展
 
-最突出的線索來自「July 2026 Satellite Puzzler」。Your challenge is to tell us the location of the satellite image and why it is interesting.這類成果的價值，在於它為今日主題提供了一個可以被後續研究檢驗的切入點。與此同時，「New research reveals the hidden pollution left behind by fireworks」、「Much of Earth's 'space dust' may come from unidentified near-Earth asteroids」也從不同角度補充了同一個問題：有些文章提供觀測資料，有些凸顯實驗或模型方法，另一些則指出可能的應用與風險。把這些線索放在一起看，比單獨閱讀任何一篇新聞更能看出研究方向的變化。
+最突出的線索來自「July 2026 Satellite Puzzler」。Your challenge is to tell us the location of the satellite image and why it is interesting.這類成果的價值，在於它為今日主題提供了一個可以被後續研究檢驗的切入點。
 
 ### 值得觀察
 
@@ -34,10 +32,14 @@
 
 ## 為什麼重要
 
-這篇精華文章選取 3 篇與「大氣科學」最相關且分數較高的文章，目標是把分散的新聞整理成可理解的科學脈絡。對一般讀者而言，這能幫助快速掌握今日重要進展；對長期追蹤者而言，則能看出哪些問題正在形成新的研究焦點。
+這篇精華文章選取 1 篇與「大氣科學」最相關且分數較高的文章，目標是把分散的新聞整理成可理解的科學脈絡。對一般讀者而言，這能幫助快速掌握今日重要進展；對長期追蹤者而言，則能看出哪些問題正在形成新的研究焦點。
 
 ## 參考來源
 
 - [July 2026 Satellite Puzzler](https://science.nasa.gov/earth/earth-observatory/july-2026-satellite-puzzler/)
-- [New research reveals the hidden pollution left behind by fireworks](https://www.sciencedaily.com/releases/2026/07/260701205009.htm)
-- [Much of Earth's 'space dust' may come from unidentified near-Earth asteroids](https://phys.org/news/2026-07-earth-space-unidentified-asteroids.html)
+
+## 入選文章詳細內容
+
+### July 2026 Satellite Puzzler
+
+Earth Observatory Earth Earth Observatory Image of the Day EO Explorer Topics All Topics Atmosphere Land Heat &#038; Radiation Life on Earth Human Dimensions Natural Events Oceans Remote Sensing Technology Snow &#038; Ice Water More Content Collections Global Maps World of Change Articles Earth Matters Blog Blue Marble: Next Generation EO Kids Mission: Biomes About About Us Subscribe 🛜 RSS Contact Us Search Every month, NASA Earth Observatory features a puzzling satellite image. The July 2026 puzzler appears above. Your Challenge I dentify the location shown in this satellite image. Share what clues you see, where you think it is, and what makes this place interesting or unique to you. How to Answer Submit your response using this form and select “Puzzler Answer” as the topic. Please include your preferred name or alias. You can keep it simple and just guess the location. Want to impress us? Tell us which satellite and instrument captured the image, which spectral bands were used, or point out a subtle detail about the geology or history of the area. If something catches your eye, or if this is your home or means something to you, we’d love to hear about it. The Prize We can’t offer prize money or a trip to space to see Earth like satellites and astronauts do . But we can offer something almost as rewarding: puzzler bragging rights. About a week after the challenge, we’ll post the answer at the top of this page, along with a link to an Earth Observatory Image of the Day story that explains the image in more detail. We’ll recognize the first person who correctly guesses the location, and we may also highlight readers who share especially thoughtful or interesting answers. By submitting a response, you acknowledge that your comments may be edited, excerpted, and published on this page. Until then, zoom in, look closely, and enjoy the challenge. See you at the reveal!
