@@ -11,8 +11,6 @@
 - July 2026 Satellite Puzzler
 - New research reveals the hidden pollution left behind by fireworks
 - Much of Earth's 'space dust' may come from unidentified near-Earth asteroids
-- This year's El Nino likely to become record-breaker: Top expert
-- Examining Algal Blooms in Blue Mesa
 
 ## 內容
 
@@ -24,11 +22,11 @@
 
 ### 關鍵進展
 
-最突出的線索來自「July 2026 Satellite Puzzler」。Your challenge is to tell us the location of the satellite image and why it is interesting.這類成果的價值，在於它為今日主題提供了一個可以被後續研究檢驗的切入點。與此同時，「New research reveals the hidden pollution left behind by fireworks」、「Much of Earth's 'space dust' may come from unidentified near-Earth asteroids」、「This year's El Nino likely to become record-breaker: Top expert」也從不同角度補充了同一個問題：有些文章提供觀測資料，有些凸顯實驗或模型方法，另一些則指出可能的應用與風險。把這些線索放在一起看，比單獨閱讀任何一篇新聞更能看出研究方向的變化。
+最突出的線索來自「July 2026 Satellite Puzzler」。Your challenge is to tell us the location of the satellite image and why it is interesting.這類成果的價值，在於它為今日主題提供了一個可以被後續研究檢驗的切入點。與此同時，「New research reveals the hidden pollution left behind by fireworks」、「Much of Earth's 'space dust' may come from unidentified near-Earth asteroids」也從不同角度補充了同一個問題：有些文章提供觀測資料，有些凸顯實驗或模型方法，另一些則指出可能的應用與風險。把這些線索放在一起看，比單獨閱讀任何一篇新聞更能看出研究方向的變化。
 
 ### 值得觀察
 
-其中最值得後續追蹤的是「Examining Algal Blooms in Blue Mesa」。它的意義不只在於單篇新聞本身，而在於後續是否會被更多觀測、實驗或同儕研究驗證。如果相關證據持續累積，這類成果就可能從新聞事件變成推動領域前進的穩定知識。
+其中最值得後續追蹤的是「July 2026 Satellite Puzzler」。它的意義不只在於單篇新聞本身，而在於後續是否會被更多觀測、實驗或同儕研究驗證。如果相關證據持續累積，這類成果就可能從新聞事件變成推動領域前進的穩定知識。
 
 ## 科學背景
 
@@ -36,12 +34,10 @@
 
 ## 為什麼重要
 
-這篇精華文章選取 5 篇與「大氣科學」最相關且分數較高的文章，目標是把分散的新聞整理成可理解的科學脈絡。對一般讀者而言，這能幫助快速掌握今日重要進展；對長期追蹤者而言，則能看出哪些問題正在形成新的研究焦點。
+這篇精華文章選取 3 篇與「大氣科學」最相關且分數較高的文章，目標是把分散的新聞整理成可理解的科學脈絡。對一般讀者而言，這能幫助快速掌握今日重要進展；對長期追蹤者而言，則能看出哪些問題正在形成新的研究焦點。
 
 ## 參考來源
 
 - [July 2026 Satellite Puzzler](https://science.nasa.gov/earth/earth-observatory/july-2026-satellite-puzzler/)
 - [New research reveals the hidden pollution left behind by fireworks](https://www.sciencedaily.com/releases/2026/07/260701205009.htm)
 - [Much of Earth's 'space dust' may come from unidentified near-Earth asteroids](https://phys.org/news/2026-07-earth-space-unidentified-asteroids.html)
-- [This year's El Nino likely to become record-breaker: Top expert](https://phys.org/news/2026-07-year-el-nino-breaker-expert.html)
-- [Examining Algal Blooms in Blue Mesa](https://science.nasa.gov/earth/earth-observatory/examining-algal-blooms-in-blue-mesa/)
