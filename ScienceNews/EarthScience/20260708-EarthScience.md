@@ -7,8 +7,8 @@
 - Examining Algal Blooms in Blue Mesa
 - July 2026 Satellite Puzzler
 - New research reveals the hidden pollution left behind by fireworks
-- Machine learning to predict how fast biodegradable plastics break down in nature
-- Why Europe's trees are dying
+- Much of Earth's 'space dust' may come from unidentified near-Earth asteroids
+- Streetlights are trapping thousands of pill bugs in giant “death spirals”
 
 ## 內容
 
@@ -42,25 +42,25 @@ Scientists have uncovered new evidence that fireworks can pollute both the air a
 - 重要性分數：3.058
 - 原文：[https://www.sciencedaily.com/releases/2026/07/260701205009.htm](https://www.sciencedaily.com/releases/2026/07/260701205009.htm)
 
-### 4. Machine learning to predict how fast biodegradable plastics break down in nature
+### 4. Much of Earth's 'space dust' may come from unidentified near-Earth asteroids
 
-Testing how quickly a biodegradable plastic actually breaks down in the environment can take months, sometimes years, of lab work. A new study from the Agricultural University of Athens, offers a faster alternative: a machine-learning tool that predicts biodegradation outcomes for a widely used bioplastic almost instantly.
-
-- 來源：Phys.org
-- 日期：2026-07-07
-- 分類理由：Local Python classifier score 3.0.
-- 重要性分數：2.67
-- 原文：[https://phys.org/news/2026-07-machine-fast-biodegradable-plastics-nature.html](https://phys.org/news/2026-07-machine-fast-biodegradable-plastics-nature.html)
-
-### 5. Why Europe's trees are dying
-
-In Europe, trees are increasingly dying prematurely. A new study by the Swiss Federal Institute for Forest, Snow and Landscape Research (WSL) on French forests now shows that it is not only drought but also unusually warm or wet springs that increase the risk—even ideal growing conditions can prove fatal later on.
+Like a shelf in an old house, the Earth collects a lot of dust from its surroundings. This "space dust" is mostly made up of micrometeorites that survive atmospheric entry and provides researchers with a cheap and easy way to obtain samples to study our cosmic neighbors. However, it can be difficult to determine which objects certain samples originated from if their parent bodies aren't already in available catalogs. A recent study, published in Science Advances, describes a new subset of space dust with such mysterious origins and how researchers are tracking down potential sources.
 
 - 來源：Phys.org
 - 日期：2026-07-07
+- 分類理由：Local Python classifier score 12.0.
+- 重要性分數：2.892
+- 原文：[https://phys.org/news/2026-07-earth-space-unidentified-asteroids.html](https://phys.org/news/2026-07-earth-space-unidentified-asteroids.html)
+
+### 5. Streetlights are trapping thousands of pill bugs in giant “death spirals”
+
+Researchers discovered that artificial streetlights can trap thousands of woodlice in mesmerizing circular "death spirals" never before seen in the wild. The surprising finding suggests that light pollution may be unintentionally altering the behavior of even the smallest ground-dwelling animals.
+
+- 來源：ScienceDaily
+- 日期：2026-07-06
 - 分類理由：Local Python classifier score 3.0.
-- 重要性分數：2.663
-- 原文：[https://phys.org/news/2026-07-europe-trees-dying.html](https://phys.org/news/2026-07-europe-trees-dying.html)
+- 重要性分數：2.647
+- 原文：[https://www.sciencedaily.com/releases/2026/06/260626125707.htm](https://www.sciencedaily.com/releases/2026/06/260626125707.htm)
 
 ## 科學背景
 
@@ -75,5 +75,5 @@ In Europe, trees are increasingly dying prematurely. A new study by the Swiss Fe
 - [Examining Algal Blooms in Blue Mesa](https://science.nasa.gov/earth/earth-observatory/examining-algal-blooms-in-blue-mesa/)
 - [July 2026 Satellite Puzzler](https://science.nasa.gov/earth/earth-observatory/july-2026-satellite-puzzler/)
 - [New research reveals the hidden pollution left behind by fireworks](https://www.sciencedaily.com/releases/2026/07/260701205009.htm)
-- [Machine learning to predict how fast biodegradable plastics break down in nature](https://phys.org/news/2026-07-machine-fast-biodegradable-plastics-nature.html)
-- [Why Europe's trees are dying](https://phys.org/news/2026-07-europe-trees-dying.html)
+- [Much of Earth's 'space dust' may come from unidentified near-Earth asteroids](https://phys.org/news/2026-07-earth-space-unidentified-asteroids.html)
+- [Streetlights are trapping thousands of pill bugs in giant “death spirals”](https://www.sciencedaily.com/releases/2026/06/260626125707.htm)
