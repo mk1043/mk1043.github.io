@@ -19,6 +19,7 @@
 今日子題：光學與電漿物理
 
 - [Publisher Correction: A 98-qubit trapped-ion quantum computer with all-to-all connectivity](https://www.nature.com/articles/s41586-026-10882-0) - Nature
+- [Ultra-compact sensor paves the way for more powerful and scalable silicon quantum processors](https://phys.org/news/2026-07-ultra-compact-sensor-paves-powerful.html) - Phys.org
 - [AI just supercharged the race to find room temperature superconductors](https://www.sciencedaily.com/releases/2026/07/260701205006.htm) - ScienceDaily
 - [A strange LIGO signal could reveal the missing link behind dark matter](https://www.sciencedaily.com/releases/2026/06/260626125703.htm) - ScienceDaily
 - [Tiny carbon rings enable a new form of quantum control](https://phys.org/news/2026-07-tiny-carbon-enable-quantum.html) - Phys.org
