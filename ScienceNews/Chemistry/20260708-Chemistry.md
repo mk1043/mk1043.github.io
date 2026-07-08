@@ -2,48 +2,56 @@
 
 更新日期：2026-07-08
 
+## 今日子題
+
+有機化學與合成
+
 ## 今日重點
 
-* **果香背後的科學**：丁酸乙酯（ethyl butyrate）及其甲基衍生物是常見的揮發性有機化合物（VOCs），廣泛用於香水、清潔劑與食品添加物中，賦予產品鳳梨或蘋果般的迷人香氣。
-* **大氣中的隱形殺手**：這些揮發性酯類釋放到空氣中後，主要會與大氣中最強的清潔劑——氫氧自由基（$\text{OH}$）發生化學反應而降解，而非透過陽光直接光解。
-* **室內空氣品質的新挑戰**：由於這類香氛物質多在室內使用，在通風不良的環境下，它們與大氣自由基反應產生的副產物，可能對人體健康與室內空氣品質造成潛在影響。
-
----
-
-## 科學背景
-
-當你打開一瓶洗碗精、噴灑室內芳香劑，或是品嚐帶有水果甜香的電子煙時，迎面而來的鳳梨、蘋果或梨子香氣，很可能來自於一種名為「丁酸乙酯」（ethyl butyrate, 簡稱 EB）的有機化合物，或是它的甲基衍生物（如乙基-2-甲基丁酸酯 EM、異戊酸乙酯 EI、丁酸異丙酯 IB）。
-
-這些化合物在化學分類上屬於「揮發性有機化合物」（Volatile Organic Compounds, 簡稱 VOCs）。顧名思義，它們在室溫下非常容易揮發成氣體，這也是為什麼我們的鼻子能輕易聞到這些香味的原因。除了作為香氛與食品添加物，科學家甚至在研究將它們開發為下一代的生質燃料。
-
-然而，當這些分子揮發到空氣中後，它們並不會憑空消失。在室外，它們會參與複雜的大氣化學反應；在室內，由於現代人有超過八成的時間待在室內，這些揮發出來的分子如果遇上室內的化學反應，就可能轉化為其他化學物質，進而影響我們的健康。
-
----
+- Gas-phase degradation of the aroma compound ethyl butyrate and its methylated derivatives: UV-C photolysis and reactions with the hydroxyl radical
+- High $^{12}$C/$^{13}$C isotopic ratios toward G+0.693-0.027: evidence for gas inflow to the Central Molecular Zone
+- Incredible new material makes heat programmable
 
 ## 內容
 
-為了釐清這些香氛化合物在空氣中的「壽命」與去向，由科學家 Finja Löher 帶領的研究團隊，針對丁酸乙酯（EB）及其三種甲基衍生物（EM、EI、IB）進行了一系列精密的物理化學實驗。
+今天的「有機化學與合成」新聞呈現出幾個共同線索：反應設計、催化策略，以及更安全的合成方法。這些研究或觀測不只是單一事件，而是共同指向一個趨勢：科學家正透過更細緻的資料、更精密的儀器與更跨領域的方法，重新理解自然現象背後的機制。
 
-研究團隊首先關注的是「光解作用」（photolysis）——也就是分子吸收陽光中的紫外線後，鍵結斷裂而分解的過程。他們利用紫外-可見光光譜儀與理論計算發現，這四種酯類雖然在短波長的紫外光（UV-C，約 213 奈米）波段有吸收峰，但在地面上最充足的紫外光（UV-A）與可見光範圍內，幾乎完全不吸收光子。這意味著，在日常生活中，陽光直接照曬並無法有效分解這些香氛分子。
+### 核心脈絡
 
-既然曬太陽沒用，那它們是怎麼在空氣中消失的呢？答案是「自由基攻擊」。大氣中存在著一種被稱為大氣清潔劑的活性物質——氫氧自由基（$\text{OH}$）。研究團隊利用「脈衝雷射光解/雷射誘導螢光技術」（PLP-LIF），量測了這四種化合物與 $\text{OH}$ 自由基在不同溫度下的反應速率。
+從Atmospheric Chemistry and Physics、ScienceDaily、arXiv的報導來看，有機化學與合成的進展通常不是靠單一突破完成，而是由觀測、實驗、模型與長期資料累積交互推動。因此，判讀今日新聞時，重點不只在於哪一項結果最吸睛，也在於它是否能補上既有理論或應用中的缺口。
 
-實驗結果顯示，這四種化合物與 $\text{OH}$ 自由基的反應，是它們在對流層（我們生活的低空大氣）中被清除的主導機制。有趣的是，這些反應在溫度上升到 400 K（約 127 °C）的過程中，展現了複雜的「非阿瑞尼斯行為」（non-Arrhenius behaviour）。簡單來說，這代表反應並非簡單的一步到位，而是 $\text{OH}$ 自由基會先與香氛分子「牽手」形成一個暫時性的「反應前錯合物」（pre-reaction complex），接著才發生氫原子拔除反應（H abstraction）。
+### 關鍵進展
 
-根據這項研究，這些香氛分子在大氣中的壽命大約在 22 到 45 小時之間。雖然它們降解得不算慢，但其「光化學臭氧產生潛勢」（Photochemical Ozone Creation Potential, POCP）落在 28 到 34 的中等水平。這代表它們在特定條件下，仍會參與反應並產生臭氧等二次污染物。
+最突出的線索來自「Gas-phase degradation of the aroma compound ethyl butyrate and its methylated derivatives: UV-C photolysis and reactions with the hydroxyl radical」。Gas-phase degradation of the aroma compound ethyl butyrate and its methylated derivatives: UV-C photolysis and reactions with the hydroxyl radical Finja Löher, Mark A.這類成果的價值，在於它為今日主題提供了一個可以被後續研究檢驗的切入點。與此同時，「High $^{12}$C/$^{13}$C isotopic ratios toward G+0.693-0.027: evidence for gas inflow to the Central Molecular Zone」、「Incredible new material makes heat programmable」也從不同角度補充了同一個問題：有些文章提供觀測資料，有些凸顯實驗或模型方法，另一些則指出可能的應用與風險。把這些線索放在一起看，比單獨閱讀任何一篇新聞更能看出研究方向的變化。
 
----
+### 值得觀察
+
+其中最值得後續追蹤的是「Gas-phase degradation of the aroma compound ethyl butyrate and its methylated derivatives: UV-C photolysis and reactions with the hydroxyl radical」。它的意義不只在於單篇新聞本身，而在於後續是否會被更多觀測、實驗或同儕研究驗證。如果相關證據持續累積，這類成果就可能從新聞事件變成推動領域前進的穩定知識。
+
+## 科學背景
+
+本篇聚焦「有機化學與合成」，整理今日相關新聞中的關鍵科學脈絡。
 
 ## 為什麼重要
 
-這項研究之所以關鍵，是因為它填補了我們對「室內化學」認識的空白。過去，大氣化學研究多著眼於室外的大型污染源，如汽機車廢氣或工業排放。然而，香水、芳香劑與清潔劑等消費性產品，絕大多數是在通風受限的室內空間中使用。
-
-當我們在密閉的房間裡使用這些香氛產品時，高濃度的丁酸乙酯等 VOCs 會迅速累積。如果室內有陽光斜射或使用特定家電，激發產生了 $\text{OH}$ 自由基，這些香氛分子就會開始與之反應。雖然香氛分子本身可能無毒且氣味怡人，但它們與自由基反應後產生的「光氧化副產物」（例如微小的懸浮微粒或刺激性氣體），卻可能對人體的呼吸道造成慢性刺激。
-
-透過這項研究量測出的精確反應速率常數，科學家未來能更準確地建立室內與室外空氣品質模型，評估香氛產品對人類健康的累積暴露風險，讓我們在享受芬芳的同時，也能呼吸得更安心。
-
----
+這篇精華文章選取 3 篇與「有機化學與合成」最相關且分數較高的文章，目標是把分散的新聞整理成可理解的科學脈絡。對一般讀者而言，這能幫助快速掌握今日重要進展；對長期追蹤者而言，則能看出哪些問題正在形成新的研究焦點。
 
 ## 參考來源
 
-* Löher, F., Blitz, M. A., Seakins, P. W., Carslaw, N., and Dillon, T. J.: Gas-phase degradation of the aroma compound ethyl butyrate and its methylated derivatives: UV-C photolysis and reactions with the hydroxyl radical, Atmos. Chem. Phys., 26, 9277–9293, https://doi.org/10.5194/acp-26-9277-2026, 2026.
+- [Gas-phase degradation of the aroma compound ethyl butyrate and its methylated derivatives: UV-C photolysis and reactions with the hydroxyl radical](https://doi.org/10.5194/acp-26-9277-2026)
+- [High $^{12}$C/$^{13}$C isotopic ratios toward G+0.693-0.027: evidence for gas inflow to the Central Molecular Zone](https://arxiv.org/abs/2607.06541v1)
+- [Incredible new material makes heat programmable](https://www.sciencedaily.com/releases/2026/07/260707025046.htm)
+
+## 入選文章詳細內容
+
+### Gas-phase degradation of the aroma compound ethyl butyrate and its methylated derivatives: UV-C photolysis and reactions with the hydroxyl radical
+
+Articles & preprints Browse Recent By topics Preprints Journal volumes Highlights ACP Letters Editor's choice Opinions Articles Research articles Review articles Measurement reports Technical notes Special issues SI overview articles Published SIs Scheduled SIs How to apply for an SI Collections How to add an article to a collection EGU Compilations EGU Letters Encyclopedia of Geosciences EGUsphere Popular Most downloaded Most commented Alerts Subscribe to alerts Policies Licence & copyright General terms Guidelines for authors Guidelines for editors Publication policy AI policy Data policy Publication ethics Inclusivity in global research Competing interests policy Appeals & complaints Proofreading guidelines Obligations for authors Obligations for editors Obligations for referees Inclusive author name-change policy Peer review Interactive review process Finding an editor Review criteria Become a referee Manuscript tracking Reviewer recognition Awards Outstanding referee awards Outstanding editor award Paul Crutzen Publication award About Aims & scope Manuscript types Article processing charges Financial support Promote your work News & press Many thanks to Cristina Facchini and Rolf Sander and welcome to Barbara Ervens as executive editor of ACP First ACP Letter: The value of remote marine aerosol measurements for constraining radiative forcing uncertainty Atmospheric evolution of emissions from a boreal forest fire: the formation of highly functionalized oxygen-, nitrogen-, and sulfur-containing organic compounds Observing the timescales of aerosolâcloud interactions in snapshot satellite images New ACP Letter: How alkaline compounds control atmospheric aerosol particle acidity Changes in biomass burning, wetland extent, or agriculture drive atmospheric NH3 trends in select African regions Two of ACP's founding executive editors step down EGU resources Journal statistics Journal metrics Abstracted & indexed Article level metrics FAQs Contact XML harvesting & OAI-PMH Multiple terms: term1 term2 red apples returns results with all terms like: Fructose levels in red and green apples Precise match in quotes: "term1 term2" "red apples" returns results matching exactly like: Anthocyanin biosynthesis in red apples Exclude a term with -: term1 -term2 apples -red returns results containing apples but not red : Malic acid in green apples The aroma compound ethyl butyrate (EB) and its methylated derivatives ethyl 2-methylbutyrate (EM), ethyl isovalerate (EI), and isopropyl butyrate (IB) are present in many consumer products. To evaluate the environmental and health impacts of these volatile organic compounds, a detailed understanding of their gas-phase photochemical reactivity is required. Here, we performed pulsed laser photolysis/laser-induced fluorescence (PLP-LIF) experiments to investigate the kinetics of their reactions with the hydroxyl radical (OH). Room temperature rate coefficients in units of 10 - 12 molec . - 1 cm 3 s - 1 with 2 Ï statistical errors were determined as: ( 5.5Â±0.2 ) for EBâ + âOH, ( 7.0Â±0.3 ) for EMâ + âOH, ( 11.2Â±0.4 ) for EIâ + âOH, and ( 7.5Â±0.4 ) for IBâ + âOH. All four reactions exhibited complex kinetics with distinct non-Arrhenius behaviour for temperatures up to about 400âK. This behaviour was attributed to pre-reaction complexes and is consistent with site-specific reactivities as predicted by an established structure-activity-relationship (SAR). In a second series of experiments, quasi-gas-phase UV-vis. spectroscopy and time-dependent density functional theory predictions were used to obtain absorption cross-sections. All four esters displayed an absorption band at around 213ânm (spin-forbidden Ï * â n transition), but did not absorb appreciably in the visible or UV-A part of the spectrum where light is abundant at ground level. Therefore, the reaction with OH was considered the main loss process, with lifetimes for tropospheric removal ranging from 22â45âh. Photochemical ozone creation potentials were estimated to be in a moderate range between 28 and 34. LÃ¶her, F., Blitz, M. A., Seakins, P. W., Carslaw, N., and Dillon, T. J.: Gas-phase degradation of the aroma compound ethyl butyrate and its methylated derivatives: UV-C photolysis and reactions with the hydroxyl radical, Atmos. Chem. Phys., 26, 9277–9293, https://doi.org/10.5194/acp-26-9277-2026, 2026. Ethyl butyrate (ethyl butanoate; henceforth EB) and its methylated derivatives ethyl 2-methylbutyrate (ethyl 2-methylbutanoate; EM), ethyl isovalerate (ethyl 3-methylbutanoate; EI), and isopropyl butyrate (propan-2-yl butanoate; IB) are a group of volatile compounds with widespread occurrence and versatile applications but largely unknown gas-phase behaviour. Their structures are shown in Fig.Â 1. In industrial contexts, EB and its derivatives have been explored as promising second-generation biofuels that could support the transition away from petroleum-based fuels (Badawy etÂ al., 2016; El-Nahas etÂ al., 2010; Zhang et al., 2021). Furthermore, fatty acid esters with C 4 â C 5 acid chains are potent solvents (Knothe and Steidley, 2011) that can be synthesised from bio-derived alcohols and acids and may therefore be sourced sustainably at large scales (Xu etÂ al., 2020). FigureÂ 1 Molecular structures of EB and its derivatives with numbered H abstraction sites. The areas of the circles are proportional to the room temperature partial rate coefficients for the reaction with OH at each site, as predicted by the structure-activity relationship (SAR) by Jenkin etÂ al. (2018). The absolute and relative values of these rate coefficients are listed in TableÂ S5 in the Supplement. Importantly, EB and its derivatives are also present in many consumer products. They occur naturally in many plants and food products (Bicas et al., 2011; Kim etÂ al., 2013; Sosa-Moguel etÂ al., 2018), and can enhance sweetness perception and are thus used as sugar substitutes in food and as active ingre
+
+### High $^{12}$C/$^{13}$C isotopic ratios toward G+0.693-0.027: evidence for gas inflow to the Central Molecular Zone
+
+Isotopic ratios are key tracers of Galactic chemical evolution because different isotopes are synthesized through distinct stellar nucleosynthesis processes. While the $^{12}$C/$^{13}$C ratio increases with galactocentric distance across the Galactic disc, measurements in the Central Molecular Zone (CMZ) have historically yielded low values ($\sim$3-30), often affected by high optical depths. We aim to determine the initial $^{12}$C/$^{13}$C ratio of the parent material of the CMZ molecular cloud G+0.693$-$0.027 using optically thin molecular tracers and correcting for isotopic fractionation. We analyzed an ultra-high-sensitivity spectral survey obtained with the IRAM 30m and Yebes 40m telescopes, detecting single and double $^{13}$C isotopologues of HC$_3$N and HC$_5$N. Column densities and isotopic ratios were derived and compared with astrochemical models including $^{13}$C- and $^{15}$N-isotopologues to quantify isotopic fractionation. We derive $^{12}$C/$^{13}$C ratios of $36.7\pm1.0$ for HC$_3$N (using double $^{13}$C isotopologues) and $38.8\pm1.5$ for HC$_5$N, significantly higher than previous CMZ estimates based on simpler molecules. The models indicate low to intermediate isotopic fractionation at early times ($<3\times10^4$ yr), implying an initial $^{12}$C/$^{13}$C ratio of $\sim$48 for the gas from which present-day CMZ molecular clouds formed. The inferred range (37-48) is consistent with values observed at Galactocentric distances of 3-5 kpc, supporting a scenario in which the CMZ is replenished by gas inflows from the Galactic disc driven by the Galactic bar, with a possible contribution from less chemically processed material accreted from external systems such as dwarf galaxies. arXiv categories: astro-ph.GA, astro-ph.EP, astro-ph.SR
+
+### Incredible new material makes heat programmable
+
+In most materials, the way heat is absorbed and the way it is emitted are inseparable. If a surface absorbs heat efficiently from a particular direction or wavelength, it also emits heat the same way. This long established principle, known as reciprocity, has made it difficult for scientists to independently control how thermal energy enters and leaves a material. If those two processes could be separated, however, engineers could direct heat much more precisely. A material could absorb thermal energy from one direction while releasing it in another, potentially improving thermal management, energy conversion, infrared sensing, and thermal communication technologies. To overcome this limitation, an international team led by Professor Koichi Okamoto and Dr. Shunsuke Murai of Osaka Metropolitan University's Graduate School of Engineering developed a new type of device using magneto-optical materials. These materials change the way they interact with light when exposed to a magnetic field, making it possible to alter their thermal behavior. The researchers paired a magneto-optical material with a phase change material known as GST. The resulting device can control the direction in which heat is radiated, switch that behavior on or off, and retain its configuration even after the power has been turned off. In effect, it allows heat to be programmed in a way that resembles how data is stored and controlled inside a computer chip. "We made heat radiation behave in a 'smarter' way," Dr. Murai explained. "Achieving these capabilities in a working model could enable a new generation of efficient infrared emitters, thermal-energy devices, sensors, and photonic memory technologies." The team found that the device responded differently depending on the direction from which light arrived, even when the light struck it almost straight on. Earlier technologies typically required light to hit the material at very steep angles to achieve similar effects, reducing both absorption and radiation efficiency compared with normal incidence. The new design also addressed other shortcomings of previous systems. Earlier devices produced inconsistent switching between their "on" and "off" states, and they lost their stored configuration once power was removed. In contrast, the new material can reliably switch states while preserving its memory, making it far more practical for future applications. The researchers see this technology as an important step toward devices that manage heat with the same level of precision that electronic circuits use to control electricity. "Our ultimate goal is to develop compact devices that can actively control heat radiation, much like electronic circuits control the flow of electricity," Professor Okamoto said. "Such devices could be used in smarter infrared sensors, more efficient energy systems, and new types of photonic memory that store information using light and heat instead of electrical charges." Materials provided by Osaka Metropolitan University . Note: Content may be edited for style and length. Ye Ming Qing, Yi Shen, Jun Wu, Shunsuke Murai, Zhaogang Dong, Koichi Okamoto. Reconfigurable Giant Nonreciprocity at NearâNormal Incidence via PhaseâChange MagnetoâOptical Metagratings . Laser , 2026; DOI: 10.1002/lpor.71438 NASA Celebrates July 4th With a Stunning Hubble Cosmic Sparkler From the Dawn of Time James Webb Uncovers the Atmosphere of a Hellish Lava World 41 Light-Years Away Scientists Say Intermittent Fasting Could Make Weight Loss Easier Could We Have Been Wrong About Fish Oil and Brain Health? New Study Raises Major Questions Astronomers Witness the Birth of a Magnetar Scientists Discover a Hidden Brain Cell Killer Stay informed with ScienceDaily's free email newsletter, updated daily and weekly. Or view our many newsfeeds in your RSS reader: Keep up to date with the latest news from ScienceDaily via social networks: Tell us what you think of ScienceDaily -- we welcome both positive and negative comments. Have any problems using the site? Questions?

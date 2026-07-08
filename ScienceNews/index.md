@@ -25,8 +25,8 @@
 今日子題：有機化學與合成
 
 - [Gas-phase degradation of the aroma compound ethyl butyrate and its methylated derivatives: UV-C photolysis and reactions with the hydroxyl radical](https://doi.org/10.5194/acp-26-9277-2026) - Atmospheric Chemistry and Physics
-- [Author Correction: Synthesis of enantioenriched atropisomers by biocatalytic deracemization](https://www.nature.com/articles/s41586-026-10854-4) - Nature
 - [High $^{12}$C/$^{13}$C isotopic ratios toward G+0.693-0.027: evidence for gas inflow to the Central Molecular Zone](https://arxiv.org/abs/2607.06541v1) - arXiv
+- [Incredible new material makes heat programmable](https://www.sciencedaily.com/releases/2026/07/260707025046.htm) - ScienceDaily
 
 ## [Biology & Medical Engineering](Biology/20260708-Biology.md)
 
