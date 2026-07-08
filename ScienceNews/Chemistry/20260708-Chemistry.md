@@ -2,44 +2,59 @@
 
 更新日期：2026-07-08
 
-## 今日子題
-
-有機化學與合成
-
 ## 今日重點
 
-- Author Correction: Synthesis of enantioenriched atropisomers by biocatalytic deracemization
+* **旋轉異構物的奇妙世界**：介紹因單鍵旋轉受阻而產生的「旋轉異構物」（Atropisomers），這類分子如同左右手般互為鏡像，在藥物設計中扮演關鍵角色。
+* **生物催化的綠色魔法**：探討科學家如何利用大自然的「酵素」（Enzymes）作為生物催化劑，精準且高效地合成特定方向的旋轉異構物。
+* **「去外消旋化」的煉金術**：解釋如何將原本各佔一半的左右手分子混合物（外消旋體），百分之百轉化為單一有用的異構物，避免原料浪費。
+* **科學研究的嚴謹與傳承**：透過《Nature》最新的勘誤啟示，看科學家如何在競爭激烈的尖端研究中，藉由引用前人與同儕的成果（如雙酵素系統），建構出更完整的科學地圖。
 
-## 內容
-
-今天的「有機化學與合成」新聞呈現出幾個共同線索：反應設計、催化策略，以及更安全的合成方法。這些研究或觀測不只是單一事件，而是共同指向一個趨勢：科學家正透過更細緻的資料、更精密的儀器與更跨領域的方法，重新理解自然現象背後的機制。
-
-### 核心脈絡
-
-從Nature的報導來看，有機化學與合成的進展通常不是靠單一突破完成，而是由觀測、實驗、模型與長期資料累積交互推動。因此，判讀今日新聞時，重點不只在於哪一項結果最吸睛，也在於它是否能補上既有理論或應用中的缺口。
-
-### 關鍵進展
-
-最突出的線索來自「Author Correction: Synthesis of enantioenriched atropisomers by biocatalytic deracemization」。Nature, Published online: 02 July 2026; doi:10.1038/s41586-026-10854-4 Author Correction: Synthesis of enantioenriched atropisomers by biocatalytic deracemization這類成果的價值，在於它為今日主題提供了一個可以被後續研究檢驗的切入點。
-
-### 值得觀察
-
-其中最值得後續追蹤的是「Author Correction: Synthesis of enantioenriched atropisomers by biocatalytic deracemization」。它的意義不只在於單篇新聞本身，而在於後續是否會被更多觀測、實驗或同儕研究驗證。如果相關證據持續累積，這類成果就可能從新聞事件變成推動領域前進的穩定知識。
+---
 
 ## 科學背景
 
-本篇聚焦「有機化學與合成」，整理今日相關新聞中的關鍵科學脈絡。
+在高中化學課上，我們都學過「同分異構物」的概念——分子式相同，但結構或空間排列不同的分子。其中，最令人著迷的莫過於「鏡像異構物」（Enantiomers）。它們就像我們的左手與右手，雖然看起來一模一樣，但無論在空間中如何旋轉，都無法完全重合。
+
+在傳統認知中，鏡像異構物通常是因為分子中含有一個連接了四個不同基團的「不對稱碳原子」（手性中心）而產生。然而，大自然還隱藏了另一種更微妙的立體化學現象：**旋轉異構（Atropisomerism）**。
+
+想像一下，兩個巨大的齒輪由一根軸心（單鍵）連接。如果齒輪上沒有什麼障礙物，這根軸心可以自由旋轉；但如果齒輪上裝了非常巨大的裝飾物，當它們旋轉到特定角度時，這些裝飾物就會互相卡死，使軸心再也無法轉動。在化學分子中，當兩個芳香環（例如聯芳基結構，Biaryl）以單鍵相連，且環上的旁側基團體積過大時，單鍵的自由旋轉就會因為「空間位阻」（Steric hindrance）而受阻。這時，分子就會被固定在特定的旋轉角度，形成兩種互為鏡像、且在常溫下無法自由轉換的「旋轉異構物」。
+
+在藥物開發中，區分這兩種旋轉異構物至關重要。因為人體內的受體（通常也是具有手性的蛋白質）就像是一隻右手手套，往往只能與「右手型」的藥物分子完美結合，而「左手型」的分子輕則無效，重則可能產生嚴重的毒副作用。
+
+---
+
+## 內容
+
+在合成這類具有手性特徵的分子時，化學家面臨一個巨大挑戰：傳統的化學合成方法往往會產生一比一的「外消旋混合物」（Racemate），即左手和右手分子各佔一半。如果直接將它們分離，我們最多隻能得到 50% 的目標產物，另外 50% 不適用的異構物就只能當作廢棄物丟棄，這在經濟與環保上都是極大的浪費。
+
+為了解決這個難題，科學家開發了**「去外消旋化」（Deracemization）**技術。這項技術的奇妙之處在於，它不只是單純的「分離」，而是像魔術一樣，能將混合物中「錯誤」方向的分子，全部轉化為「正確」方向的分子，實現理論上 100% 的產率。
+
+最近，發表於國際頂尖期刊《Nature》的一項研究，正是聚焦於利用「生物催化」（Biocatalysis）來實現旋轉異構物的去外消旋化。由密西根大學的 Alison R. H. Narayan 教授帶領的研究團隊，利用高度專一性的酵素作為催化劑。酵素是生物體內的催化大師，它們具有精緻的三度空間口袋，能夠像鎖與鑰匙一樣，只與特定形狀的分子結合。透過精心挑選或經由定向演化改造的酵素，研究人員得以在溫和的條件下，將聯芳基旋轉異構物的外消旋混合物，高效地轉化為單一對映體富集（Enantioenriched）的產物。
+
+值得注意的是，這項尖端研究的背後，也凝聚了科學界前仆後繼的努力。在該論文發表的後續勘誤（Author Correction）中，作者特別補充引用了 Berreur 等人幾乎在同期發表的研究。Berreur 的研究展示了另一種極具創意的策略：利用**「雙酵素序列」（Two-enzyme sequence）**來達成聯芳基分子的去外消旋化。這種方法結合了兩種不同功能的酵素，第一種酵素先將其中一種旋轉異構物進行選擇性氧化，打破其原本的平衡，接著第二種酵素再將其還原，透過這種類似「接力賽」的化學反應，最終將所有分子導向同一個特定的旋轉方向。
+
+這項勘誤不僅修正了學術引用的完整性，更向世人展示了生物催化領域的蓬勃發展。不同研究團隊從不同角度（單一酵素的深度開發與雙酵素系統的協同合作）攻克了同一個化學難題，共同拓寬了綠色合成化學的邊界。
+
+---
 
 ## 為什麼重要
 
-這篇精華文章選取 1 篇與「有機化學與合成」最相關且分數較高的文章，目標是把分散的新聞整理成可理解的科學脈絡。對一般讀者而言，這能幫助快速掌握今日重要進展；對長期追蹤者而言，則能看出哪些問題正在形成新的研究焦點。
+這項研究與其背後的生物催化技術，對未來的科學與產業發展有著深遠的影響：
+
+1. **綠色製藥的革命**：
+   現代許多抗癌藥、抗病毒藥物都含有聯芳基的旋轉異構結構。傳統的合成方法往往需要使用昂貴且具有毒性的過渡金屬催化劑（如鈀、銠），並在有機溶劑與高溫下進行。而生物催化（酵素反應）通常在常溫、常壓的水溶液中就能高效運作，大幅減少了化學製藥過程中的碳排放與有毒廢棄物，是實踐「綠色化學」（Green Chemistry）的典範。
+
+2. **提高藥物研發效率與安全性**：
+   能夠精準合成單一旋轉異構物，意味著科學家可以更快速地篩選出活性最高、副作用最低的藥物候選分子，降低新藥開發的成本，最終造福廣大患者。
+
+3. **科學誠信與學術合作的典範**：
+   《Nature》的這篇勘誤提醒了我們，科學研究從來不是孤島。在競爭激烈的學術前沿，及時承認並引用同儕的相關發現（如雙酵素系統的應用），不僅維護了學術的嚴謹與誠實，也幫助後來的研究者能看清該領域的全貌，推動科學整體向前邁進。
+
+---
 
 ## 參考來源
 
-- [Author Correction: Synthesis of enantioenriched atropisomers by biocatalytic deracemization](https://www.nature.com/articles/s41586-026-10854-4)
-
-## 入選文章詳細內容
-
-### Author Correction: Synthesis of enantioenriched atropisomers by biocatalytic deracemization
-
-Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles and JavaScript. S. Luke Schulert ORCID: orcid.org/0009-0000-5992-9410 1 , 2 na1 , Lara E. Zetzsche ORCID: orcid.org/0000-0002-1644-7769 1 , 2 , Eunjae Shim ORCID: orcid.org/0000-0002-4085-9659 1 , Eugene E. Kwan ORCID: orcid.org/0000-0001-7037-0531 3 & Alison R. H. Narayan ORCID: orcid.org/0000-0001-8290-0077 1 , 2 , 4 The Original Article was published on 12 November 2025 Correction to: Nature https://doi.org/10.1038/s41586-025-09738-w Published online 12 November 2025 In the version of this article initially published, the authors had omitted a citation for a recent study (Berreur, J. et al. Nature https://doi.org/10.1038/s41586-025-09291-6 (2025)) which reported a biaryl deracemization process accomplished through a two-enzyme sequence. The reference is now cited in the third paragraph of the main text of the HTML and PDF versions of the article. These authors contributed equally: Casey B. Roos, S. Luke Schulert Life Sciences Institute, University of Michigan, Ann Arbor, MI, USA Casey B. Roos, S. Luke Schulert, Lara E. Zetzsche, Angela E. Cheong, Eunjae Shim & Alison R. H. Narayan Program in Chemical Biology, University of Michigan, Ann Arbor, MI, USA S. Luke Schulert, Lara E. Zetzsche & Alison R. H. Narayan Process Research and Development, Merck & Co., Inc., Rahway, NJ, USA Department of Chemistry, University of Michigan, Ann Arbor, MI, USA Open Access This article is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License, which permits any non-commercial use, sharing, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if you modified the licensed material. You do not have permission under this licence to share adapted material derived from this article or parts of it. The images or other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/licenses/by-nc-nd/4.0/ . Roos, C.B., Schulert, S.L., Zetzsche, L.E. et al. Author Correction: Synthesis of enantioenriched atropisomers by biocatalytic deracemization. Nature (2026). https://doi.org/10.1038/s41586-026-10854-4 DOI : https://doi.org/10.1038/s41586-026-10854-4 Anyone you share the following link with will be able to read this content: Sorry, a shareable link is not currently available for this article. Provided by the Springer Nature SharedIt content-sharing initiative Sign up for the Nature Briefing newsletter — what matters in science, free to your inbox daily.
+* Roos, C. B., Schulert, S. L., Zetzsche, L. E. et al. Author Correction: Synthesis of enantioenriched atropisomers by biocatalytic deracemization. *Nature* (2026). 
+  https://www.nature.com/articles/s41586-026-10854-4
+* Berreur, J. et al. Biaryl deracemization process accomplished through a two-enzyme sequence. *Nature* (2025).
+  https://doi.org/10.1038/s41586-025-09291-6

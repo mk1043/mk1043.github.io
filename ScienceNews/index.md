@@ -1,35 +1,35 @@
 # ScienceNews
 
-更新日期：2026-07-07
+更新日期：2026-07-08
 
 每日自動整理全球重要科學新聞，依五大科學分類篩選與排序。
 
-## [Astronomy](Astronomy/20260707-Astronomy.md)
+## [Astronomy](Astronomy/20260708-Astronomy.md)
 
-今日子題：太陽系與行星科學
+今日子題：恆星與星系
 
-- [NASA Seeks Volunteers for New Yearlong Simulated Moon, Mars Mission](https://www.nasa.gov/humans-in-space/nasa-seeks-volunteers-for-new-yearlong-simulated-moon-mars-mission/) - NASA
+- [Keep the Hubble and James Webb Space Telescopes alive — the science is worth the price tag](https://www.nature.com/articles/d41586-026-02095-2) - Nature
 
-## [Physics](Physics/20260707-Physics.md)
+## [Physics](Physics/20260708-Physics.md)
 
-今日子題：光學與電漿物理
-
-目前沒有可用文章。
-
-## [Chemistry](Chemistry/20260707-Chemistry.md)
-
-今日子題：環境化學
-
-- [Scientists reveal what really happens when water is trapped in tiny spaces](https://www.sciencedaily.com/releases/2026/06/260626124706.htm) - ScienceDaily
-
-## [Biology & Medical Engineering](Biology/20260707-Biology.md)
-
-今日子題：生物工程與醫學工程
+今日子題：粒子物理與高能物理
 
 目前沒有可用文章。
 
-## [Earth Science](EarthScience/20260707-EarthScience.md)
+## [Chemistry](Chemistry/20260708-Chemistry.md)
 
-今日子題：環境與生態系統
+今日子題：有機化學與合成
 
-- [Streetlights are trapping thousands of pill bugs in giant “death spirals”](https://www.sciencedaily.com/releases/2026/06/260626125707.htm) - ScienceDaily
+- [Author Correction: Synthesis of enantioenriched atropisomers by biocatalytic deracemization](https://www.nature.com/articles/s41586-026-10854-4) - Nature
+
+## [Biology & Medical Engineering](Biology/20260708-Biology.md)
+
+今日子題：分子生物與基因體
+
+- [From cloning to gene-editing: the enduring legacy of Dolly the sheep](https://www.nature.com/articles/d41586-026-02096-1) - Nature
+
+## [Earth Science](EarthScience/20260708-EarthScience.md)
+
+今日子題：大氣科學
+
+- [New research reveals the hidden pollution left behind by fireworks](https://www.sciencedaily.com/releases/2026/07/260701205009.htm) - ScienceDaily
