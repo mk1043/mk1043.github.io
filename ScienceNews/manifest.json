@@ -10,12 +10,6 @@
           "title": "2026-07-08",
           "path": "Astronomy/20260708-Astronomy.md",
           "category": "Astronomy"
-        },
-        {
-          "date": "20260707",
-          "title": "2026-07-07",
-          "path": "Astronomy/20260707-Astronomy.md",
-          "category": "Astronomy"
         }
       ]
     },
@@ -27,12 +21,6 @@
           "date": "20260708",
           "title": "2026-07-08",
           "path": "Physics/20260708-Physics.md",
-          "category": "Physics"
-        },
-        {
-          "date": "20260707",
-          "title": "2026-07-07",
-          "path": "Physics/20260707-Physics.md",
           "category": "Physics"
         }
       ]
@@ -46,12 +34,6 @@
           "title": "2026-07-08",
           "path": "Chemistry/20260708-Chemistry.md",
           "category": "Chemistry"
-        },
-        {
-          "date": "20260707",
-          "title": "2026-07-07",
-          "path": "Chemistry/20260707-Chemistry.md",
-          "category": "Chemistry"
         }
       ]
     },
@@ -64,12 +46,6 @@
           "title": "2026-07-08",
           "path": "Biology/20260708-Biology.md",
           "category": "Biology"
-        },
-        {
-          "date": "20260707",
-          "title": "2026-07-07",
-          "path": "Biology/20260707-Biology.md",
-          "category": "Biology"
         }
       ]
     },
@@ -81,12 +57,6 @@
           "date": "20260708",
           "title": "2026-07-08",
           "path": "EarthScience/20260708-EarthScience.md",
-          "category": "EarthScience"
-        },
-        {
-          "date": "20260707",
-          "title": "2026-07-07",
-          "path": "EarthScience/20260707-EarthScience.md",
           "category": "EarthScience"
         }
       ]
