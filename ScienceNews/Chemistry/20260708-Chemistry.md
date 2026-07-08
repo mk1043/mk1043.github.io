@@ -2,57 +2,56 @@
 
 更新日期：2026-07-08
 
+## 今日子題
+
+有機化學與合成
+
 ## 今日重點
 
-*   **阻轉異構的奧秘**：介紹化學中因「單鍵旋轉受阻」而產生的獨特對掌性現象——阻轉異構，並說明其在藥物設計中的關鍵角色。
-*   **生物催化的綠色革命**：探討科學家如何利用大自然的「酵素」作為催化劑，將原本各佔一半的混合物，百分之百轉化為單一有用的異構物。
-*   **科學社群的自我修正**：透過頂尖期刊《Nature》的一則作者更正啟事，展現科學研究中嚴謹引用、尊重同行成果的學術倫理與合作精神。
-
----
-
-## 科學背景
-
-在高中化學課中，我們都學過「對掌性」（Chirality）的概念。最經典的例子就是我們的左右手：它們看起來一模一樣，互為鏡像，但無論你如何旋轉，都無法在三維空間中完全重疊。在有機化學中，當一個碳原子接了四個不同的基團時，就會形成這種具有「鏡像異構物」（Enantiomers）的對掌性分子。
-
-然而，大自然的奇妙不僅止於此。有一種對掌性不需要「對掌碳原子」也能存在，這就是「阻轉異構」（Atropisomerism）。
-
-想像一個旋轉門。如果旋轉門周圍沒有任何障礙物，它可以自由旋轉，那麼門的兩側就沒有區別。但如果我們在旋轉門的兩側放了巨大的障礙物，讓門卡在某個角度，既不能往前轉，也不能往後轉，這時旋轉門就固定在特定的方向了。
-
-在分子尺度上也是如此。當兩個芳香環（例如聯芳基化合物，Biaryl compounds）透過一個單鍵相連時，這個單鍵原本是可以自由旋轉的。但是，如果這兩個環上接了非常笨重、體積龐大的化學基團（我們稱為立體阻礙），這些基團在旋轉時會彼此碰撞，導致單鍵無法自由旋轉。這時，分子就會被「卡」在特定的角度，形成兩種互為鏡像、且無法自由轉換的異構物，這就是「阻轉異構物」（Atropisomers）。
-
-在過去，化學家合成這類分子時，往往會得到一比一的混合物，稱為「外消旋體」（Racemate）。然而，在製藥工業中，通常只有其中一種異構物具有療效，另一種可能完全無效，甚至會產生嚴重的副作用。因此，如何精準地只合成其中一種異構物，或是將混合物全部轉化為單一異構物，成了有機化學家夢寐以求的聖杯。
-
----
+- Gas-phase degradation of the aroma compound ethyl butyrate and its methylated derivatives: UV-C photolysis and reactions with the hydroxyl radical
+- Author Correction: Synthesis of enantioenriched atropisomers by biocatalytic deracemization
+- High $^{12}$C/$^{13}$C isotopic ratios toward G+0.693-0.027: evidence for gas inflow to the Central Molecular Zone
 
 ## 內容
 
-近期，發表於國際頂尖學術期刊《Nature》的一篇作者更正啟事（Author Correction），重新將眾人的目光拉回了這個化學前沿領域。這篇由密西根大學（University of Michigan）的 Alison R. H. Narayan 教授團隊與默沙東藥廠（Merck & Co.）合作的研究，聚焦於利用「生物催化去外消旋化」（Biocatalytic deracemization）技術來合成高純度的阻轉異構物。
+今天的「有機化學與合成」新聞呈現出幾個共同線索：反應設計、催化策略，以及更安全的合成方法。這些研究或觀測不只是單一事件，而是共同指向一個趨勢：科學家正透過更細緻的資料、更精密的儀器與更跨領域的方法，重新理解自然現象背後的機制。
 
-所謂的「去外消旋化」（Deracemization），是一種非常高超的化學魔術。傳統上，如果我們有一包各佔一半的左右手分子混合物，我們只能用「拆分法」把左手分子挑出來，扔掉右手分子，這樣做最大產率只有 50%。但「去外消旋化」不同，它是利用特定的催化劑，強行將「右手分子」轉化為「左手分子」，最終讓整包混合物百分之百都變成左手分子，產率理論上可達 100%。
+### 核心脈絡
 
-Narayan 教授團隊在這項研究中，利用了高度專一性的「酵素」（Enzymes）作為生物催化劑。酵素是生物體內的催化大師，具有極高的立體選擇性。然而，這篇更正啟事指出，作者在論文發表初期，遺漏引用了另一組研究團隊（Berreur 等人）幾乎在同一時期發表的重要成果。
+從Atmospheric Chemistry and Physics、Nature、arXiv的報導來看，有機化學與合成的進展通常不是靠單一突破完成，而是由觀測、實驗、模型與長期資料累積交互推動。因此，判讀今日新聞時，重點不只在於哪一項結果最吸睛，也在於它是否能補上既有理論或應用中的缺口。
 
-Berreur 等人的研究同樣發表於《Nature》，他們展示了一種「雙酵素序列」（Two-enzyme sequence）的技術。這項技術利用兩種不同的酵素接力合作：第一種酵素先將聯芳基化合物的其中一種阻轉異構物進行選擇性氧化，打破其原本的平衡；接著，第二種酵素或化學還原劑再將其還原。在這樣一氧化、一還原的循環中，分子不斷在兩種狀態間切換，最終所有的分子都會被「馴服」，整齊劃一地朝向同一個方向，完成了高效率的去外消旋化。
+### 關鍵進展
 
-這項更正不僅補全了學術文獻的完整性，更向世人展示了科學界在解決「阻轉異構物合成」這一難題上，正並行著多條極具創意的路徑。
+最突出的線索來自「Gas-phase degradation of the aroma compound ethyl butyrate and its methylated derivatives: UV-C photolysis and reactions with the hydroxyl radical」。Gas-phase degradation of the aroma compound ethyl butyrate and its methylated derivatives: UV-C photolysis and reactions with the hydroxyl radical Finja Löher, Mark A.這類成果的價值，在於它為今日主題提供了一個可以被後續研究檢驗的切入點。與此同時，「Author Correction: Synthesis of enantioenriched atropisomers by biocatalytic deracemization」、「High $^{12}$C/$^{13}$C isotopic ratios toward G+0.693-0.027: evidence for gas inflow to the Central Molecular Zone」也從不同角度補充了同一個問題：有些文章提供觀測資料，有些凸顯實驗或模型方法，另一些則指出可能的應用與風險。把這些線索放在一起看，比單獨閱讀任何一篇新聞更能看出研究方向的變化。
 
----
+### 值得觀察
+
+其中最值得後續追蹤的是「Gas-phase degradation of the aroma compound ethyl butyrate and its methylated derivatives: UV-C photolysis and reactions with the hydroxyl radical」。它的意義不只在於單篇新聞本身，而在於後續是否會被更多觀測、實驗或同儕研究驗證。如果相關證據持續累積，這類成果就可能從新聞事件變成推動領域前進的穩定知識。
+
+## 科學背景
+
+本篇聚焦「有機化學與合成」，整理今日相關新聞中的關鍵科學脈絡。
 
 ## 為什麼重要
 
-這項研究與其背後的科學進展，對我們的未來有著深遠的影響，主要體現在以下三個層面：
-
-第一，**藥物開發的革命**：現代許多新型的小分子藥物，特別是針對癌症或病毒的標靶藥物，都含有阻轉異構的結構。如果能利用酵素高效、精準地合成出單一活性的阻轉異構物，不僅能大幅降低製藥成本，更能提高藥物的安全性與療效，縮短新藥研發的時程。
-
-第二，**綠色化學的實踐**：傳統的有機合成往往需要使用昂貴、稀有且有毒的過渡金屬催化劑（如鈀、銠等），並且需要在高溫、高壓或強酸、強鹼等嚴苛條件下進行。而「生物催化」使用的是源自生物體的酵素，反應通常在常溫、常壓的水溶液中就能進行，副產物極少，是實現綠色永續化學的重要工具。
-
-第三，**科學誠信與社群合作**：這篇《Nature》的更正啟事提醒了我們，科學發現往往不是孤立發生的。在同一個時間點，世界上可能有多個團隊正用不同的方法解決同一個難題。及時且準確地引用同行的工作，不僅是對他人智慧財產的尊重，更是科學知識得以正確累積、傳承的基石。
-
-透過這些研究，我們看到化學家如何向大自然借鏡，利用生物演化數百萬年的酵素工具，解決了人類在實驗室裡難以攻克的立體化學難題。這不僅是化學合成技術的突破，更是人類智慧與自然力量完美結合的典範。
-
----
+這篇精華文章選取 3 篇與「有機化學與合成」最相關且分數較高的文章，目標是把分散的新聞整理成可理解的科學脈絡。對一般讀者而言，這能幫助快速掌握今日重要進展；對長期追蹤者而言，則能看出哪些問題正在形成新的研究焦點。
 
 ## 參考來源
 
-*   **原文標題**：Author Correction: Synthesis of enantioenriched atropisomers by biocatalytic deracemization
-*   **URL**：https://www.nature.com/articles/s41586-026-10854-4
+- [Gas-phase degradation of the aroma compound ethyl butyrate and its methylated derivatives: UV-C photolysis and reactions with the hydroxyl radical](https://doi.org/10.5194/acp-26-9277-2026)
+- [Author Correction: Synthesis of enantioenriched atropisomers by biocatalytic deracemization](https://www.nature.com/articles/s41586-026-10854-4)
+- [High $^{12}$C/$^{13}$C isotopic ratios toward G+0.693-0.027: evidence for gas inflow to the Central Molecular Zone](https://arxiv.org/abs/2607.06541v1)
+
+## 入選文章詳細內容
+
+### Gas-phase degradation of the aroma compound ethyl butyrate and its methylated derivatives: UV-C photolysis and reactions with the hydroxyl radical
+
+Articles & preprints Browse Recent By topics Preprints Journal volumes Highlights ACP Letters Editor's choice Opinions Articles Research articles Review articles Measurement reports Technical notes Special issues SI overview articles Published SIs Scheduled SIs How to apply for an SI Collections How to add an article to a collection EGU Compilations EGU Letters Encyclopedia of Geosciences EGUsphere Popular Most downloaded Most commented Alerts Subscribe to alerts Policies Licence & copyright General terms Guidelines for authors Guidelines for editors Publication policy AI policy Data policy Publication ethics Inclusivity in global research Competing interests policy Appeals & complaints Proofreading guidelines Obligations for authors Obligations for editors Obligations for referees Inclusive author name-change policy Peer review Interactive review process Finding an editor Review criteria Become a referee Manuscript tracking Reviewer recognition Awards Outstanding referee awards Outstanding editor award Paul Crutzen Publication award About Aims & scope Manuscript types Article processing charges Financial support Promote your work News & press Many thanks to Cristina Facchini and Rolf Sander and welcome to Barbara Ervens as executive editor of ACP First ACP Letter: The value of remote marine aerosol measurements for constraining radiative forcing uncertainty Atmospheric evolution of emissions from a boreal forest fire: the formation of highly functionalized oxygen-, nitrogen-, and sulfur-containing organic compounds Observing the timescales of aerosolâcloud interactions in snapshot satellite images New ACP Letter: How alkaline compounds control atmospheric aerosol particle acidity Changes in biomass burning, wetland extent, or agriculture drive atmospheric NH3 trends in select African regions Two of ACP's founding executive editors step down EGU resources Journal statistics Journal metrics Abstracted & indexed Article level metrics FAQs Contact XML harvesting & OAI-PMH Multiple terms: term1 term2 red apples returns results with all terms like: Fructose levels in red and green apples Precise match in quotes: "term1 term2" "red apples" returns results matching exactly like: Anthocyanin biosynthesis in red apples Exclude a term with -: term1 -term2 apples -red returns results containing apples but not red : Malic acid in green apples The aroma compound ethyl butyrate (EB) and its methylated derivatives ethyl 2-methylbutyrate (EM), ethyl isovalerate (EI), and isopropyl butyrate (IB) are present in many consumer products. To evaluate the environmental and health impacts of these volatile organic compounds, a detailed understanding of their gas-phase photochemical reactivity is required. Here, we performed pulsed laser photolysis/laser-induced fluorescence (PLP-LIF) experiments to investigate the kinetics of their reactions with the hydroxyl radical (OH). Room temperature rate coefficients in units of 10 - 12 molec . - 1 cm 3 s - 1 with 2 Ï statistical errors were determined as: ( 5.5Â±0.2 ) for EBâ + âOH, ( 7.0Â±0.3 ) for EMâ + âOH, ( 11.2Â±0.4 ) for EIâ + âOH, and ( 7.5Â±0.4 ) for IBâ + âOH. All four reactions exhibited complex kinetics with distinct non-Arrhenius behaviour for temperatures up to about 400âK. This behaviour was attributed to pre-reaction complexes and is consistent with site-specific reactivities as predicted by an established structure-activity-relationship (SAR). In a second series of experiments, quasi-gas-phase UV-vis. spectroscopy and time-dependent density functional theory predictions were used to obtain absorption cross-sections. All four esters displayed an absorption band at around 213ânm (spin-forbidden Ï * â n transition), but did not absorb appreciably in the visible or UV-A part of the spectrum where light is abundant at ground level. Therefore, the reaction with OH was considered the main loss process, with lifetimes for tropospheric removal ranging from 22â45âh. Photochemical ozone creation potentials were estimated to be in a moderate range between 28 and 34. LÃ¶her, F., Blitz, M. A., Seakins, P. W., Carslaw, N., and Dillon, T. J.: Gas-phase degradation of the aroma compound ethyl butyrate and its methylated derivatives: UV-C photolysis and reactions with the hydroxyl radical, Atmos. Chem. Phys., 26, 9277–9293, https://doi.org/10.5194/acp-26-9277-2026, 2026. Ethyl butyrate (ethyl butanoate; henceforth EB) and its methylated derivatives ethyl 2-methylbutyrate (ethyl 2-methylbutanoate; EM), ethyl isovalerate (ethyl 3-methylbutanoate; EI), and isopropyl butyrate (propan-2-yl butanoate; IB) are a group of volatile compounds with widespread occurrence and versatile applications but largely unknown gas-phase behaviour. Their structures are shown in Fig.Â 1. In industrial contexts, EB and its derivatives have been explored as promising second-generation biofuels that could support the transition away from petroleum-based fuels (Badawy etÂ al., 2016; El-Nahas etÂ al., 2010; Zhang et al., 2021). Furthermore, fatty acid esters with C 4 â C 5 acid chains are potent solvents (Knothe and Steidley, 2011) that can be synthesised from bio-derived alcohols and acids and may therefore be sourced sustainably at large scales (Xu etÂ al., 2020). FigureÂ 1 Molecular structures of EB and its derivatives with numbered H abstraction sites. The areas of the circles are proportional to the room temperature partial rate coefficients for the reaction with OH at each site, as predicted by the structure-activity relationship (SAR) by Jenkin etÂ al. (2018). The absolute and relative values of these rate coefficients are listed in TableÂ S5 in the Supplement. Importantly, EB and its derivatives are also present in many consumer products. They occur naturally in many plants and food products (Bicas et al., 2011; Kim etÂ al., 2013; Sosa-Moguel etÂ al., 2018), and can enhance sweetness perception and are thus used as sugar substitutes in food and as active ingre
+
+### Author Correction: Synthesis of enantioenriched atropisomers by biocatalytic deracemization
+
+Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles and JavaScript. S. Luke Schulert ORCID: orcid.org/0009-0000-5992-9410 1 , 2 na1 , Lara E. Zetzsche ORCID: orcid.org/0000-0002-1644-7769 1 , 2 , Eunjae Shim ORCID: orcid.org/0000-0002-4085-9659 1 , Eugene E. Kwan ORCID: orcid.org/0000-0001-7037-0531 3 & Alison R. H. Narayan ORCID: orcid.org/0000-0001-8290-0077 1 , 2 , 4 The Original Article was published on 12 November 2025 Correction to: Nature https://doi.org/10.1038/s41586-025-09738-w Published online 12 November 2025 In the version of this article initially published, the authors had omitted a citation for a recent study (Berreur, J. et al. Nature https://doi.org/10.1038/s41586-025-09291-6 (2025)) which reported a biaryl deracemization process accomplished through a two-enzyme sequence. The reference is now cited in the third paragraph of the main text of the HTML and PDF versions of the article. These authors contributed equally: Casey B. Roos, S. Luke Schulert Life Sciences Institute, University of Michigan, Ann Arbor, MI, USA Casey B. Roos, S. Luke Schulert, Lara E. Zetzsche, Angela E. Cheong, Eunjae Shim & Alison R. H. Narayan Program in Chemical Biology, University of Michigan, Ann Arbor, MI, USA S. Luke Schulert, Lara E. Zetzsche & Alison R. H. Narayan Process Research and Development, Merck & Co., Inc., Rahway, NJ, USA Department of Chemistry, University of Michigan, Ann Arbor, MI, USA Open Access This article is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License, which permits any non-commercial use, sharing, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if you modified the licensed material. You do not have permission under this licence to share adapted material derived from this article or parts of it. The images or other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/licenses/by-nc-nd/4.0/ . Roos, C.B., Schulert, S.L., Zetzsche, L.E. et al. Author Correction: Synthesis of enantioenriched atropisomers by biocatalytic deracemization. Nature (2026). https://doi.org/10.1038/s41586-026-10854-4 DOI : https://doi.org/10.1038/s41586-026-10854-4 Anyone you share the following link with will be able to read this content: Sorry, a shareable link is not currently available for this article. Provided by the Springer Nature SharedIt content-sharing initiative Sign up for the Nature Briefing newsletter — what matters in science, free to your inbox daily.
+
+### High $^{12}$C/$^{13}$C isotopic ratios toward G+0.693-0.027: evidence for gas inflow to the Central Molecular Zone
+
+Isotopic ratios are key tracers of Galactic chemical evolution because different isotopes are synthesized through distinct stellar nucleosynthesis processes. While the $^{12}$C/$^{13}$C ratio increases with galactocentric distance across the Galactic disc, measurements in the Central Molecular Zone (CMZ) have historically yielded low values ($\sim$3-30), often affected by high optical depths. We aim to determine the initial $^{12}$C/$^{13}$C ratio of the parent material of the CMZ molecular cloud G+0.693$-$0.027 using optically thin molecular tracers and correcting for isotopic fractionation. We analyzed an ultra-high-sensitivity spectral survey obtained with the IRAM 30m and Yebes 40m telescopes, detecting single and double $^{13}$C isotopologues of HC$_3$N and HC$_5$N. Column densities and isotopic ratios were derived and compared with astrochemical models including $^{13}$C- and $^{15}$N-isotopologues to quantify isotopic fractionation. We derive $^{12}$C/$^{13}$C ratios of $36.7\pm1.0$ for HC$_3$N (using double $^{13}$C isotopologues) and $38.8\pm1.5$ for HC$_5$N, significantly higher than previous CMZ estimates based on simpler molecules. The models indicate low to intermediate isotopic fractionation at early times ($<3\times10^4$ yr), implying an initial $^{12}$C/$^{13}$C ratio of $\sim$48 for the gas from which present-day CMZ molecular clouds formed. The inferred range (37-48) is consistent with values observed at Galactocentric distances of 3-5 kpc, supporting a scenario in which the CMZ is replenished by gas inflows from the Galactic disc driven by the Galactic bar, with a possible contribution from less chemically processed material accreted from external systems such as dwarf galaxies. arXiv categories: astro-ph.GA, astro-ph.EP, astro-ph.SR
