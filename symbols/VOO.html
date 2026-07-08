@@ -1,0 +1,119 @@
+<!doctype html>
+<html lang="zh-Hant-TW">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>VOO 研究頁</title>
+  <link rel="stylesheet" href="../style.css">
+</head>
+<body>
+  <header class="site-header">
+    <div>
+      <p class="eyebrow">Symbol Research</p>
+      <h1>VOO</h1>
+      <p class="subtitle">此頁整合 Python 已產生的市場、技術、量價、事件、回測與研究訊號資料。</p>
+    </div>
+    <div class="date-card">
+      <span>標的名稱</span>
+      <strong>VOO</strong>
+    </div>
+  </header>
+  <main>
+    <div class="actions">
+      <a href="../index.html">返回首頁</a>
+      <a href="../analysis_summary.json">分析 JSON</a>
+    </div>
+
+    <section class="summary-grid">
+      <article class="card">
+  <h2>收盤</h2>
+  <strong class="metric-value">687.08</strong>
+</article>
+      <article class="card">
+  <h2>20 日</h2>
+  <strong class="metric-value">1.34%</strong>
+</article>
+      <article class="card">
+  <h2>60 日</h2>
+  <strong class="metric-value">9.93%</strong>
+</article>
+      <article class="card">
+  <h2>觀察等級</h2>
+  <strong class="metric-value">積極觀察</strong>
+</article>
+    </section>
+
+    <section class="dashboard-grid">
+      <section class="panel compact-panel">
+        <div class="panel-heading">
+          <h2>市場資料</h2>
+          <span>2026-07-07</span>
+        </div>
+        <ul class="key-value-list"><li><span>成交量</span><strong>4,833,600.00</strong></li><li><span>20 日均線</span><strong>681.88</strong></li><li><span>60 日均線</span><strong>673.60</strong></li><li><span>200 日均線</span><strong>637.49</strong></li><li><span>距 52 週高點</span><strong>-1.60%</strong></li><li><span>距 52 週低點</span><strong>20.49%</strong></li></ul>
+      </section>
+      <section class="panel compact-panel">
+        <div class="panel-heading">
+          <h2>技術指標</h2>
+          <span>Python 計算</span>
+        </div>
+        <ul class="key-value-list"><li><span>RSI14</span><strong>54.23</strong></li><li><span>MACD hist</span><strong>0.25</strong></li><li><span>KD K/D</span><strong>75.96 / 65.03</strong></li><li><span>ADX</span><strong>18.66</strong></li><li><span>布林上緣</span><strong>695.37</strong></li><li><span>布林下緣</span><strong>668.40</strong></li></ul>
+      </section>
+    </section>
+
+    <section class="dashboard-grid">
+      <section class="panel compact-panel">
+        <div class="panel-heading">
+          <h2>量價與事件</h2>
+          <span>規則式分析</span>
+        </div>
+        <ul class="key-value-list"><li><span>量價型態</span><strong>量縮整理</strong></li><li><span>量價分數</span><strong>0</strong></li><li><span>20 日量比</span><strong>0.40</strong></li><li><span>OBV 20 日變化</span><strong>-5.64%</strong></li><li><span>事件偏向</span><strong>事件中性</strong></li><li><span>事件分數</span><strong>1</strong></li></ul>
+      </section>
+      <section class="panel compact-panel">
+        <div class="panel-heading">
+          <h2>研究訊號與觀察等級</h2>
+          <span>不是買賣建議</span>
+        </div>
+        <p><strong>積極觀察</strong>；研究訊號 強烈偏多，分數 6。</p>
+        <p class="muted">多項量化與事件條件同時偏正向，適合列為優先研究名單。</p>
+        <ul class="reason-list"><li>站上 20 日均線</li><li>站上 200 日均線</li><li>RSI 位於中性偏強區</li><li>MACD histogram 為正</li><li>KD 偏多但未過熱</li><li>量價型態：量縮整理</li><li>價格震盪不大且成交量偏低</li><li>近 5 日均量低於 20 日均量</li></ul>
+      </section>
+    </section>
+
+    <section class="panel">
+      <div class="panel-heading">
+        <h2>回測摘要</h2>
+        <span>歷史資料研究</span>
+      </div>
+      <div class="table-wrap"><table class="data-table"><thead><tr><th>策略</th><th>CAGR</th><th>Sharpe</th><th>最大回撤</th><th>勝率</th><th>交易次數</th></tr></thead><tbody><tr><td>價格高於 200 日均線</td><td>14.71%</td><td>1.35</td><td>-10.35%</td><td>56.85%</td><td>5</td></tr><tr><td>20/60 日均線交叉</td><td>9.77%</td><td>0.92</td><td>-9.94%</td><td>54.18%</td><td>9</td></tr><tr><td>買進持有</td><td>20.25%</td><td>1.23</td><td>-18.69%</td><td>55.47%</td><td>1</td></tr></tbody></table></div>
+    </section>
+
+    <section class="panel">
+      <div class="panel-heading">
+        <h2>圖表</h2>
+        <span>價格 / 量價 / 技術 / 回測</span>
+      </div>
+      <div class="chart-grid">
+        <article class="chart-card">
+  <h3>VOO 價格均線</h3>
+  <img src="../charts/price_ma/VOO.svg" alt="VOO 價格均線 圖表">
+</article>
+<article class="chart-card">
+  <h3>VOO 量價關係</h3>
+  <img src="../charts/volume_price/VOO.svg" alt="VOO 量價關係 圖表">
+</article>
+<article class="chart-card">
+  <h3>VOO 技術指標</h3>
+  <img src="../charts/technical/VOO.svg" alt="VOO 技術指標 圖表">
+</article>
+<article class="chart-card">
+  <h3>VOO 回測</h3>
+  <img src="../charts/backtest/VOO.svg" alt="VOO 回測 圖表">
+</article>
+      </div>
+    </section>
+  </main>
+  <footer>
+    本頁僅供研究用途，不構成任何投資建議。
+  </footer>
+</body>
+</html>
