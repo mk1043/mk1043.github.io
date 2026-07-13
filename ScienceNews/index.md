@@ -1,45 +1,45 @@
 # ScienceNews
 
-更新日期：2026-07-12
+更新日期：2026-07-13
 
 每日自動整理全球重要科學新聞，依五大科學分類篩選與排序。
 
-## [Astronomy](Astronomy/20260712-Astronomy.md)
+## [Astronomy](Astronomy/20260713-Astronomy.md)
 
-今日子題：恆星與星系
+今日子題：宇宙學與高能天文
 
-- [Pair of ‘super-puff’ planets are lighter than candy floss](https://www.nature.com/articles/d41586-026-02114-2) - Nature
-- [Deep Spectroscopic Follow-Up of Maisie's Galaxy -- A Typical Galaxy in the Early Universe](https://arxiv.org/abs/2607.08749v1) - arXiv
-- [Cataclysmic Variables Photometric Periods from TESS](https://arxiv.org/abs/2607.08727v1) - arXiv
+- [Stephen Hawking's black hole laws just got a major upgrade](https://www.sciencedaily.com/releases/2026/07/260713000757.htm) - ScienceDaily
+- [NASA Scientists Take to Air and Space to Study Arctic Sea Ice](https://www.nasa.gov/missions/airborne-science/nasa-scientists-take-to-air-and-space-to-study-arctic-sea-ice/) - NASA
+- [NASA Study Points to Smoother Air Taxi Rides](https://www.nasa.gov/centers-and-facilities/armstrong/nasa-study-points-to-smoother-air-taxi-rides/) - NASA
 
-## [Physics](Physics/20260712-Physics.md)
+## [Physics](Physics/20260713-Physics.md)
 
-今日子題：光學與電漿物理
+今日子題：粒子物理與高能物理
 
-- [Force convergence in Monte Carlo Lyman-alpha radiative transfer](https://arxiv.org/abs/2607.08726v1) - arXiv
-- [Asymmetric high-harmonic generation from subwavelength bianisotropic resonators](https://arxiv.org/abs/2607.08715v1) - arXiv
-- [Reinforcement learning control of quantum error correction](https://www.nature.com/articles/s41586-026-10759-2) - Nature
+- [Scientists thought the universe was uniform. New evidence says otherwise](https://www.sciencedaily.com/releases/2026/06/260622014308.htm) - ScienceDaily Quantum Physics
+- [Nonlinear particle detectors across the Rindler firewall](https://arxiv.org/abs/2607.09660v1) - arXiv
+- [Search for soft unclustered energy patterns in proton-proton collisions at $\sqrt{s}$ = 13 TeV using data scouting](https://arxiv.org/abs/2607.09621v1) - arXiv
 
-## [Chemistry](Chemistry/20260712-Chemistry.md)
+## [Chemistry](Chemistry/20260713-Chemistry.md)
 
-今日子題：環境化學
+今日子題：有機化學與合成
 
-- [Special relativity can warp chemical bonds – now we’ve seen it happen](https://www.newscientist.com/article/2533629-special-relativity-can-warp-chemical-bonds-now-weve-seen-it-happen/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS) - New Scientist
-- [Single-phase gradient-solvation-electrolyte-stabilized Li metal batteries](https://www.nature.com/articles/s41586-026-10732-z) - Nature
+- [Development of iron-mediated molecular chlorine chemistry in GEOS-Chem: model description, evaluation and global atmospheric implication](https://doi.org/10.5194/acp-26-9809-2026) - Atmospheric Chemistry and Physics
 - [Incredible new material makes heat programmable](https://www.sciencedaily.com/releases/2026/07/260707025046.htm) - ScienceDaily Physics
+- [Tiny bubbles could revolutionize inkjet printing](https://www.sciencedaily.com/releases/2026/07/260711010112.htm) - ScienceDaily
 
-## [Biology & Medical Engineering](Biology/20260712-Biology.md)
+## [Biology & Medical Engineering](Biology/20260713-Biology.md)
 
-今日子題：生物工程與醫學工程
+今日子題：分子生物與基因體
 
-- [A worm that lived half a billion years ago preferred turning right](https://www.newscientist.com/article/2533656-a-worm-that-lived-half-a-billion-years-ago-preferred-turning-right/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS) - New Scientist
-- [Injection halves risk of chromosome error common in older human eggs](https://www.newscientist.com/article/2533616-injection-halves-risk-of-chromosome-error-common-in-older-human-eggs/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS) - New Scientist
-- [Non-genotoxic transplantation and in vivo selection through epitope editing](https://www.nature.com/articles/s41586-026-10737-8) - Nature
+- [Epigenetic editing makes its mark](https://www.nature.com/articles/d41586-026-02151-x) - Nature
+- [The rise of evidence-based medicine and the ‘mavericks’ who championed it](https://www.nature.com/articles/d41586-026-02153-9) - Nature
+- [Game that reduces dementia risk may clear amyloid from men’s brains](https://www.newscientist.com/article/2578806-game-that-reduces-dementia-risk-clears-amyloid-from-mens-brains/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS) - New Scientist
 
-## [Earth Science](EarthScience/20260712-EarthScience.md)
+## [Earth Science](EarthScience/20260713-EarthScience.md)
 
-今日子題：環境與生態系統
+今日子題：大氣科學
 
-- [Improved constraints on ammonia emissions and deposition from co-assimilating NH3 and NO2 satellite observations over the Netherlands](https://doi.org/10.5194/acp-26-9589-2026) - Atmospheric Chemistry and Physics
-- [‘This time, it’s the other way around’: how Indonesia is reclaiming the science of human history](https://www.nature.com/articles/d41586-026-01357-3) - Nature
-- [Elevated foehn exacerbates surface ozone pollution in summer Beijing](https://doi.org/10.5194/acp-26-9453-2026) - Atmospheric Chemistry and Physics
+- [Early Career Faculty (ECF) 2025 Awards](https://www.nasa.gov/directorates/stmd/space-tech-research-grants/ecf/early-career-faculty-ecf-2025-awards/) - NASA
+- [The importance of aerosol and droplet microphysics for the properties and life cycle of radiation fog in the Po Valley](https://doi.org/10.5194/acp-26-9721-2026) - Atmospheric Chemistry and Physics
+- [Relaxed Eddy Accumulation based Flux Measurement of Atmospheric Inorganic Acidic Species over Cropland under the Long-Term Exposure to Chemical Industry Emissions in a Chinese Megacity](https://doi.org/10.5194/acp-26-9779-2026) - Atmospheric Chemistry and Physics
