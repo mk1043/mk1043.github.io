@@ -19,7 +19,7 @@
 <text x="912.00" y="172.45" font-size="10" font-family="Arial" fill="#8d2b0b" text-anchor="start">30.0</text>
 <line x1="56" y1="109.55" x2="904" y2="109.55" stroke="#f0b429" stroke-dasharray="5 5" />
 <text x="912.00" y="113.55" font-size="10" font-family="Arial" fill="#8d2b0b" text-anchor="start">70.0</text>
-<polyline fill="none" stroke="#1f77b4" stroke-width="2" points="101.84,117.34 105.11,115.75 108.39,127.89 111.66,134.61 114.93,126.17 118.21,128.71 121.48,123.22 124.76,123.22 128.03,115.88 131.31,114.34 134.58,110.84 137.85,119.06 141.13,117.36 144.40,127.06 147.68,132.34 150.95,128.17 154.22,125.48 157.50,146.74 160.77,143.10 164.05,145.05 167.32,135.80 170.59,131.96 173.87,127.12 177.14,132.60 180.42,138.45 183.69,151.15 186.97,154.23 190.24,153.44 193.51,151.78 196.79,145.30 200.06,137.31 203.34,125.54 206.61,135.71 209.88,139.39 213.16,139.39 216.43,142.63 219.71,135.91 222.98,144.24 226.25,137.14 229.53,129.76 232.80,131.15 236.08,128.86 239.35,136.04 242.63,120.71 245.90,120.71 249.17,115.66 252.45,124.35 255.72,119.16 259.00,110.29 262.27,111.01 265.54,117.51 268.82,127.31 272.09,138.30 275.37,146.56 278.64,147.42 281.92,143.04 285.19,147.27 288.46,140.19 291.74,137.11 295.01,143.26 298.29,145.71 301.56,139.51 304.83,137.87 308.11,140.17 311.38,143.61 314.66,144.77 317.93,148.80 321.20,158.66 324.48,158.66 327.75,142.72 331.03,150.21 334.30,144.15 337.58,145.19 340.85,149.32 344.12,150.35 347.40,149.61 350.67,163.03 353.95,169.80 357.22,173.54 360.49,161.70 363.77,167.07 367.04,161.91 370.32,162.60 373.59,157.90 376.86,156.54 380.14,159.48 383.41,159.90 386.69,160.80 389.96,155.85 393.24,156.38 396.51,156.93 399.78,153.21 403.06,156.87 406.33,153.93 409.61,155.25 412.88,160.90 416.15,165.35 419.43,164.21 422.70,163.00 425.98,160.51 429.25,157.96 432.53,159.49 435.80,163.91 439.07,164.62 442.35,164.62 445.62,150.17 448.90,134.02 452.17,128.02 455.44,115.28 458.72,134.98 461.99,139.33 465.27,139.33 468.54,139.33 471.81,146.99 475.09,153.03 478.36,153.03 481.64,134.25 484.91,137.27 488.19,135.10 491.46,144.68 494.73,147.36 498.01,149.37 501.28,144.97 504.56,145.72 507.83,139.49 511.10,141.19 514.38,142.08 517.65,147.31 520.93,154.30 524.20,161.50 527.47,160.35 530.75,157.97 534.02,162.07 537.30,158.32 540.57,163.14 543.85,156.89 547.12,149.90 550.39,153.93 553.67,151.55 556.94,137.03 560.22,129.54 563.49,135.34 566.76,147.56 570.04,164.09 573.31,157.38 576.59,155.72 579.86,159.82 583.14,149.99 586.41,135.57 589.68,140.39 592.96,134.56 596.23,130.74 599.51,120.04 602.78,118.81 606.05,121.74 609.33,120.81 612.60,141.19 615.88,138.46 619.15,139.59 622.42,140.19 625.70,138.27 628.97,146.77 632.25,152.57 635.52,140.29 638.80,144.63 642.07,150.18 645.34,128.11 648.62,123.31 651.89,115.94 655.17,115.05 658.44,115.67 661.71,106.97 664.99,105.99 668.26,105.74 671.54,109.23 674.81,104.06 678.08,108.91 681.36,121.46 684.63,119.35 687.91,114.69 691.18,119.04 694.46,129.29 697.73,128.88 701.00,123.95 704.28,123.54 707.55,109.43 710.83,105.52 714.10,102.02 717.37,99.06 720.65,103.49 723.92,112.51 727.20,106.00 730.47,106.59 733.75,104.73 737.02,130.23 740.29,132.62 743.57,123.78 746.84,120.55 750.12,113.82 753.39,114.28 756.66,117.62 759.94,115.02 763.21,102.20 766.49,97.52 769.76,96.64 773.03,94.55 776.31,115.18 779.58,118.72 782.86,133.54 786.13,127.39 789.41,135.19 792.68,137.48 795.95,136.47 799.23,132.67 802.50,133.58 805.78,133.90 809.05,136.25 812.32,139.27 815.60,145.04 818.87,139.14 822.15,142.43 825.42,151.05 828.69,146.96 831.97,134.65 835.24,138.76 838.52,138.12 841.79,138.12 845.07,139.59 848.34,146.26 851.61,140.07 854.89,138.94 858.16,138.94 861.44,139.79 864.71,141.14 867.98,132.28 871.26,138.79 874.53,148.39 877.81,142.96 881.08,134.80 884.36,129.70 887.63,125.30 890.90,125.30 894.18,130.32 897.45,148.27 900.73,151.76 904.00,153.64" />
+<polyline fill="none" stroke="#1f77b4" stroke-width="2" points="101.84,117.34 105.11,128.84 108.39,135.26 111.66,127.00 114.93,129.44 118.21,124.04 121.48,124.04 124.76,116.77 128.03,115.23 131.31,111.75 134.58,119.73 137.85,118.05 141.13,127.51 144.40,132.68 147.68,128.55 150.95,125.88 154.22,146.82 157.50,143.21 160.77,145.14 164.05,135.96 167.32,132.14 170.59,127.33 173.87,132.75 177.14,138.55 180.42,151.17 183.69,154.23 186.97,153.44 190.24,151.79 193.51,145.34 196.79,137.39 200.06,125.64 203.34,135.77 206.61,139.44 209.88,139.44 213.16,142.66 216.43,135.96 219.71,144.26 222.98,137.18 226.25,129.81 229.53,131.19 232.80,128.91 236.08,136.07 239.35,120.76 242.63,120.76 245.90,115.70 249.17,124.38 252.45,119.19 255.72,110.32 259.00,111.04 262.27,117.54 265.54,127.33 268.82,138.31 272.09,146.56 275.37,147.43 278.64,143.04 281.92,147.27 285.19,140.20 288.46,137.11 291.74,143.27 295.01,145.71 298.29,139.52 301.56,137.88 304.83,140.18 308.11,143.62 311.38,144.77 314.66,148.80 317.93,158.66 321.20,158.66 324.48,142.72 327.75,150.21 331.03,144.15 334.30,145.19 337.58,149.32 340.85,150.35 344.12,149.61 347.40,163.03 350.67,169.80 353.95,173.54 357.22,161.70 360.49,167.07 363.77,161.91 367.04,162.60 370.32,157.90 373.59,156.54 376.86,159.48 380.14,159.90 383.41,160.80 386.69,155.85 389.96,156.38 393.24,156.93 396.51,153.21 399.78,156.87 403.06,153.93 406.33,155.25 409.61,160.90 412.88,165.35 416.15,164.20 419.43,163.00 422.70,160.50 425.98,157.96 429.25,159.49 432.53,163.90 435.80,164.62 439.07,164.62 442.35,150.17 445.62,134.02 448.90,128.03 452.17,115.28 455.44,134.98 458.72,139.33 461.99,139.33 465.27,139.33 468.54,146.99 471.81,153.03 475.09,153.03 478.36,134.25 481.64,137.27 484.91,135.10 488.19,144.68 491.46,147.36 494.73,149.37 498.01,144.97 501.28,145.72 504.56,139.49 507.83,141.19 511.10,142.08 514.38,147.31 517.65,154.30 520.93,161.50 524.20,160.35 527.47,157.97 530.75,162.07 534.02,158.32 537.30,163.14 540.57,156.89 543.85,149.90 547.12,153.93 550.39,151.55 553.67,137.03 556.94,129.54 560.22,135.34 563.49,147.56 566.76,164.09 570.04,157.38 573.31,155.72 576.59,159.82 579.86,149.99 583.14,135.57 586.41,140.39 589.68,134.56 592.96,130.74 596.23,120.04 599.51,118.81 602.78,121.74 606.05,120.81 609.33,141.19 612.60,138.46 615.88,139.59 619.15,140.19 622.42,138.27 625.70,146.77 628.97,152.57 632.25,140.29 635.52,144.63 638.80,150.18 642.07,128.11 645.34,123.31 648.62,115.94 651.89,115.05 655.17,115.67 658.44,106.97 661.71,105.99 664.99,105.74 668.26,109.23 671.54,104.06 674.81,108.91 678.08,121.46 681.36,119.35 684.63,114.69 687.91,119.04 691.18,129.29 694.46,128.88 697.73,123.95 701.00,123.54 704.28,109.43 707.55,105.52 710.83,102.02 714.10,99.06 717.37,103.49 720.65,112.51 723.92,106.00 727.20,106.59 730.47,104.73 733.75,130.23 737.02,132.62 740.29,123.78 743.57,120.55 746.84,113.82 750.12,114.28 753.39,117.62 756.66,115.02 759.94,102.20 763.21,97.52 766.49,96.64 769.76,94.55 773.03,115.18 776.31,118.72 779.58,133.54 782.86,127.39 786.13,135.19 789.41,137.48 792.68,136.47 795.95,132.67 799.23,133.58 802.50,133.90 805.78,136.25 809.05,139.27 812.32,145.04 815.60,139.14 818.87,142.43 822.15,151.05 825.42,146.96 828.69,134.65 831.97,138.76 835.24,138.12 838.52,138.12 841.79,139.59 845.07,146.26 848.34,140.07 851.61,138.94 854.89,138.94 858.16,139.79 861.44,141.14 864.71,132.28 867.98,138.79 871.26,148.39 874.53,142.96 877.81,134.80 881.08,129.70 884.36,125.30 887.63,125.30 890.90,130.32 894.18,148.27 897.45,151.76 900.73,153.64 904.00,138.95" />
 <text x="808.00" y="76.00" font-size="13" font-family="Arial" fill="#1f77b4" text-anchor="start">RSI14</text>
 <line x1="56" y1="432" x2="904" y2="432" stroke="#cbd2d9" />
 <line x1="56" y1="272" x2="56" y2="432" stroke="#cbd2d9" />
@@ -29,7 +29,7 @@
 <text x="48.00" y="436.00" font-size="11" font-family="Arial" fill="#52606d" text-anchor="end">-12.9</text>
 <line x1="56" y1="378.67" x2="904" y2="378.67" stroke="#edf2f7" />
 <line x1="52" y1="378.67" x2="56" y2="378.67" stroke="#9fb3c8" />
-<text x="48.00" y="382.67" font-size="11" font-family="Arial" fill="#52606d" text-anchor="end">0.86</text>
+<text x="48.00" y="382.67" font-size="11" font-family="Arial" fill="#52606d" text-anchor="end">0.85</text>
 <line x1="56" y1="325.33" x2="904" y2="325.33" stroke="#edf2f7" />
 <line x1="52" y1="325.33" x2="56" y2="325.33" stroke="#9fb3c8" />
 <text x="48.00" y="329.33" font-size="11" font-family="Arial" fill="#52606d" text-anchor="end">14.6</text>
@@ -38,242 +38,242 @@
 <text x="48.00" y="276.00" font-size="11" font-family="Arial" fill="#52606d" text-anchor="end">28.3</text>
 <line x1="56" y1="381.99" x2="904" y2="381.99" stroke="#9fb3c8" stroke-dasharray="4 4" />
 <rect x="136.71" y="381.99" width="2.28" height="0.00" fill="#2f9e44" opacity="0.55" />
-<rect x="139.99" y="381.44" width="2.28" height="0.55" fill="#2f9e44" opacity="0.55" />
-<rect x="143.26" y="381.99" width="2.28" height="0.53" fill="#d64545" opacity="0.55" />
-<rect x="146.53" y="381.99" width="2.28" height="2.09" fill="#d64545" opacity="0.55" />
-<rect x="149.81" y="381.99" width="2.28" height="2.36" fill="#d64545" opacity="0.55" />
-<rect x="153.08" y="381.99" width="2.28" height="2.06" fill="#d64545" opacity="0.55" />
-<rect x="156.36" y="381.99" width="2.28" height="5.38" fill="#d64545" opacity="0.55" />
-<rect x="159.63" y="381.99" width="2.28" height="6.69" fill="#d64545" opacity="0.55" />
-<rect x="162.90" y="381.99" width="2.28" height="7.65" fill="#d64545" opacity="0.55" />
-<rect x="166.18" y="381.99" width="2.28" height="6.33" fill="#d64545" opacity="0.55" />
-<rect x="169.45" y="381.99" width="2.28" height="4.52" fill="#d64545" opacity="0.55" />
-<rect x="172.73" y="381.99" width="2.28" height="2.22" fill="#d64545" opacity="0.55" />
-<rect x="176.00" y="381.99" width="2.28" height="1.61" fill="#d64545" opacity="0.55" />
-<rect x="179.28" y="381.99" width="2.28" height="2.19" fill="#d64545" opacity="0.55" />
-<rect x="182.55" y="381.99" width="2.28" height="5.11" fill="#d64545" opacity="0.55" />
-<rect x="185.82" y="381.99" width="2.28" height="7.46" fill="#d64545" opacity="0.55" />
-<rect x="189.10" y="381.99" width="2.28" height="8.45" fill="#d64545" opacity="0.55" />
-<rect x="192.37" y="381.99" width="2.28" height="8.39" fill="#d64545" opacity="0.55" />
-<rect x="195.65" y="381.99" width="2.28" height="6.92" fill="#d64545" opacity="0.55" />
-<rect x="198.92" y="381.99" width="2.28" height="4.24" fill="#d64545" opacity="0.55" />
-<rect x="202.19" y="381.82" width="2.28" height="0.17" fill="#2f9e44" opacity="0.55" />
-<rect x="205.47" y="380.89" width="2.28" height="1.10" fill="#2f9e44" opacity="0.55" />
-<rect x="208.74" y="381.08" width="2.28" height="0.91" fill="#2f9e44" opacity="0.55" />
-<rect x="212.02" y="381.22" width="2.28" height="0.77" fill="#2f9e44" opacity="0.55" />
-<rect x="215.29" y="381.94" width="2.28" height="0.05" fill="#2f9e44" opacity="0.55" />
-<rect x="218.57" y="381.13" width="2.28" height="0.86" fill="#2f9e44" opacity="0.55" />
-<rect x="221.84" y="381.99" width="2.28" height="0.27" fill="#d64545" opacity="0.55" />
-<rect x="225.11" y="381.56" width="2.28" height="0.43" fill="#2f9e44" opacity="0.55" />
-<rect x="228.39" y="379.51" width="2.28" height="2.48" fill="#2f9e44" opacity="0.55" />
-<rect x="231.66" y="378.59" width="2.28" height="3.40" fill="#2f9e44" opacity="0.55" />
-<rect x="234.94" y="377.68" width="2.28" height="4.31" fill="#2f9e44" opacity="0.55" />
-<rect x="238.21" y="378.58" width="2.28" height="3.41" fill="#2f9e44" opacity="0.55" />
-<rect x="241.48" y="375.60" width="2.28" height="6.39" fill="#2f9e44" opacity="0.55" />
-<rect x="244.76" y="374.10" width="2.28" height="7.89" fill="#2f9e44" opacity="0.55" />
-<rect x="248.03" y="372.12" width="2.28" height="9.87" fill="#2f9e44" opacity="0.55" />
-<rect x="251.31" y="372.95" width="2.28" height="9.04" fill="#2f9e44" opacity="0.55" />
-<rect x="254.58" y="372.54" width="2.28" height="9.45" fill="#2f9e44" opacity="0.55" />
-<rect x="257.85" y="369.78" width="2.28" height="12.21" fill="#2f9e44" opacity="0.55" />
-<rect x="261.13" y="368.95" width="2.28" height="13.04" fill="#2f9e44" opacity="0.55" />
-<rect x="264.40" y="370.39" width="2.28" height="11.60" fill="#2f9e44" opacity="0.55" />
-<rect x="267.68" y="373.95" width="2.28" height="8.04" fill="#2f9e44" opacity="0.55" />
-<rect x="270.95" y="379.29" width="2.28" height="2.70" fill="#2f9e44" opacity="0.55" />
-<rect x="274.23" y="381.99" width="2.28" height="3.23" fill="#d64545" opacity="0.55" />
-<rect x="277.50" y="381.99" width="2.28" height="7.24" fill="#d64545" opacity="0.55" />
-<rect x="280.77" y="381.99" width="2.28" height="8.56" fill="#d64545" opacity="0.55" />
-<rect x="284.05" y="381.99" width="2.28" height="10.23" fill="#d64545" opacity="0.55" />
-<rect x="287.32" y="381.99" width="2.28" height="9.28" fill="#d64545" opacity="0.55" />
-<rect x="290.60" y="381.99" width="2.28" height="7.57" fill="#d64545" opacity="0.55" />
-<rect x="293.87" y="381.99" width="2.28" height="7.70" fill="#d64545" opacity="0.55" />
-<rect x="297.14" y="381.99" width="2.28" height="8.09" fill="#d64545" opacity="0.55" />
-<rect x="300.42" y="381.99" width="2.28" height="6.62" fill="#d64545" opacity="0.55" />
-<rect x="303.69" y="381.99" width="2.28" height="5.04" fill="#d64545" opacity="0.55" />
-<rect x="306.97" y="381.99" width="2.28" height="4.32" fill="#d64545" opacity="0.55" />
-<rect x="310.24" y="381.99" width="2.28" height="4.42" fill="#d64545" opacity="0.55" />
-<rect x="313.51" y="381.99" width="2.28" height="4.53" fill="#d64545" opacity="0.55" />
-<rect x="316.79" y="381.99" width="2.28" height="5.24" fill="#d64545" opacity="0.55" />
-<rect x="320.06" y="381.99" width="2.28" height="7.90" fill="#d64545" opacity="0.55" />
-<rect x="323.34" y="381.99" width="2.28" height="9.14" fill="#d64545" opacity="0.55" />
-<rect x="326.61" y="381.99" width="2.28" height="6.54" fill="#d64545" opacity="0.55" />
-<rect x="329.89" y="381.99" width="2.28" height="6.39" fill="#d64545" opacity="0.55" />
-<rect x="333.16" y="381.99" width="2.28" height="4.65" fill="#d64545" opacity="0.55" />
-<rect x="336.43" y="381.99" width="2.28" height="3.49" fill="#d64545" opacity="0.55" />
-<rect x="339.71" y="381.99" width="2.28" height="3.48" fill="#d64545" opacity="0.55" />
-<rect x="342.98" y="381.99" width="2.28" height="3.46" fill="#d64545" opacity="0.55" />
-<rect x="346.26" y="381.99" width="2.28" height="3.04" fill="#d64545" opacity="0.55" />
-<rect x="349.53" y="381.99" width="2.28" height="6.10" fill="#d64545" opacity="0.55" />
-<rect x="352.80" y="381.99" width="2.28" height="10.06" fill="#d64545" opacity="0.55" />
-<rect x="356.08" y="381.99" width="2.28" height="13.49" fill="#d64545" opacity="0.55" />
-<rect x="359.35" y="381.99" width="2.28" height="12.65" fill="#d64545" opacity="0.55" />
-<rect x="362.63" y="381.99" width="2.28" height="13.36" fill="#d64545" opacity="0.55" />
-<rect x="365.90" y="381.99" width="2.28" height="11.88" fill="#d64545" opacity="0.55" />
-<rect x="369.18" y="381.99" width="2.28" height="10.32" fill="#d64545" opacity="0.55" />
-<rect x="372.45" y="381.99" width="2.28" height="7.65" fill="#d64545" opacity="0.55" />
-<rect x="375.72" y="381.99" width="2.28" height="5.03" fill="#d64545" opacity="0.55" />
-<rect x="379.00" y="381.99" width="2.28" height="3.67" fill="#d64545" opacity="0.55" />
-<rect x="382.27" y="381.99" width="2.28" height="2.44" fill="#d64545" opacity="0.55" />
-<rect x="385.55" y="381.99" width="2.28" height="1.45" fill="#d64545" opacity="0.55" />
-<rect x="388.82" y="381.68" width="2.28" height="0.31" fill="#2f9e44" opacity="0.55" />
-<rect x="392.09" y="380.38" width="2.28" height="1.61" fill="#2f9e44" opacity="0.55" />
-<rect x="395.37" y="379.45" width="2.28" height="2.54" fill="#2f9e44" opacity="0.55" />
-<rect x="398.64" y="378.19" width="2.28" height="3.80" fill="#2f9e44" opacity="0.55" />
-<rect x="401.92" y="378.03" width="2.28" height="3.96" fill="#2f9e44" opacity="0.55" />
-<rect x="405.19" y="377.46" width="2.28" height="4.53" fill="#2f9e44" opacity="0.55" />
-<rect x="408.46" y="377.30" width="2.28" height="4.69" fill="#2f9e44" opacity="0.55" />
-<rect x="411.74" y="378.28" width="2.28" height="3.71" fill="#2f9e44" opacity="0.55" />
-<rect x="415.01" y="379.81" width="2.28" height="2.18" fill="#2f9e44" opacity="0.55" />
-<rect x="418.29" y="380.49" width="2.28" height="1.50" fill="#2f9e44" opacity="0.55" />
-<rect x="421.56" y="380.61" width="2.28" height="1.38" fill="#2f9e44" opacity="0.55" />
-<rect x="424.84" y="380.24" width="2.28" height="1.75" fill="#2f9e44" opacity="0.55" />
-<rect x="428.11" y="379.60" width="2.28" height="2.39" fill="#2f9e44" opacity="0.55" />
-<rect x="431.38" y="379.32" width="2.28" height="2.67" fill="#2f9e44" opacity="0.55" />
-<rect x="434.66" y="379.78" width="2.28" height="2.21" fill="#2f9e44" opacity="0.55" />
-<rect x="437.93" y="380.07" width="2.28" height="1.92" fill="#2f9e44" opacity="0.55" />
-<rect x="441.21" y="380.12" width="2.28" height="1.87" fill="#2f9e44" opacity="0.55" />
-<rect x="444.48" y="378.77" width="2.28" height="3.22" fill="#2f9e44" opacity="0.55" />
-<rect x="447.75" y="376.02" width="2.28" height="5.97" fill="#2f9e44" opacity="0.55" />
-<rect x="451.03" y="373.52" width="2.28" height="8.47" fill="#2f9e44" opacity="0.55" />
-<rect x="454.30" y="369.85" width="2.28" height="12.14" fill="#2f9e44" opacity="0.55" />
-<rect x="457.58" y="370.76" width="2.28" height="11.23" fill="#2f9e44" opacity="0.55" />
-<rect x="460.85" y="372.51" width="2.28" height="9.47" fill="#2f9e44" opacity="0.55" />
-<rect x="464.12" y="374.00" width="2.28" height="7.99" fill="#2f9e44" opacity="0.55" />
-<rect x="467.40" y="375.25" width="2.28" height="6.74" fill="#2f9e44" opacity="0.55" />
-<rect x="470.67" y="377.54" width="2.28" height="4.45" fill="#2f9e44" opacity="0.55" />
-<rect x="473.95" y="380.26" width="2.28" height="1.73" fill="#2f9e44" opacity="0.55" />
-<rect x="477.22" y="381.98" width="2.28" height="0.01" fill="#2f9e44" opacity="0.55" />
-<rect x="480.50" y="380.14" width="2.28" height="1.85" fill="#2f9e44" opacity="0.55" />
-<rect x="483.77" y="379.51" width="2.28" height="2.48" fill="#2f9e44" opacity="0.55" />
-<rect x="487.04" y="378.82" width="2.28" height="3.17" fill="#2f9e44" opacity="0.55" />
-<rect x="490.32" y="380.11" width="2.28" height="1.88" fill="#2f9e44" opacity="0.55" />
-<rect x="493.59" y="381.47" width="2.28" height="0.52" fill="#2f9e44" opacity="0.55" />
-<rect x="496.87" y="381.99" width="2.28" height="0.68" fill="#d64545" opacity="0.55" />
-<rect x="500.14" y="381.99" width="2.28" height="0.73" fill="#d64545" opacity="0.55" />
-<rect x="503.41" y="381.99" width="2.28" height="0.80" fill="#d64545" opacity="0.55" />
-<rect x="506.69" y="381.87" width="2.28" height="0.12" fill="#2f9e44" opacity="0.55" />
-<rect x="509.96" y="381.50" width="2.28" height="0.49" fill="#2f9e44" opacity="0.55" />
-<rect x="513.24" y="381.36" width="2.28" height="0.63" fill="#2f9e44" opacity="0.55" />
-<rect x="516.51" y="381.99" width="2.28" height="0.02" fill="#d64545" opacity="0.55" />
-<rect x="519.79" y="381.99" width="2.28" height="1.49" fill="#d64545" opacity="0.55" />
-<rect x="523.06" y="381.99" width="2.28" height="3.64" fill="#d64545" opacity="0.55" />
-<rect x="526.33" y="381.99" width="2.28" height="4.62" fill="#d64545" opacity="0.55" />
-<rect x="529.61" y="381.99" width="2.28" height="4.67" fill="#d64545" opacity="0.55" />
-<rect x="532.88" y="381.99" width="2.28" height="5.12" fill="#d64545" opacity="0.55" />
-<rect x="536.16" y="381.99" width="2.28" height="4.67" fill="#d64545" opacity="0.55" />
-<rect x="539.43" y="381.99" width="2.28" height="4.90" fill="#d64545" opacity="0.55" />
-<rect x="542.70" y="381.99" width="2.28" height="4.06" fill="#d64545" opacity="0.55" />
-<rect x="545.98" y="381.99" width="2.28" height="2.45" fill="#d64545" opacity="0.55" />
-<rect x="549.25" y="381.99" width="2.28" height="1.80" fill="#d64545" opacity="0.55" />
-<rect x="552.53" y="381.99" width="2.28" height="0.92" fill="#d64545" opacity="0.55" />
-<rect x="555.80" y="380.44" width="2.28" height="1.55" fill="#2f9e44" opacity="0.55" />
-<rect x="559.07" y="377.72" width="2.28" height="4.27" fill="#2f9e44" opacity="0.55" />
-<rect x="562.35" y="376.86" width="2.28" height="5.13" fill="#2f9e44" opacity="0.55" />
-<rect x="565.62" y="378.34" width="2.28" height="3.65" fill="#2f9e44" opacity="0.55" />
-<rect x="568.90" y="381.99" width="2.28" height="1.09" fill="#d64545" opacity="0.55" />
-<rect x="572.17" y="381.99" width="2.28" height="2.90" fill="#d64545" opacity="0.55" />
-<rect x="575.45" y="381.99" width="2.28" height="3.53" fill="#d64545" opacity="0.55" />
-<rect x="578.72" y="381.99" width="2.28" height="4.61" fill="#d64545" opacity="0.55" />
-<rect x="581.99" y="381.99" width="2.28" height="3.42" fill="#d64545" opacity="0.55" />
-<rect x="585.27" y="381.62" width="2.28" height="0.37" fill="#2f9e44" opacity="0.55" />
-<rect x="588.54" y="380.12" width="2.28" height="1.87" fill="#2f9e44" opacity="0.55" />
-<rect x="591.82" y="377.91" width="2.28" height="4.08" fill="#2f9e44" opacity="0.55" />
-<rect x="595.09" y="375.74" width="2.28" height="6.25" fill="#2f9e44" opacity="0.55" />
-<rect x="598.36" y="371.75" width="2.28" height="10.24" fill="#2f9e44" opacity="0.55" />
-<rect x="601.64" y="369.33" width="2.28" height="12.66" fill="#2f9e44" opacity="0.55" />
-<rect x="604.91" y="368.91" width="2.28" height="13.08" fill="#2f9e44" opacity="0.55" />
-<rect x="608.19" y="369.06" width="2.28" height="12.93" fill="#2f9e44" opacity="0.55" />
-<rect x="611.46" y="373.80" width="2.28" height="8.19" fill="#2f9e44" opacity="0.55" />
-<rect x="614.73" y="376.60" width="2.28" height="5.39" fill="#2f9e44" opacity="0.55" />
-<rect x="618.01" y="378.92" width="2.28" height="3.07" fill="#2f9e44" opacity="0.55" />
-<rect x="621.28" y="380.70" width="2.28" height="1.29" fill="#2f9e44" opacity="0.55" />
-<rect x="624.56" y="381.55" width="2.28" height="0.44" fill="#2f9e44" opacity="0.55" />
-<rect x="627.83" y="381.99" width="2.28" height="1.90" fill="#d64545" opacity="0.55" />
-<rect x="631.11" y="381.99" width="2.28" height="4.67" fill="#d64545" opacity="0.55" />
-<rect x="634.38" y="381.99" width="2.28" height="3.83" fill="#d64545" opacity="0.55" />
-<rect x="637.65" y="381.99" width="2.28" height="4.12" fill="#d64545" opacity="0.55" />
-<rect x="640.93" y="381.99" width="2.28" height="5.46" fill="#d64545" opacity="0.55" />
-<rect x="644.20" y="381.99" width="2.28" height="0.55" fill="#d64545" opacity="0.55" />
-<rect x="647.48" y="377.82" width="2.28" height="4.17" fill="#2f9e44" opacity="0.55" />
-<rect x="650.75" y="372.24" width="2.28" height="9.75" fill="#2f9e44" opacity="0.55" />
-<rect x="654.02" y="368.91" width="2.28" height="13.08" fill="#2f9e44" opacity="0.55" />
-<rect x="657.30" y="367.69" width="2.28" height="14.30" fill="#2f9e44" opacity="0.55" />
-<rect x="660.57" y="363.92" width="2.28" height="18.07" fill="#2f9e44" opacity="0.55" />
-<rect x="663.85" y="362.14" width="2.28" height="19.85" fill="#2f9e44" opacity="0.55" />
-<rect x="667.12" y="362.12" width="2.28" height="19.87" fill="#2f9e44" opacity="0.55" />
-<rect x="670.40" y="363.99" width="2.28" height="18.00" fill="#2f9e44" opacity="0.55" />
-<rect x="673.67" y="364.02" width="2.28" height="17.97" fill="#2f9e44" opacity="0.55" />
-<rect x="676.94" y="366.15" width="2.28" height="15.84" fill="#2f9e44" opacity="0.55" />
-<rect x="680.22" y="371.13" width="2.28" height="10.86" fill="#2f9e44" opacity="0.55" />
-<rect x="683.49" y="374.45" width="2.28" height="7.54" fill="#2f9e44" opacity="0.55" />
-<rect x="686.77" y="375.57" width="2.28" height="6.42" fill="#2f9e44" opacity="0.55" />
-<rect x="690.04" y="377.87" width="2.28" height="4.11" fill="#2f9e44" opacity="0.55" />
-<rect x="693.31" y="381.99" width="2.28" height="0.18" fill="#d64545" opacity="0.55" />
-<rect x="696.59" y="381.99" width="2.28" height="3.15" fill="#d64545" opacity="0.55" />
-<rect x="699.86" y="381.99" width="2.28" height="3.76" fill="#d64545" opacity="0.55" />
-<rect x="703.14" y="381.99" width="2.28" height="4.21" fill="#d64545" opacity="0.55" />
-<rect x="706.41" y="381.31" width="2.28" height="0.68" fill="#2f9e44" opacity="0.55" />
-<rect x="709.68" y="376.68" width="2.28" height="5.31" fill="#2f9e44" opacity="0.55" />
-<rect x="712.96" y="372.46" width="2.28" height="9.53" fill="#2f9e44" opacity="0.55" />
-<rect x="716.23" y="368.88" width="2.28" height="13.11" fill="#2f9e44" opacity="0.55" />
-<rect x="719.51" y="368.63" width="2.28" height="13.36" fill="#2f9e44" opacity="0.55" />
-<rect x="722.78" y="371.52" width="2.28" height="10.47" fill="#2f9e44" opacity="0.55" />
-<rect x="726.06" y="371.03" width="2.28" height="10.96" fill="#2f9e44" opacity="0.55" />
-<rect x="729.33" y="371.94" width="2.28" height="10.05" fill="#2f9e44" opacity="0.55" />
-<rect x="732.60" y="372.60" width="2.28" height="9.39" fill="#2f9e44" opacity="0.55" />
-<rect x="735.88" y="380.40" width="2.28" height="1.59" fill="#2f9e44" opacity="0.55" />
-<rect x="739.15" y="381.99" width="2.28" height="4.70" fill="#d64545" opacity="0.55" />
-<rect x="742.43" y="381.99" width="2.28" height="5.36" fill="#d64545" opacity="0.55" />
-<rect x="745.70" y="381.99" width="2.28" height="4.56" fill="#d64545" opacity="0.55" />
-<rect x="748.97" y="381.99" width="2.28" height="0.88" fill="#d64545" opacity="0.55" />
-<rect x="752.25" y="381.19" width="2.28" height="0.80" fill="#2f9e44" opacity="0.55" />
-<rect x="755.52" y="381.58" width="2.28" height="0.41" fill="#2f9e44" opacity="0.55" />
-<rect x="758.80" y="381.15" width="2.28" height="0.84" fill="#2f9e44" opacity="0.55" />
-<rect x="762.07" y="373.40" width="2.28" height="8.59" fill="#2f9e44" opacity="0.55" />
-<rect x="765.34" y="365.35" width="2.28" height="16.64" fill="#2f9e44" opacity="0.55" />
-<rect x="768.62" y="360.90" width="2.28" height="21.09" fill="#2f9e44" opacity="0.55" />
-<rect x="771.89" y="357.76" width="2.28" height="24.23" fill="#2f9e44" opacity="0.55" />
-<rect x="775.17" y="363.97" width="2.28" height="18.02" fill="#2f9e44" opacity="0.55" />
-<rect x="778.44" y="370.79" width="2.28" height="11.20" fill="#2f9e44" opacity="0.55" />
-<rect x="781.72" y="381.99" width="2.28" height="0.38" fill="#d64545" opacity="0.55" />
-<rect x="784.99" y="381.99" width="2.28" height="4.92" fill="#d64545" opacity="0.55" />
-<rect x="788.26" y="381.99" width="2.28" height="11.86" fill="#d64545" opacity="0.55" />
-<rect x="791.54" y="381.99" width="2.28" height="17.44" fill="#d64545" opacity="0.55" />
-<rect x="794.81" y="381.99" width="2.28" height="20.21" fill="#d64545" opacity="0.55" />
-<rect x="798.09" y="381.99" width="2.28" height="19.68" fill="#d64545" opacity="0.55" />
-<rect x="801.36" y="381.99" width="2.28" height="19.28" fill="#d64545" opacity="0.55" />
-<rect x="804.63" y="381.99" width="2.28" height="18.71" fill="#d64545" opacity="0.55" />
-<rect x="807.91" y="381.99" width="2.28" height="18.75" fill="#d64545" opacity="0.55" />
-<rect x="811.18" y="381.99" width="2.28" height="19.38" fill="#d64545" opacity="0.55" />
-<rect x="814.46" y="381.99" width="2.28" height="21.41" fill="#d64545" opacity="0.55" />
-<rect x="817.73" y="381.99" width="2.28" height="19.84" fill="#d64545" opacity="0.55" />
-<rect x="821.01" y="381.99" width="2.28" height="19.39" fill="#d64545" opacity="0.55" />
-<rect x="824.28" y="381.99" width="2.28" height="21.97" fill="#d64545" opacity="0.55" />
-<rect x="827.55" y="381.99" width="2.28" height="21.31" fill="#d64545" opacity="0.55" />
-<rect x="830.83" y="381.99" width="2.28" height="15.26" fill="#d64545" opacity="0.55" />
-<rect x="834.10" y="381.99" width="2.28" height="12.44" fill="#d64545" opacity="0.55" />
-<rect x="837.38" y="381.99" width="2.28" height="9.89" fill="#d64545" opacity="0.55" />
-<rect x="840.65" y="381.99" width="2.28" height="7.88" fill="#d64545" opacity="0.55" />
-<rect x="843.92" y="381.99" width="2.28" height="6.79" fill="#d64545" opacity="0.55" />
-<rect x="847.20" y="381.99" width="2.28" height="8.18" fill="#d64545" opacity="0.55" />
-<rect x="850.47" y="381.99" width="2.28" height="6.69" fill="#d64545" opacity="0.55" />
-<rect x="853.75" y="381.99" width="2.28" height="5.07" fill="#d64545" opacity="0.55" />
-<rect x="857.02" y="381.99" width="2.28" height="3.82" fill="#d64545" opacity="0.55" />
-<rect x="860.29" y="381.99" width="2.28" height="3.09" fill="#d64545" opacity="0.55" />
-<rect x="863.57" y="381.99" width="2.28" height="2.86" fill="#d64545" opacity="0.55" />
+<rect x="139.99" y="381.99" width="2.28" height="0.94" fill="#d64545" opacity="0.55" />
+<rect x="143.26" y="381.99" width="2.28" height="2.38" fill="#d64545" opacity="0.55" />
+<rect x="146.53" y="381.99" width="2.28" height="2.56" fill="#d64545" opacity="0.55" />
+<rect x="149.81" y="381.99" width="2.28" height="2.19" fill="#d64545" opacity="0.55" />
+<rect x="153.08" y="381.99" width="2.28" height="5.45" fill="#d64545" opacity="0.55" />
+<rect x="156.36" y="381.99" width="2.28" height="6.72" fill="#d64545" opacity="0.55" />
+<rect x="159.63" y="381.99" width="2.28" height="7.65" fill="#d64545" opacity="0.55" />
+<rect x="162.90" y="381.99" width="2.28" height="6.31" fill="#d64545" opacity="0.55" />
+<rect x="166.18" y="381.99" width="2.28" height="4.48" fill="#d64545" opacity="0.55" />
+<rect x="169.45" y="381.99" width="2.28" height="2.17" fill="#d64545" opacity="0.55" />
+<rect x="172.73" y="381.99" width="2.28" height="1.55" fill="#d64545" opacity="0.55" />
+<rect x="176.00" y="381.99" width="2.28" height="2.13" fill="#d64545" opacity="0.55" />
+<rect x="179.28" y="381.99" width="2.28" height="5.04" fill="#d64545" opacity="0.55" />
+<rect x="182.55" y="381.99" width="2.28" height="7.39" fill="#d64545" opacity="0.55" />
+<rect x="185.82" y="381.99" width="2.28" height="8.38" fill="#d64545" opacity="0.55" />
+<rect x="189.10" y="381.99" width="2.28" height="8.32" fill="#d64545" opacity="0.55" />
+<rect x="192.37" y="381.99" width="2.28" height="6.85" fill="#d64545" opacity="0.55" />
+<rect x="195.65" y="381.99" width="2.28" height="4.18" fill="#d64545" opacity="0.55" />
+<rect x="198.92" y="381.75" width="2.28" height="0.23" fill="#2f9e44" opacity="0.55" />
+<rect x="202.19" y="380.83" width="2.28" height="1.16" fill="#2f9e44" opacity="0.55" />
+<rect x="205.47" y="381.02" width="2.28" height="0.96" fill="#2f9e44" opacity="0.55" />
+<rect x="208.74" y="381.16" width="2.28" height="0.82" fill="#2f9e44" opacity="0.55" />
+<rect x="212.02" y="381.89" width="2.28" height="0.10" fill="#2f9e44" opacity="0.55" />
+<rect x="215.29" y="381.08" width="2.28" height="0.91" fill="#2f9e44" opacity="0.55" />
+<rect x="218.57" y="381.99" width="2.28" height="0.22" fill="#d64545" opacity="0.55" />
+<rect x="221.84" y="381.51" width="2.28" height="0.47" fill="#2f9e44" opacity="0.55" />
+<rect x="225.11" y="379.47" width="2.28" height="2.52" fill="#2f9e44" opacity="0.55" />
+<rect x="228.39" y="378.54" width="2.28" height="3.44" fill="#2f9e44" opacity="0.55" />
+<rect x="231.66" y="377.64" width="2.28" height="4.35" fill="#2f9e44" opacity="0.55" />
+<rect x="234.94" y="378.54" width="2.28" height="3.45" fill="#2f9e44" opacity="0.55" />
+<rect x="238.21" y="375.57" width="2.28" height="6.42" fill="#2f9e44" opacity="0.55" />
+<rect x="241.48" y="374.07" width="2.28" height="7.92" fill="#2f9e44" opacity="0.55" />
+<rect x="244.76" y="372.09" width="2.28" height="9.90" fill="#2f9e44" opacity="0.55" />
+<rect x="248.03" y="372.92" width="2.28" height="9.07" fill="#2f9e44" opacity="0.55" />
+<rect x="251.31" y="372.51" width="2.28" height="9.48" fill="#2f9e44" opacity="0.55" />
+<rect x="254.58" y="369.76" width="2.28" height="12.23" fill="#2f9e44" opacity="0.55" />
+<rect x="257.85" y="368.93" width="2.28" height="13.06" fill="#2f9e44" opacity="0.55" />
+<rect x="261.13" y="370.37" width="2.28" height="11.62" fill="#2f9e44" opacity="0.55" />
+<rect x="264.40" y="373.93" width="2.28" height="8.06" fill="#2f9e44" opacity="0.55" />
+<rect x="267.68" y="379.27" width="2.28" height="2.72" fill="#2f9e44" opacity="0.55" />
+<rect x="270.95" y="381.99" width="2.28" height="3.22" fill="#d64545" opacity="0.55" />
+<rect x="274.23" y="381.99" width="2.28" height="7.22" fill="#d64545" opacity="0.55" />
+<rect x="277.50" y="381.99" width="2.28" height="8.55" fill="#d64545" opacity="0.55" />
+<rect x="280.77" y="381.99" width="2.28" height="10.22" fill="#d64545" opacity="0.55" />
+<rect x="284.05" y="381.99" width="2.28" height="9.27" fill="#d64545" opacity="0.55" />
+<rect x="287.32" y="381.99" width="2.28" height="7.56" fill="#d64545" opacity="0.55" />
+<rect x="290.60" y="381.99" width="2.28" height="7.69" fill="#d64545" opacity="0.55" />
+<rect x="293.87" y="381.99" width="2.28" height="8.08" fill="#d64545" opacity="0.55" />
+<rect x="297.14" y="381.99" width="2.28" height="6.61" fill="#d64545" opacity="0.55" />
+<rect x="300.42" y="381.99" width="2.28" height="5.03" fill="#d64545" opacity="0.55" />
+<rect x="303.69" y="381.99" width="2.28" height="4.31" fill="#d64545" opacity="0.55" />
+<rect x="306.97" y="381.99" width="2.28" height="4.42" fill="#d64545" opacity="0.55" />
+<rect x="310.24" y="381.99" width="2.28" height="4.53" fill="#d64545" opacity="0.55" />
+<rect x="313.51" y="381.99" width="2.28" height="5.24" fill="#d64545" opacity="0.55" />
+<rect x="316.79" y="381.99" width="2.28" height="7.89" fill="#d64545" opacity="0.55" />
+<rect x="320.06" y="381.99" width="2.28" height="9.13" fill="#d64545" opacity="0.55" />
+<rect x="323.34" y="381.99" width="2.28" height="6.54" fill="#d64545" opacity="0.55" />
+<rect x="326.61" y="381.99" width="2.28" height="6.38" fill="#d64545" opacity="0.55" />
+<rect x="329.89" y="381.99" width="2.28" height="4.64" fill="#d64545" opacity="0.55" />
+<rect x="333.16" y="381.99" width="2.28" height="3.48" fill="#d64545" opacity="0.55" />
+<rect x="336.43" y="381.99" width="2.28" height="3.48" fill="#d64545" opacity="0.55" />
+<rect x="339.71" y="381.99" width="2.28" height="3.45" fill="#d64545" opacity="0.55" />
+<rect x="342.98" y="381.99" width="2.28" height="3.03" fill="#d64545" opacity="0.55" />
+<rect x="346.26" y="381.99" width="2.28" height="6.10" fill="#d64545" opacity="0.55" />
+<rect x="349.53" y="381.99" width="2.28" height="10.06" fill="#d64545" opacity="0.55" />
+<rect x="352.80" y="381.99" width="2.28" height="13.49" fill="#d64545" opacity="0.55" />
+<rect x="356.08" y="381.99" width="2.28" height="12.64" fill="#d64545" opacity="0.55" />
+<rect x="359.35" y="381.99" width="2.28" height="13.36" fill="#d64545" opacity="0.55" />
+<rect x="362.63" y="381.99" width="2.28" height="11.88" fill="#d64545" opacity="0.55" />
+<rect x="365.90" y="381.99" width="2.28" height="10.32" fill="#d64545" opacity="0.55" />
+<rect x="369.18" y="381.99" width="2.28" height="7.65" fill="#d64545" opacity="0.55" />
+<rect x="372.45" y="381.99" width="2.28" height="5.02" fill="#d64545" opacity="0.55" />
+<rect x="375.72" y="381.99" width="2.28" height="3.67" fill="#d64545" opacity="0.55" />
+<rect x="379.00" y="381.99" width="2.28" height="2.43" fill="#d64545" opacity="0.55" />
+<rect x="382.27" y="381.99" width="2.28" height="1.45" fill="#d64545" opacity="0.55" />
+<rect x="385.55" y="381.67" width="2.28" height="0.31" fill="#2f9e44" opacity="0.55" />
+<rect x="388.82" y="380.38" width="2.28" height="1.61" fill="#2f9e44" opacity="0.55" />
+<rect x="392.09" y="379.45" width="2.28" height="2.54" fill="#2f9e44" opacity="0.55" />
+<rect x="395.37" y="378.19" width="2.28" height="3.80" fill="#2f9e44" opacity="0.55" />
+<rect x="398.64" y="378.02" width="2.28" height="3.96" fill="#2f9e44" opacity="0.55" />
+<rect x="401.92" y="377.46" width="2.28" height="4.53" fill="#2f9e44" opacity="0.55" />
+<rect x="405.19" y="377.30" width="2.28" height="4.69" fill="#2f9e44" opacity="0.55" />
+<rect x="408.46" y="378.28" width="2.28" height="3.71" fill="#2f9e44" opacity="0.55" />
+<rect x="411.74" y="379.80" width="2.28" height="2.18" fill="#2f9e44" opacity="0.55" />
+<rect x="415.01" y="380.48" width="2.28" height="1.50" fill="#2f9e44" opacity="0.55" />
+<rect x="418.29" y="380.60" width="2.28" height="1.39" fill="#2f9e44" opacity="0.55" />
+<rect x="421.56" y="380.24" width="2.28" height="1.75" fill="#2f9e44" opacity="0.55" />
+<rect x="424.84" y="379.60" width="2.28" height="2.39" fill="#2f9e44" opacity="0.55" />
+<rect x="428.11" y="379.32" width="2.28" height="2.67" fill="#2f9e44" opacity="0.55" />
+<rect x="431.38" y="379.78" width="2.28" height="2.21" fill="#2f9e44" opacity="0.55" />
+<rect x="434.66" y="380.07" width="2.28" height="1.92" fill="#2f9e44" opacity="0.55" />
+<rect x="437.93" y="380.12" width="2.28" height="1.87" fill="#2f9e44" opacity="0.55" />
+<rect x="441.21" y="378.77" width="2.28" height="3.22" fill="#2f9e44" opacity="0.55" />
+<rect x="444.48" y="376.01" width="2.28" height="5.97" fill="#2f9e44" opacity="0.55" />
+<rect x="447.75" y="373.52" width="2.28" height="8.47" fill="#2f9e44" opacity="0.55" />
+<rect x="451.03" y="369.85" width="2.28" height="12.14" fill="#2f9e44" opacity="0.55" />
+<rect x="454.30" y="370.75" width="2.28" height="11.23" fill="#2f9e44" opacity="0.55" />
+<rect x="457.58" y="372.51" width="2.28" height="9.47" fill="#2f9e44" opacity="0.55" />
+<rect x="460.85" y="374.00" width="2.28" height="7.99" fill="#2f9e44" opacity="0.55" />
+<rect x="464.12" y="375.25" width="2.28" height="6.74" fill="#2f9e44" opacity="0.55" />
+<rect x="467.40" y="377.54" width="2.28" height="4.45" fill="#2f9e44" opacity="0.55" />
+<rect x="470.67" y="380.25" width="2.28" height="1.73" fill="#2f9e44" opacity="0.55" />
+<rect x="473.95" y="381.98" width="2.28" height="0.01" fill="#2f9e44" opacity="0.55" />
+<rect x="477.22" y="380.14" width="2.28" height="1.85" fill="#2f9e44" opacity="0.55" />
+<rect x="480.50" y="379.51" width="2.28" height="2.48" fill="#2f9e44" opacity="0.55" />
+<rect x="483.77" y="378.82" width="2.28" height="3.17" fill="#2f9e44" opacity="0.55" />
+<rect x="487.04" y="380.11" width="2.28" height="1.88" fill="#2f9e44" opacity="0.55" />
+<rect x="490.32" y="381.47" width="2.28" height="0.52" fill="#2f9e44" opacity="0.55" />
+<rect x="493.59" y="381.99" width="2.28" height="0.68" fill="#d64545" opacity="0.55" />
+<rect x="496.87" y="381.99" width="2.28" height="0.73" fill="#d64545" opacity="0.55" />
+<rect x="500.14" y="381.99" width="2.28" height="0.80" fill="#d64545" opacity="0.55" />
+<rect x="503.41" y="381.87" width="2.28" height="0.12" fill="#2f9e44" opacity="0.55" />
+<rect x="506.69" y="381.50" width="2.28" height="0.49" fill="#2f9e44" opacity="0.55" />
+<rect x="509.96" y="381.36" width="2.28" height="0.63" fill="#2f9e44" opacity="0.55" />
+<rect x="513.24" y="381.99" width="2.28" height="0.02" fill="#d64545" opacity="0.55" />
+<rect x="516.51" y="381.99" width="2.28" height="1.49" fill="#d64545" opacity="0.55" />
+<rect x="519.79" y="381.99" width="2.28" height="3.64" fill="#d64545" opacity="0.55" />
+<rect x="523.06" y="381.99" width="2.28" height="4.62" fill="#d64545" opacity="0.55" />
+<rect x="526.33" y="381.99" width="2.28" height="4.67" fill="#d64545" opacity="0.55" />
+<rect x="529.61" y="381.99" width="2.28" height="5.12" fill="#d64545" opacity="0.55" />
+<rect x="532.88" y="381.99" width="2.28" height="4.67" fill="#d64545" opacity="0.55" />
+<rect x="536.16" y="381.99" width="2.28" height="4.90" fill="#d64545" opacity="0.55" />
+<rect x="539.43" y="381.99" width="2.28" height="4.06" fill="#d64545" opacity="0.55" />
+<rect x="542.70" y="381.99" width="2.28" height="2.45" fill="#d64545" opacity="0.55" />
+<rect x="545.98" y="381.99" width="2.28" height="1.80" fill="#d64545" opacity="0.55" />
+<rect x="549.25" y="381.99" width="2.28" height="0.92" fill="#d64545" opacity="0.55" />
+<rect x="552.53" y="380.43" width="2.28" height="1.55" fill="#2f9e44" opacity="0.55" />
+<rect x="555.80" y="377.72" width="2.28" height="4.27" fill="#2f9e44" opacity="0.55" />
+<rect x="559.07" y="376.86" width="2.28" height="5.13" fill="#2f9e44" opacity="0.55" />
+<rect x="562.35" y="378.34" width="2.28" height="3.65" fill="#2f9e44" opacity="0.55" />
+<rect x="565.62" y="381.99" width="2.28" height="1.09" fill="#d64545" opacity="0.55" />
+<rect x="568.90" y="381.99" width="2.28" height="2.90" fill="#d64545" opacity="0.55" />
+<rect x="572.17" y="381.99" width="2.28" height="3.53" fill="#d64545" opacity="0.55" />
+<rect x="575.45" y="381.99" width="2.28" height="4.61" fill="#d64545" opacity="0.55" />
+<rect x="578.72" y="381.99" width="2.28" height="3.42" fill="#d64545" opacity="0.55" />
+<rect x="581.99" y="381.62" width="2.28" height="0.37" fill="#2f9e44" opacity="0.55" />
+<rect x="585.27" y="380.12" width="2.28" height="1.87" fill="#2f9e44" opacity="0.55" />
+<rect x="588.54" y="377.91" width="2.28" height="4.08" fill="#2f9e44" opacity="0.55" />
+<rect x="591.82" y="375.74" width="2.28" height="6.25" fill="#2f9e44" opacity="0.55" />
+<rect x="595.09" y="371.75" width="2.28" height="10.24" fill="#2f9e44" opacity="0.55" />
+<rect x="598.36" y="369.32" width="2.28" height="12.66" fill="#2f9e44" opacity="0.55" />
+<rect x="601.64" y="368.91" width="2.28" height="13.08" fill="#2f9e44" opacity="0.55" />
+<rect x="604.91" y="369.06" width="2.28" height="12.93" fill="#2f9e44" opacity="0.55" />
+<rect x="608.19" y="373.80" width="2.28" height="8.19" fill="#2f9e44" opacity="0.55" />
+<rect x="611.46" y="376.60" width="2.28" height="5.39" fill="#2f9e44" opacity="0.55" />
+<rect x="614.73" y="378.92" width="2.28" height="3.07" fill="#2f9e44" opacity="0.55" />
+<rect x="618.01" y="380.70" width="2.28" height="1.29" fill="#2f9e44" opacity="0.55" />
+<rect x="621.28" y="381.55" width="2.28" height="0.44" fill="#2f9e44" opacity="0.55" />
+<rect x="624.56" y="381.99" width="2.28" height="1.90" fill="#d64545" opacity="0.55" />
+<rect x="627.83" y="381.99" width="2.28" height="4.67" fill="#d64545" opacity="0.55" />
+<rect x="631.11" y="381.99" width="2.28" height="3.83" fill="#d64545" opacity="0.55" />
+<rect x="634.38" y="381.99" width="2.28" height="4.12" fill="#d64545" opacity="0.55" />
+<rect x="637.65" y="381.99" width="2.28" height="5.46" fill="#d64545" opacity="0.55" />
+<rect x="640.93" y="381.99" width="2.28" height="0.55" fill="#d64545" opacity="0.55" />
+<rect x="644.20" y="377.82" width="2.28" height="4.17" fill="#2f9e44" opacity="0.55" />
+<rect x="647.48" y="372.24" width="2.28" height="9.75" fill="#2f9e44" opacity="0.55" />
+<rect x="650.75" y="368.91" width="2.28" height="13.08" fill="#2f9e44" opacity="0.55" />
+<rect x="654.02" y="367.68" width="2.28" height="14.30" fill="#2f9e44" opacity="0.55" />
+<rect x="657.30" y="363.92" width="2.28" height="18.07" fill="#2f9e44" opacity="0.55" />
+<rect x="660.57" y="362.14" width="2.28" height="19.85" fill="#2f9e44" opacity="0.55" />
+<rect x="663.85" y="362.12" width="2.28" height="19.87" fill="#2f9e44" opacity="0.55" />
+<rect x="667.12" y="363.99" width="2.28" height="18.00" fill="#2f9e44" opacity="0.55" />
+<rect x="670.40" y="364.01" width="2.28" height="17.97" fill="#2f9e44" opacity="0.55" />
+<rect x="673.67" y="366.14" width="2.28" height="15.84" fill="#2f9e44" opacity="0.55" />
+<rect x="676.94" y="371.13" width="2.28" height="10.86" fill="#2f9e44" opacity="0.55" />
+<rect x="680.22" y="374.45" width="2.28" height="7.54" fill="#2f9e44" opacity="0.55" />
+<rect x="683.49" y="375.57" width="2.28" height="6.42" fill="#2f9e44" opacity="0.55" />
+<rect x="686.77" y="377.87" width="2.28" height="4.11" fill="#2f9e44" opacity="0.55" />
+<rect x="690.04" y="381.99" width="2.28" height="0.18" fill="#d64545" opacity="0.55" />
+<rect x="693.31" y="381.99" width="2.28" height="3.15" fill="#d64545" opacity="0.55" />
+<rect x="696.59" y="381.99" width="2.28" height="3.76" fill="#d64545" opacity="0.55" />
+<rect x="699.86" y="381.99" width="2.28" height="4.21" fill="#d64545" opacity="0.55" />
+<rect x="703.14" y="381.30" width="2.28" height="0.68" fill="#2f9e44" opacity="0.55" />
+<rect x="706.41" y="376.67" width="2.28" height="5.31" fill="#2f9e44" opacity="0.55" />
+<rect x="709.68" y="372.46" width="2.28" height="9.53" fill="#2f9e44" opacity="0.55" />
+<rect x="712.96" y="368.88" width="2.28" height="13.11" fill="#2f9e44" opacity="0.55" />
+<rect x="716.23" y="368.63" width="2.28" height="13.36" fill="#2f9e44" opacity="0.55" />
+<rect x="719.51" y="371.51" width="2.28" height="10.47" fill="#2f9e44" opacity="0.55" />
+<rect x="722.78" y="371.02" width="2.28" height="10.96" fill="#2f9e44" opacity="0.55" />
+<rect x="726.06" y="371.94" width="2.28" height="10.05" fill="#2f9e44" opacity="0.55" />
+<rect x="729.33" y="372.60" width="2.28" height="9.39" fill="#2f9e44" opacity="0.55" />
+<rect x="732.60" y="380.40" width="2.28" height="1.59" fill="#2f9e44" opacity="0.55" />
+<rect x="735.88" y="381.99" width="2.28" height="4.70" fill="#d64545" opacity="0.55" />
+<rect x="739.15" y="381.99" width="2.28" height="5.36" fill="#d64545" opacity="0.55" />
+<rect x="742.43" y="381.99" width="2.28" height="4.56" fill="#d64545" opacity="0.55" />
+<rect x="745.70" y="381.99" width="2.28" height="0.88" fill="#d64545" opacity="0.55" />
+<rect x="748.97" y="381.18" width="2.28" height="0.80" fill="#2f9e44" opacity="0.55" />
+<rect x="752.25" y="381.58" width="2.28" height="0.41" fill="#2f9e44" opacity="0.55" />
+<rect x="755.52" y="381.15" width="2.28" height="0.84" fill="#2f9e44" opacity="0.55" />
+<rect x="758.80" y="373.40" width="2.28" height="8.58" fill="#2f9e44" opacity="0.55" />
+<rect x="762.07" y="365.35" width="2.28" height="16.64" fill="#2f9e44" opacity="0.55" />
+<rect x="765.34" y="360.90" width="2.28" height="21.09" fill="#2f9e44" opacity="0.55" />
+<rect x="768.62" y="357.76" width="2.28" height="24.23" fill="#2f9e44" opacity="0.55" />
+<rect x="771.89" y="363.97" width="2.28" height="18.02" fill="#2f9e44" opacity="0.55" />
+<rect x="775.17" y="370.79" width="2.28" height="11.20" fill="#2f9e44" opacity="0.55" />
+<rect x="778.44" y="381.99" width="2.28" height="0.38" fill="#d64545" opacity="0.55" />
+<rect x="781.72" y="381.99" width="2.28" height="4.92" fill="#d64545" opacity="0.55" />
+<rect x="784.99" y="381.99" width="2.28" height="11.86" fill="#d64545" opacity="0.55" />
+<rect x="788.26" y="381.99" width="2.28" height="17.44" fill="#d64545" opacity="0.55" />
+<rect x="791.54" y="381.99" width="2.28" height="20.21" fill="#d64545" opacity="0.55" />
+<rect x="794.81" y="381.99" width="2.28" height="19.68" fill="#d64545" opacity="0.55" />
+<rect x="798.09" y="381.99" width="2.28" height="19.28" fill="#d64545" opacity="0.55" />
+<rect x="801.36" y="381.99" width="2.28" height="18.71" fill="#d64545" opacity="0.55" />
+<rect x="804.63" y="381.99" width="2.28" height="18.75" fill="#d64545" opacity="0.55" />
+<rect x="807.91" y="381.99" width="2.28" height="19.38" fill="#d64545" opacity="0.55" />
+<rect x="811.18" y="381.99" width="2.28" height="21.41" fill="#d64545" opacity="0.55" />
+<rect x="814.46" y="381.99" width="2.28" height="19.84" fill="#d64545" opacity="0.55" />
+<rect x="817.73" y="381.99" width="2.28" height="19.38" fill="#d64545" opacity="0.55" />
+<rect x="821.01" y="381.99" width="2.28" height="21.97" fill="#d64545" opacity="0.55" />
+<rect x="824.28" y="381.99" width="2.28" height="21.31" fill="#d64545" opacity="0.55" />
+<rect x="827.55" y="381.99" width="2.28" height="15.26" fill="#d64545" opacity="0.55" />
+<rect x="830.83" y="381.99" width="2.28" height="12.44" fill="#d64545" opacity="0.55" />
+<rect x="834.10" y="381.99" width="2.28" height="9.89" fill="#d64545" opacity="0.55" />
+<rect x="837.38" y="381.99" width="2.28" height="7.88" fill="#d64545" opacity="0.55" />
+<rect x="840.65" y="381.99" width="2.28" height="6.79" fill="#d64545" opacity="0.55" />
+<rect x="843.92" y="381.99" width="2.28" height="8.18" fill="#d64545" opacity="0.55" />
+<rect x="847.20" y="381.99" width="2.28" height="6.69" fill="#d64545" opacity="0.55" />
+<rect x="850.47" y="381.99" width="2.28" height="5.07" fill="#d64545" opacity="0.55" />
+<rect x="853.75" y="381.99" width="2.28" height="3.82" fill="#d64545" opacity="0.55" />
+<rect x="857.02" y="381.99" width="2.28" height="3.09" fill="#d64545" opacity="0.55" />
+<rect x="860.29" y="381.99" width="2.28" height="2.86" fill="#d64545" opacity="0.55" />
+<rect x="863.57" y="381.99" width="2.28" height="0.09" fill="#d64545" opacity="0.55" />
 <rect x="866.84" y="381.99" width="2.28" height="0.09" fill="#d64545" opacity="0.55" />
-<rect x="870.12" y="381.99" width="2.28" height="0.09" fill="#d64545" opacity="0.55" />
-<rect x="873.39" y="381.99" width="2.28" height="3.06" fill="#d64545" opacity="0.55" />
-<rect x="876.67" y="381.99" width="2.28" height="3.27" fill="#d64545" opacity="0.55" />
-<rect x="879.94" y="381.99" width="2.28" height="0.74" fill="#d64545" opacity="0.55" />
-<rect x="883.21" y="379.35" width="2.28" height="2.64" fill="#2f9e44" opacity="0.55" />
-<rect x="886.49" y="375.76" width="2.28" height="6.23" fill="#2f9e44" opacity="0.55" />
-<rect x="889.76" y="373.84" width="2.28" height="8.15" fill="#2f9e44" opacity="0.55" />
-<rect x="893.04" y="374.33" width="2.28" height="7.66" fill="#2f9e44" opacity="0.55" />
-<rect x="896.31" y="380.66" width="2.28" height="1.33" fill="#2f9e44" opacity="0.55" />
-<rect x="899.58" y="381.99" width="2.28" height="4.12" fill="#d64545" opacity="0.55" />
-<rect x="902.86" y="381.99" width="2.28" height="8.10" fill="#d64545" opacity="0.55" />
-<polyline fill="none" stroke="#1f77b4" stroke-width="2" points="137.85,364.65 141.13,363.96 144.40,365.18 147.68,367.25 150.95,368.12 154.22,368.33 157.50,372.99 160.77,375.98 164.05,378.85 167.32,379.11 170.59,378.43 173.87,376.69 177.14,376.47 180.42,377.61 183.69,381.80 186.97,386.02 190.24,389.12 193.51,391.16 196.79,391.42 200.06,389.80 203.34,385.35 206.61,384.15 209.88,384.11 213.16,384.06 216.43,384.77 219.71,383.74 222.98,384.93 226.25,384.13 229.53,381.46 232.80,379.68 236.08,377.70 239.35,377.74 242.63,373.18 245.90,369.70 249.17,365.25 252.45,363.82 255.72,361.05 259.00,355.24 262.27,351.14 265.54,349.68 268.82,351.23 272.09,355.90 275.37,362.64 278.64,368.45 281.92,371.92 285.19,376.15 288.46,377.51 291.74,377.70 295.01,379.76 298.29,382.17 301.56,382.35 304.83,382.03 308.11,382.39 311.38,383.60 314.66,384.84 317.93,386.87 321.20,391.50 324.48,395.02 327.75,394.06 331.03,395.50 334.30,394.92 337.58,394.63 340.85,395.50 344.12,396.34 347.40,396.68 350.67,401.27 353.95,407.75 357.22,414.54 360.49,416.86 363.77,420.92 367.04,422.41 370.32,423.43 373.59,422.67 376.86,421.30 380.14,420.87 383.41,420.24 386.69,419.62 389.96,417.78 393.24,416.08 396.51,414.52 399.78,412.30 403.06,411.15 406.33,409.45 409.61,408.12 412.88,408.17 416.15,409.15 419.43,409.46 422.70,409.23 425.98,408.43 429.25,407.19 432.53,406.24 435.80,406.15 439.07,405.96 442.35,405.54 445.62,403.39 448.90,399.14 452.17,394.53 455.44,387.83 458.72,385.92 461.99,385.31 465.27,384.80 468.54,384.36 471.81,385.54 475.09,387.82 478.36,389.54 481.64,387.24 484.91,386.00 488.19,384.51 491.46,385.33 494.73,386.56 498.01,387.93 501.28,388.17 504.56,388.43 507.83,387.48 511.10,386.99 514.38,386.70 517.65,387.35 520.93,389.19 524.20,392.26 527.47,394.39 530.75,395.60 534.02,397.33 537.30,398.05 540.57,399.51 543.85,399.68 547.12,398.68 550.39,398.49 553.67,397.83 556.94,394.97 560.22,391.19 563.49,389.05 566.76,389.61 570.04,394.62 573.31,397.16 576.59,398.67 579.86,400.90 583.14,400.57 586.41,396.69 589.68,394.73 592.96,391.49 596.23,387.76 599.51,381.21 602.78,375.62 606.05,371.93 609.33,368.85 612.60,371.54 615.88,373.00 619.15,374.55 622.42,376.01 625.70,376.75 628.97,379.56 632.25,383.50 635.52,383.62 638.80,384.94 642.07,387.64 645.34,382.87 648.62,377.11 651.89,369.09 655.17,362.49 658.44,357.69 661.71,349.41 664.99,342.67 668.26,337.68 671.54,335.05 674.81,330.58 678.08,328.75 681.36,331.02 684.63,332.46 687.91,331.97 691.18,333.25 694.46,337.59 697.73,341.35 701.00,342.89 704.28,344.39 707.55,339.33 710.83,333.37 714.10,326.78 717.37,319.92 720.65,316.33 723.92,316.60 727.20,313.37 730.47,311.77 733.75,310.08 737.02,317.48 740.29,324.95 743.57,326.95 746.84,327.28 750.12,323.83 753.39,321.94 756.66,322.23 759.94,321.59 763.21,311.70 766.49,299.49 769.76,289.77 773.03,280.57 776.31,282.27 779.58,286.29 782.86,297.97 786.13,303.74 789.41,313.64 792.68,323.58 795.95,331.41 799.23,335.79 802.50,340.22 805.78,344.32 809.05,349.05 812.32,354.52 815.60,361.91 818.87,365.30 822.15,369.69 825.42,377.76 828.69,382.44 831.97,380.20 835.24,380.48 838.52,380.41 841.79,380.38 845.07,380.98 848.34,384.42 851.61,384.60 854.89,384.25 858.16,383.95 861.44,384.00 864.71,384.48 867.98,381.73 871.26,381.75 874.53,385.49 877.81,386.51 881.08,384.17 884.36,380.14 887.63,374.98 890.90,371.02 894.18,369.60 897.45,375.60 900.73,382.08 904.00,388.08" />
-<polyline fill="none" stroke="#ff7f0e" stroke-width="2" points="137.85,364.65 141.13,364.51 144.40,364.64 147.68,365.17 150.95,365.76 154.22,366.27 157.50,367.62 160.77,369.29 164.05,371.20 167.32,372.78 170.59,373.91 173.87,374.47 177.14,374.87 180.42,375.42 183.69,376.69 186.97,378.56 190.24,380.67 193.51,382.77 196.79,384.50 200.06,385.56 203.34,385.52 206.61,385.24 209.88,385.02 213.16,384.83 216.43,384.81 219.71,384.60 222.98,384.67 226.25,384.56 229.53,383.94 232.80,383.09 236.08,382.01 239.35,381.16 242.63,379.56 245.90,377.59 249.17,375.12 252.45,372.86 255.72,370.50 259.00,367.45 262.27,364.18 265.54,361.28 268.82,359.27 272.09,358.60 275.37,359.41 278.64,361.22 281.92,363.36 285.19,365.92 288.46,368.23 291.74,370.13 295.01,372.05 298.29,374.08 301.56,375.73 304.83,376.99 308.11,378.07 311.38,379.18 314.66,380.31 317.93,381.62 321.20,383.60 324.48,385.88 327.75,387.52 331.03,389.11 334.30,390.27 337.58,391.15 340.85,392.02 344.12,392.88 347.40,393.64 350.67,395.17 353.95,397.68 357.22,401.05 360.49,404.22 363.77,407.56 367.04,410.53 370.32,413.11 373.59,415.02 376.86,416.28 380.14,417.19 383.41,417.80 386.69,418.17 389.96,418.09 393.24,417.69 396.51,417.05 399.78,416.10 403.06,415.11 406.33,413.98 409.61,412.81 412.88,411.88 416.15,411.33 419.43,410.96 422.70,410.61 425.98,410.18 429.25,409.58 432.53,408.91 435.80,408.36 439.07,407.88 442.35,407.41 445.62,406.61 448.90,405.12 452.17,403.00 455.44,399.96 458.72,397.16 461.99,394.79 465.27,392.79 468.54,391.10 471.81,389.99 475.09,389.56 478.36,389.56 481.64,389.09 484.91,388.47 488.19,387.68 491.46,387.21 494.73,387.08 498.01,387.25 501.28,387.43 504.56,387.63 507.83,387.60 511.10,387.48 514.38,387.32 517.65,387.33 520.93,387.70 524.20,388.61 527.47,389.77 530.75,390.93 534.02,392.21 537.30,393.38 540.57,394.61 543.85,395.62 547.12,396.23 550.39,396.68 553.67,396.91 556.94,396.53 560.22,395.46 563.49,394.18 566.76,393.26 570.04,393.53 573.31,394.26 576.59,395.14 579.86,396.29 583.14,397.15 586.41,397.06 589.68,396.59 592.96,395.57 596.23,394.01 599.51,391.45 602.78,388.28 606.05,385.01 609.33,381.78 612.60,379.73 615.88,378.39 619.15,377.62 622.42,377.30 625.70,377.19 628.97,377.66 632.25,378.83 635.52,379.79 638.80,380.82 642.07,382.18 645.34,382.32 648.62,381.28 651.89,378.84 655.17,375.57 658.44,372.00 661.71,367.48 664.99,362.52 668.26,357.55 671.54,353.05 674.81,348.56 678.08,344.59 681.36,341.88 684.63,340.00 687.91,338.39 691.18,337.36 694.46,337.41 697.73,338.20 701.00,339.13 704.28,340.19 707.55,340.02 710.83,338.69 714.10,336.31 717.37,333.03 720.65,329.69 723.92,327.07 727.20,324.33 730.47,321.82 733.75,319.47 737.02,319.07 740.29,320.25 743.57,321.59 746.84,322.73 750.12,322.95 753.39,322.75 756.66,322.64 759.94,322.43 763.21,320.29 766.49,316.13 769.76,310.86 773.03,304.80 776.31,300.29 779.58,297.49 782.86,297.59 786.13,298.82 789.41,301.78 792.68,306.14 795.95,311.19 799.23,316.11 802.50,320.94 805.78,325.61 809.05,330.30 812.32,335.14 815.60,340.50 818.87,345.46 822.15,350.30 825.42,355.80 828.69,361.12 831.97,364.94 835.24,368.05 838.52,370.52 841.79,372.49 845.07,374.19 848.34,376.24 851.61,377.91 854.89,379.18 858.16,380.13 861.44,380.90 864.71,381.62 867.98,381.64 871.26,381.66 874.53,382.43 877.81,383.25 881.08,383.43 884.36,382.77 887.63,381.21 890.90,379.18 894.18,377.26 897.45,376.93 900.73,377.96 904.00,379.98" />
+<rect x="870.12" y="381.99" width="2.28" height="3.06" fill="#d64545" opacity="0.55" />
+<rect x="873.39" y="381.99" width="2.28" height="3.27" fill="#d64545" opacity="0.55" />
+<rect x="876.67" y="381.99" width="2.28" height="0.74" fill="#d64545" opacity="0.55" />
+<rect x="879.94" y="379.35" width="2.28" height="2.64" fill="#2f9e44" opacity="0.55" />
+<rect x="883.21" y="375.76" width="2.28" height="6.23" fill="#2f9e44" opacity="0.55" />
+<rect x="886.49" y="373.84" width="2.28" height="8.15" fill="#2f9e44" opacity="0.55" />
+<rect x="889.76" y="374.33" width="2.28" height="7.66" fill="#2f9e44" opacity="0.55" />
+<rect x="893.04" y="380.66" width="2.28" height="1.33" fill="#2f9e44" opacity="0.55" />
+<rect x="896.31" y="381.99" width="2.28" height="4.12" fill="#d64545" opacity="0.55" />
+<rect x="899.58" y="381.99" width="2.28" height="8.10" fill="#d64545" opacity="0.55" />
+<rect x="902.86" y="381.99" width="2.28" height="5.72" fill="#d64545" opacity="0.55" />
+<polyline fill="none" stroke="#1f77b4" stroke-width="2" points="137.85,364.65 141.13,365.82 144.40,367.85 147.68,368.67 150.95,368.85 154.22,373.48 157.50,376.43 160.77,379.26 164.05,379.50 167.32,378.79 170.59,377.03 173.87,376.79 177.14,377.90 180.42,382.07 183.69,386.27 186.97,389.35 190.24,391.38 193.51,391.62 196.79,389.99 200.06,385.52 203.34,384.31 206.61,384.26 209.88,384.19 213.16,384.89 216.43,383.86 219.71,385.04 222.98,384.23 226.25,381.55 229.53,379.77 232.80,377.78 236.08,377.82 239.35,373.24 242.63,369.76 245.90,365.31 249.17,363.87 252.45,361.10 255.72,355.28 259.00,351.19 262.27,349.72 265.54,351.27 268.82,355.93 272.09,362.67 275.37,368.48 278.64,371.95 281.92,376.17 285.19,377.53 288.46,377.72 291.74,379.78 295.01,382.19 298.29,382.37 301.56,382.04 304.83,382.40 308.11,383.61 311.38,384.85 314.66,386.88 317.93,391.51 321.20,395.02 324.48,394.07 327.75,395.50 331.03,394.93 334.30,394.64 337.58,395.51 340.85,396.34 344.12,396.68 347.40,401.27 350.67,407.75 353.95,414.54 357.22,416.86 360.49,420.92 363.77,422.41 367.04,423.43 370.32,422.67 373.59,421.30 376.86,420.87 380.14,420.24 383.41,419.62 386.69,417.78 389.96,416.08 393.24,414.51 396.51,412.30 399.78,411.15 403.06,409.45 406.33,408.11 409.61,408.17 412.88,409.15 416.15,409.45 419.43,409.23 422.70,408.43 425.98,407.19 429.25,406.24 432.53,406.15 435.80,405.96 439.07,405.54 442.35,403.39 445.62,399.14 448.90,394.53 452.17,387.83 455.44,385.92 458.72,385.31 461.99,384.79 465.27,384.36 468.54,385.54 471.81,387.82 475.09,389.54 478.36,387.24 481.64,385.99 484.91,384.51 488.19,385.33 491.46,386.56 494.73,387.93 498.01,388.16 501.28,388.43 504.56,387.48 507.83,386.99 511.10,386.70 514.38,387.34 517.65,389.19 520.93,392.25 524.20,394.38 527.47,395.60 530.75,397.33 534.02,398.04 537.30,399.51 540.57,399.68 543.85,398.68 547.12,398.48 550.39,397.83 553.67,394.97 556.94,391.18 560.22,389.04 563.49,389.61 566.76,394.62 570.04,397.16 573.31,398.67 576.59,400.90 579.86,400.57 583.14,396.69 586.41,394.72 589.68,391.49 592.96,387.76 596.23,381.21 599.51,375.62 602.78,371.93 606.05,368.85 609.33,371.54 612.60,373.00 615.88,374.55 619.15,376.00 622.42,376.75 625.70,379.56 628.97,383.50 632.25,383.62 635.52,384.93 638.80,387.64 642.07,382.87 645.34,377.11 648.62,369.09 651.89,362.49 655.17,357.69 658.44,349.41 661.71,342.66 664.99,337.68 668.26,335.05 671.54,330.58 674.81,328.75 678.08,331.02 681.36,332.45 684.63,331.97 687.91,333.25 691.18,337.59 694.46,341.35 697.73,342.89 701.00,344.39 704.28,339.33 707.55,333.37 710.83,326.78 714.10,319.92 717.37,316.33 720.65,316.60 723.92,313.37 727.20,311.77 730.47,310.08 733.75,317.48 737.02,324.94 740.29,326.95 743.57,327.28 746.84,323.83 750.12,321.94 753.39,322.23 756.66,321.59 759.94,311.70 763.21,299.48 766.49,289.77 769.76,280.57 773.03,282.27 776.31,286.29 779.58,297.97 782.86,303.74 786.13,313.64 789.41,323.58 792.68,331.41 795.95,335.79 799.23,340.22 802.50,344.32 805.78,349.04 809.05,354.52 812.32,361.91 815.60,365.29 818.87,369.69 822.15,377.76 825.42,382.43 828.69,380.20 831.97,380.48 835.24,380.41 838.52,380.37 841.79,380.98 845.07,384.42 848.34,384.60 851.61,384.25 854.89,383.95 858.16,384.00 861.44,384.48 864.71,381.73 867.98,381.75 871.26,385.48 874.53,386.51 877.81,384.17 881.08,380.13 884.36,374.98 887.63,371.02 890.90,369.60 894.18,375.59 897.45,382.07 900.73,388.08 904.00,387.13" />
+<polyline fill="none" stroke="#ff7f0e" stroke-width="2" points="137.85,364.65 141.13,364.88 144.40,365.47 147.68,366.11 150.95,366.66 154.22,368.02 157.50,369.70 160.77,371.62 164.05,373.19 167.32,374.31 170.59,374.86 173.87,375.24 177.14,375.77 180.42,377.03 183.69,378.88 186.97,380.97 190.24,383.06 193.51,384.77 196.79,385.81 200.06,385.75 203.34,385.46 206.61,385.22 209.88,385.02 213.16,384.99 216.43,384.77 219.71,384.82 222.98,384.70 226.25,384.07 229.53,383.21 232.80,382.12 236.08,381.26 239.35,379.66 242.63,377.68 245.90,375.21 249.17,372.94 252.45,370.57 255.72,367.51 259.00,364.25 262.27,361.34 265.54,359.33 268.82,358.65 272.09,359.45 275.37,361.26 278.64,363.40 281.92,365.95 285.19,368.27 288.46,370.16 291.74,372.08 295.01,374.10 298.29,375.76 301.56,377.01 304.83,378.09 308.11,379.20 311.38,380.33 314.66,381.64 317.93,383.61 321.20,385.89 324.48,387.53 327.75,389.12 331.03,390.28 334.30,391.15 337.58,392.02 340.85,392.89 344.12,393.65 347.40,395.17 350.67,397.69 353.95,401.06 357.22,404.22 360.49,407.56 363.77,410.53 367.04,413.11 370.32,415.02 373.59,416.28 376.86,417.19 380.14,417.80 383.41,418.17 386.69,418.09 389.96,417.69 393.24,417.05 396.51,416.10 399.78,415.11 403.06,413.98 406.33,412.81 409.61,411.88 412.88,411.33 416.15,410.96 419.43,410.61 422.70,410.17 425.98,409.58 429.25,408.91 432.53,408.36 435.80,407.88 439.07,407.41 442.35,406.61 445.62,405.11 448.90,403.00 452.17,399.96 455.44,397.15 458.72,394.78 461.99,392.79 465.27,391.10 468.54,389.99 471.81,389.56 475.09,389.55 478.36,389.09 481.64,388.47 484.91,387.68 488.19,387.21 491.46,387.08 494.73,387.25 498.01,387.43 501.28,387.63 504.56,387.60 507.83,387.48 511.10,387.32 514.38,387.33 517.65,387.70 520.93,388.61 524.20,389.76 527.47,390.93 530.75,392.21 534.02,393.38 537.30,394.60 540.57,395.62 543.85,396.23 547.12,396.68 550.39,396.91 553.67,396.52 556.94,395.45 560.22,394.17 563.49,393.26 566.76,393.53 570.04,394.26 573.31,395.14 576.59,396.29 579.86,397.15 583.14,397.05 586.41,396.59 589.68,395.57 592.96,394.01 596.23,391.45 599.51,388.28 602.78,385.01 606.05,381.78 609.33,379.73 612.60,378.38 615.88,377.62 619.15,377.29 622.42,377.19 625.70,377.66 628.97,378.83 632.25,379.79 635.52,380.82 638.80,382.18 642.07,382.32 645.34,381.28 648.62,378.84 651.89,375.57 655.17,371.99 658.44,367.48 661.71,362.51 664.99,357.55 668.26,353.05 671.54,348.55 674.81,344.59 678.08,341.88 681.36,339.99 684.63,338.39 687.91,337.36 691.18,337.41 694.46,338.19 697.73,339.13 701.00,340.19 704.28,340.01 707.55,338.69 710.83,336.30 714.10,333.03 717.37,329.69 720.65,327.07 723.92,324.33 727.20,321.82 730.47,319.47 733.75,319.07 737.02,320.25 740.29,321.59 743.57,322.73 746.84,322.95 750.12,322.75 753.39,322.64 756.66,322.43 759.94,320.29 763.21,316.13 766.49,310.85 769.76,304.80 773.03,300.29 776.31,297.49 779.58,297.59 782.86,298.82 786.13,301.78 789.41,306.14 792.68,311.19 795.95,316.11 799.23,320.93 802.50,325.61 805.78,330.30 809.05,335.14 812.32,340.50 815.60,345.45 818.87,350.30 822.15,355.79 825.42,361.12 828.69,364.94 831.97,368.05 835.24,370.52 838.52,372.49 841.79,374.19 845.07,376.23 848.34,377.91 851.61,379.17 854.89,380.13 858.16,380.90 861.44,381.62 864.71,381.64 867.98,381.66 871.26,382.43 874.53,383.24 877.81,383.43 881.08,382.77 884.36,381.21 887.63,379.17 890.90,377.26 894.18,376.93 897.45,377.95 900.73,379.98 904.00,381.41" />
 <text x="754.00" y="290.00" font-size="13" font-family="Arial" fill="#1f77b4" text-anchor="start">MACD</text>
 <text x="818.00" y="290.00" font-size="13" font-family="Arial" fill="#ff7f0e" text-anchor="start">Signal</text>
 <line x1="56" y1="624" x2="904" y2="624" stroke="#cbd2d9" />
@@ -292,23 +292,23 @@
 <line x1="52" y1="484.00" x2="56" y2="484.00" stroke="#9fb3c8" />
 <text x="48.00" y="488.00" font-size="11" font-family="Arial" fill="#52606d" text-anchor="end">105</text>
 <line x1="56.00" y1="624" x2="56.00" y2="628" stroke="#9fb3c8" />
-<text x="56.00" y="642.00" font-size="11" font-family="Arial" fill="#52606d" text-anchor="middle">07/07</text>
+<text x="56.00" y="642.00" font-size="11" font-family="Arial" fill="#52606d" text-anchor="middle">07/08</text>
 <line x1="226.25" y1="624" x2="226.25" y2="628" stroke="#9fb3c8" />
-<text x="226.25" y="642.00" font-size="11" font-family="Arial" fill="#52606d" text-anchor="middle">09/18</text>
+<text x="226.25" y="642.00" font-size="11" font-family="Arial" fill="#52606d" text-anchor="middle">09/19</text>
 <line x1="396.51" y1="624" x2="396.51" y2="628" stroke="#9fb3c8" />
-<text x="396.51" y="642.00" font-size="11" font-family="Arial" fill="#52606d" text-anchor="middle">12/05</text>
+<text x="396.51" y="642.00" font-size="11" font-family="Arial" fill="#52606d" text-anchor="middle">12/08</text>
 <line x1="563.49" y1="624" x2="563.49" y2="628" stroke="#9fb3c8" />
-<text x="563.49" y="642.00" font-size="11" font-family="Arial" fill="#52606d" text-anchor="middle">03/02</text>
+<text x="563.49" y="642.00" font-size="11" font-family="Arial" fill="#52606d" text-anchor="middle">03/03</text>
 <line x1="733.75" y1="624" x2="733.75" y2="628" stroke="#9fb3c8" />
-<text x="733.75" y="642.00" font-size="11" font-family="Arial" fill="#52606d" text-anchor="middle">05/18</text>
+<text x="733.75" y="642.00" font-size="11" font-family="Arial" fill="#52606d" text-anchor="middle">05/19</text>
 <line x1="904.00" y1="624" x2="904.00" y2="628" stroke="#9fb3c8" />
-<text x="904.00" y="642.00" font-size="11" font-family="Arial" fill="#52606d" text-anchor="middle">07/30</text>
+<text x="904.00" y="642.00" font-size="11" font-family="Arial" fill="#52606d" text-anchor="middle">07/31</text>
 <line x1="56" y1="592.18" x2="904" y2="592.18" stroke="#f0b429" stroke-dasharray="5 5" />
 <text x="912.00" y="596.18" font-size="10" font-family="Arial" fill="#8d2b0b" text-anchor="start">20.0</text>
 <line x1="56" y1="515.82" x2="904" y2="515.82" stroke="#f0b429" stroke-dasharray="5 5" />
 <text x="912.00" y="519.82" font-size="10" font-family="Arial" fill="#8d2b0b" text-anchor="start">80.0</text>
-<polyline fill="none" stroke="#2ca02c" stroke-width="2" points="82.19,560.02 85.47,561.72 88.74,561.74 92.02,592.63 95.29,596.18 98.56,592.15 101.84,598.39 105.11,607.29 108.39,634.49 111.66,623.37 114.93,605.75 118.21,596.36 121.48,582.24 124.76,572.82 128.03,555.32 131.31,540.46 134.58,523.76 137.85,520.26 141.13,518.25 144.40,530.74 147.68,548.48 150.95,555.97 154.22,557.67 157.50,577.66 160.77,586.05 164.05,594.61 167.32,587.48 170.59,574.69 173.87,557.46 177.14,553.59 180.42,559.71 183.69,577.96 186.97,588.53 190.24,594.70 193.51,597.04 196.79,591.53 200.06,578.14 203.34,553.12 206.61,554.10 209.88,558.86 213.16,562.03 216.43,568.54 219.71,567.04 222.98,575.72 226.25,574.77 229.53,563.92 232.80,561.53 236.08,544.65 239.35,547.08 242.63,538.08 245.90,532.07 249.17,519.58 252.45,527.47 255.72,528.79 259.00,516.60 262.27,514.38 265.54,517.80 268.82,531.11 272.09,554.08 275.37,575.27 278.64,586.77 281.92,590.25 285.19,597.28 288.46,595.16 291.74,587.41 295.01,589.83 298.29,592.57 301.56,582.44 304.83,557.28 308.11,552.33 311.38,560.60 314.66,571.53 317.93,583.64 321.20,594.97 324.48,593.43 327.75,574.99 331.03,574.05 334.30,565.85 337.58,558.87 340.85,560.78 344.12,563.13 347.40,563.78 350.67,581.73 353.95,592.61 357.22,600.95 360.49,597.61 363.77,603.26 367.04,602.40 370.32,602.95 373.59,599.36 376.86,591.31 380.14,585.46 383.41,583.02 386.69,584.32 389.96,569.16 393.24,565.35 396.51,568.64 399.78,559.52 403.06,571.82 406.33,572.95 409.61,578.42 412.88,589.72 416.15,595.28 419.43,594.71 422.70,593.18 425.98,589.87 429.25,585.36 432.53,583.26 435.80,589.58 439.07,594.22 442.35,595.96 445.62,576.93 448.90,548.07 452.17,528.84 455.44,516.01 458.72,525.41 461.99,536.57 465.27,544.01 468.54,548.97 471.81,561.68 475.09,580.33 478.36,590.22 481.64,577.30 484.91,572.08 488.19,559.35 491.46,565.38 494.73,573.87 498.01,581.83 501.28,580.51 504.56,580.95 507.83,573.38 511.10,571.16 514.38,568.71 517.65,576.53 520.93,585.09 524.20,593.92 527.47,597.00 530.75,595.58 534.02,600.17 537.30,593.34 540.57,592.95 543.85,587.64 547.12,571.44 550.39,564.21 553.67,556.56 556.94,541.20 560.22,524.25 563.49,519.16 566.76,538.30 570.04,564.75 573.31,575.72 576.59,581.38 579.86,582.53 583.14,575.59 586.41,556.83 589.68,549.46 592.96,535.92 596.23,524.00 599.51,515.65 602.78,508.65 606.05,505.89 609.33,503.79 612.60,527.34 615.88,542.72 619.15,555.96 622.42,572.17 625.70,577.22 628.97,590.69 632.25,598.24 635.52,589.60 638.80,585.82 642.07,594.30 645.34,559.66 648.62,542.71 651.89,528.15 655.17,519.21 658.44,517.75 661.71,512.04 664.99,508.13 668.26,505.19 671.54,505.46 674.81,503.29 678.08,506.31 681.36,522.85 684.63,532.86 687.91,531.07 691.18,539.77 694.46,562.70 697.73,576.97 701.00,573.75 704.28,570.62 707.55,548.24 710.83,535.86 714.10,525.90 717.37,519.82 720.65,518.15 723.92,522.12 727.20,515.61 730.47,511.99 733.75,517.57 737.02,547.15 740.29,568.98 743.57,571.47 746.84,568.14 750.12,554.28 753.39,545.45 756.66,542.48 759.94,536.34 763.21,521.61 766.49,515.17 769.76,509.47 773.03,504.51 776.31,516.29 779.58,527.09 782.86,548.91 786.13,555.09 789.41,569.92 792.68,580.98 795.95,587.14 799.23,586.70 802.50,585.79 805.78,581.11 809.05,575.11 812.32,577.92 815.60,588.18 818.87,577.52 822.15,577.73 825.42,589.82 828.69,591.10 831.97,568.59 835.24,561.57 838.52,554.15 841.79,547.03 845.07,545.11 848.34,557.27 851.61,554.06 854.89,550.69 858.16,554.26 861.44,558.61 864.71,556.56 867.98,537.39 871.26,538.10 874.53,561.72 877.81,559.91 881.08,543.54 884.36,528.43 887.63,515.74 890.90,510.95 894.18,512.99 897.45,537.92 900.73,558.50 904.00,572.22" />
-<polyline fill="none" stroke="#d62728" stroke-width="2" points="82.19,556.01 85.47,557.91 88.74,559.19 92.02,570.33 95.29,578.95 98.56,583.35 101.84,588.36 105.11,594.67 108.39,607.95 111.66,613.09 114.93,610.64 118.21,605.88 121.48,598.00 124.76,589.61 128.03,578.18 131.31,565.60 134.58,551.66 137.85,541.19 141.13,533.54 144.40,532.61 147.68,537.90 150.95,543.92 154.22,548.51 157.50,558.22 160.77,567.50 164.05,576.54 167.32,580.19 170.59,578.35 173.87,571.39 177.14,565.46 180.42,563.54 183.69,568.35 186.97,575.07 190.24,581.62 193.51,586.76 196.79,588.35 200.06,584.95 203.34,574.34 206.61,567.59 209.88,564.68 213.16,563.80 216.43,565.38 219.71,565.93 222.98,569.20 226.25,571.05 229.53,568.67 232.80,566.29 236.08,559.08 239.35,555.08 242.63,549.41 245.90,543.63 249.17,535.62 252.45,532.90 255.72,531.53 259.00,526.56 262.27,522.50 265.54,520.93 268.82,524.33 272.09,534.24 275.37,547.92 278.64,560.87 281.92,570.66 285.19,579.54 288.46,584.75 291.74,585.63 295.01,587.03 298.29,588.88 301.56,586.73 304.83,576.91 308.11,568.72 311.38,566.01 314.66,567.85 317.93,573.11 321.20,580.40 324.48,584.74 327.75,581.49 331.03,579.01 334.30,574.63 337.58,569.37 340.85,566.51 344.12,565.38 347.40,564.85 350.67,570.48 353.95,577.85 357.22,585.55 360.49,589.57 363.77,594.14 367.04,596.89 370.32,598.91 373.59,599.06 376.86,596.48 380.14,592.80 383.41,589.54 386.69,587.80 389.96,581.59 393.24,576.18 396.51,573.66 399.78,568.95 403.06,569.91 406.33,570.92 409.61,573.42 412.88,578.85 416.15,584.33 419.43,587.79 422.70,589.59 425.98,589.68 429.25,588.24 432.53,586.58 435.80,587.58 439.07,589.79 442.35,591.85 445.62,586.88 448.90,573.94 452.17,558.91 455.44,544.61 458.72,538.21 461.99,537.66 465.27,539.78 468.54,542.84 471.81,549.12 475.09,559.53 478.36,569.76 481.64,572.27 484.91,572.21 488.19,567.92 491.46,567.08 494.73,569.34 498.01,573.50 501.28,575.84 504.56,577.54 507.83,576.16 511.10,574.49 514.38,572.56 517.65,573.89 520.93,577.62 524.20,583.05 527.47,587.70 530.75,590.33 534.02,593.61 537.30,593.52 540.57,593.33 543.85,591.43 547.12,584.77 550.39,577.91 553.67,570.80 556.94,560.93 560.22,548.70 563.49,538.86 566.76,538.67 570.04,547.36 573.31,556.82 576.59,565.00 579.86,570.85 583.14,572.43 586.41,567.23 589.68,561.30 592.96,552.84 596.23,543.23 599.51,534.03 602.78,525.57 606.05,519.01 609.33,513.94 612.60,518.41 615.88,526.51 619.15,536.33 622.42,548.27 625.70,557.92 628.97,568.85 632.25,578.64 635.52,582.30 638.80,583.47 642.07,587.08 645.34,577.94 648.62,566.19 651.89,553.51 655.17,542.08 658.44,533.97 661.71,526.66 664.99,520.48 668.26,515.39 671.54,512.08 674.81,509.15 678.08,508.20 681.36,513.08 684.63,519.68 687.91,523.47 691.18,528.91 694.46,540.17 697.73,552.44 701.00,559.54 704.28,563.24 707.55,558.24 710.83,550.78 714.10,542.49 717.37,534.93 720.65,529.34 723.92,526.93 727.20,523.16 730.47,519.44 733.75,518.81 737.02,528.26 740.29,541.83 743.57,551.71 746.84,557.19 750.12,556.22 753.39,552.63 756.66,549.25 759.94,544.94 763.21,537.17 766.49,529.83 769.76,523.04 773.03,516.86 776.31,516.67 779.58,520.15 782.86,529.73 786.13,538.18 789.41,548.76 792.68,559.50 795.95,568.71 799.23,574.71 802.50,578.40 805.78,579.31 809.05,577.91 812.32,577.91 815.60,581.33 818.87,580.06 822.15,579.28 825.42,582.79 828.69,585.56 831.97,579.90 835.24,573.79 838.52,567.25 841.79,560.51 845.07,555.38 848.34,556.01 851.61,555.36 854.89,553.80 858.16,553.95 861.44,555.51 864.71,555.86 867.98,549.70 871.26,545.83 874.53,551.13 877.81,554.05 881.08,550.55 884.36,543.18 887.63,534.03 890.90,526.34 894.18,521.89 897.45,527.23 900.73,537.66 904.00,549.18" />
+<polyline fill="none" stroke="#2ca02c" stroke-width="2" points="82.19,557.71 85.47,559.06 88.74,590.84 92.02,594.99 95.29,591.36 98.56,597.86 101.84,606.93 105.11,634.26 108.39,623.22 111.66,605.64 114.93,596.29 118.21,582.19 121.48,572.79 124.76,555.30 128.03,540.44 131.31,523.75 134.58,520.26 137.85,518.25 141.13,530.74 144.40,548.47 147.68,555.97 150.95,557.67 154.22,577.66 157.50,586.05 160.77,594.61 164.05,587.48 167.32,574.69 170.59,557.46 173.87,553.59 177.14,559.71 180.42,577.96 183.69,588.53 186.97,594.70 190.24,597.04 193.51,591.53 196.79,578.14 200.06,553.12 203.34,554.10 206.61,558.86 209.88,562.03 213.16,568.54 216.43,567.04 219.71,575.72 222.98,574.77 226.25,563.92 229.53,561.53 232.80,544.65 236.08,547.08 239.35,538.08 242.63,532.07 245.90,519.58 249.17,527.47 252.45,528.79 255.72,516.60 259.00,514.38 262.27,517.80 265.54,531.11 268.82,554.08 272.09,575.27 275.37,586.77 278.64,590.25 281.92,597.28 285.19,595.16 288.46,587.41 291.74,589.83 295.01,592.57 298.29,582.44 301.56,557.28 304.83,552.33 308.11,560.60 311.38,571.53 314.66,583.64 317.93,594.97 321.20,593.43 324.48,574.99 327.75,574.05 331.03,565.85 334.30,558.87 337.58,560.78 340.85,563.13 344.12,563.78 347.40,581.73 350.67,592.61 353.95,600.95 357.22,597.61 360.49,603.26 363.77,602.40 367.04,602.95 370.32,599.36 373.59,591.31 376.86,585.46 380.14,583.02 383.41,584.32 386.69,569.16 389.96,565.35 393.24,568.64 396.51,559.52 399.78,571.82 403.06,572.95 406.33,578.42 409.61,589.72 412.88,595.28 416.15,594.71 419.43,593.18 422.70,589.87 425.98,585.36 429.25,583.26 432.53,589.58 435.80,594.22 439.07,595.96 442.35,576.93 445.62,548.07 448.90,528.84 452.17,516.01 455.44,525.41 458.72,536.57 461.99,544.01 465.27,548.97 468.54,561.68 471.81,580.33 475.09,590.22 478.36,577.30 481.64,572.08 484.91,559.35 488.19,565.38 491.46,573.87 494.73,581.83 498.01,580.51 501.28,580.95 504.56,573.38 507.83,571.16 511.10,568.71 514.38,576.53 517.65,585.09 520.93,593.92 524.20,597.00 527.47,595.58 530.75,600.17 534.02,593.34 537.30,592.95 540.57,587.64 543.85,571.44 547.12,564.21 550.39,556.56 553.67,541.20 556.94,524.25 560.22,519.16 563.49,538.30 566.76,564.75 570.04,575.72 573.31,581.38 576.59,582.53 579.86,575.59 583.14,556.83 586.41,549.46 589.68,535.92 592.96,524.00 596.23,515.65 599.51,508.65 602.78,505.89 606.05,503.79 609.33,527.34 612.60,542.72 615.88,555.96 619.15,572.17 622.42,577.22 625.70,590.69 628.97,598.24 632.25,589.60 635.52,585.82 638.80,594.30 642.07,559.66 645.34,542.71 648.62,528.15 651.89,519.21 655.17,517.75 658.44,512.04 661.71,508.13 664.99,505.19 668.26,505.46 671.54,503.29 674.81,506.31 678.08,522.85 681.36,532.86 684.63,531.07 687.91,539.77 691.18,562.70 694.46,576.97 697.73,573.75 701.00,570.62 704.28,548.24 707.55,535.86 710.83,525.90 714.10,519.82 717.37,518.15 720.65,522.12 723.92,515.61 727.20,511.99 730.47,517.57 733.75,547.15 737.02,568.98 740.29,571.47 743.57,568.14 746.84,554.28 750.12,545.45 753.39,542.48 756.66,536.34 759.94,521.61 763.21,515.17 766.49,509.47 769.76,504.51 773.03,516.29 776.31,527.09 779.58,548.91 782.86,555.09 786.13,569.92 789.41,580.98 792.68,587.14 795.95,586.70 799.23,585.79 802.50,581.11 805.78,575.11 809.05,577.92 812.32,588.18 815.60,577.52 818.87,577.73 822.15,589.82 825.42,591.10 828.69,568.59 831.97,561.57 835.24,554.15 838.52,547.03 841.79,545.11 845.07,557.27 848.34,554.06 851.61,550.69 854.89,554.26 858.16,558.61 861.44,556.56 864.71,537.39 867.98,538.10 871.26,561.72 874.53,559.91 877.81,543.54 881.08,528.43 884.36,515.74 887.63,510.95 890.90,512.99 894.18,537.92 897.45,558.50 900.73,572.22 904.00,564.76" />
+<polyline fill="none" stroke="#d62728" stroke-width="2" points="82.19,555.24 85.47,556.51 88.74,567.96 92.02,576.97 95.29,581.76 98.56,587.13 101.84,593.73 105.11,607.24 108.39,612.57 111.66,610.26 114.93,605.60 118.21,597.80 121.48,589.46 124.76,578.08 128.03,565.53 131.31,551.60 134.58,541.15 137.85,533.52 141.13,532.59 144.40,537.89 147.68,543.91 150.95,548.50 154.22,558.22 157.50,567.50 160.77,576.53 164.05,580.18 167.32,578.35 170.59,571.39 173.87,565.46 177.14,563.54 180.42,568.35 183.69,575.07 186.97,581.62 190.24,586.76 193.51,588.35 196.79,584.95 200.06,574.34 203.34,567.59 206.61,564.68 209.88,563.80 213.16,565.38 216.43,565.93 219.71,569.20 222.98,571.05 226.25,568.67 229.53,566.29 232.80,559.08 236.08,555.08 239.35,549.41 242.63,543.63 245.90,535.62 249.17,532.90 252.45,531.53 255.72,526.56 259.00,522.50 262.27,520.93 265.54,524.33 268.82,534.24 272.09,547.92 275.37,560.87 278.64,570.66 281.92,579.54 285.19,584.75 288.46,585.63 291.74,587.03 295.01,588.88 298.29,586.73 301.56,576.91 304.83,568.72 308.11,566.01 311.38,567.85 314.66,573.11 317.93,580.40 321.20,584.74 324.48,581.49 327.75,579.01 331.03,574.63 334.30,569.37 337.58,566.51 340.85,565.38 344.12,564.85 347.40,570.48 350.67,577.85 353.95,585.55 357.22,589.57 360.49,594.14 363.77,596.89 367.04,598.91 370.32,599.06 373.59,596.48 376.86,592.80 380.14,589.54 383.41,587.80 386.69,581.59 389.96,576.18 393.24,573.66 396.51,568.95 399.78,569.91 403.06,570.92 406.33,573.42 409.61,578.85 412.88,584.33 416.15,587.79 419.43,589.59 422.70,589.68 425.98,588.24 429.25,586.58 432.53,587.58 435.80,589.79 439.07,591.85 442.35,586.88 445.62,573.94 448.90,558.91 452.17,544.61 455.44,538.21 458.72,537.66 461.99,539.78 465.27,542.84 468.54,549.12 471.81,559.53 475.09,569.76 478.36,572.27 481.64,572.21 484.91,567.92 488.19,567.08 491.46,569.34 494.73,573.50 498.01,575.84 501.28,577.54 504.56,576.16 507.83,574.49 511.10,572.56 514.38,573.89 517.65,577.62 520.93,583.05 524.20,587.70 527.47,590.33 530.75,593.61 534.02,593.52 537.30,593.33 540.57,591.43 543.85,584.77 547.12,577.91 550.39,570.80 553.67,560.93 556.94,548.70 560.22,538.86 563.49,538.67 566.76,547.36 570.04,556.82 573.31,565.00 576.59,570.85 579.86,572.43 583.14,567.23 586.41,561.30 589.68,552.84 592.96,543.23 596.23,534.03 599.51,525.57 602.78,519.01 606.05,513.94 609.33,518.41 612.60,526.51 615.88,536.33 619.15,548.27 622.42,557.92 625.70,568.85 628.97,578.64 632.25,582.30 635.52,583.47 638.80,587.08 642.07,577.94 645.34,566.19 648.62,553.51 651.89,542.08 655.17,533.97 658.44,526.66 661.71,520.48 664.99,515.39 668.26,512.08 671.54,509.15 674.81,508.20 678.08,513.08 681.36,519.68 684.63,523.47 687.91,528.91 691.18,540.17 694.46,552.44 697.73,559.54 701.00,563.24 704.28,558.24 707.55,550.78 710.83,542.49 714.10,534.93 717.37,529.34 720.65,526.93 723.92,523.16 727.20,519.44 730.47,518.81 733.75,528.26 737.02,541.83 740.29,551.71 743.57,557.19 746.84,556.22 750.12,552.63 753.39,549.25 756.66,544.94 759.94,537.17 763.21,529.83 766.49,523.04 769.76,516.86 773.03,516.67 776.31,520.15 779.58,529.73 782.86,538.18 786.13,548.76 789.41,559.50 792.68,568.71 795.95,574.71 799.23,578.40 802.50,579.31 805.78,577.91 809.05,577.91 812.32,581.33 815.60,580.06 818.87,579.28 822.15,582.79 825.42,585.56 828.69,579.90 831.97,573.79 835.24,567.25 838.52,560.51 841.79,555.38 845.07,556.01 848.34,555.36 851.61,553.80 854.89,553.95 858.16,555.51 861.44,555.86 864.71,549.70 867.98,545.83 871.26,551.13 874.53,554.05 877.81,550.55 881.08,543.18 884.36,534.03 887.63,526.34 890.90,521.89 894.18,527.23 897.45,537.66 900.73,549.18 904.00,554.37" />
 <text x="824.00" y="502.00" font-size="13" font-family="Arial" fill="#2ca02c" text-anchor="start">K</text>
 <text x="860.00" y="502.00" font-size="13" font-family="Arial" fill="#d62728" text-anchor="start">D</text>
 </svg>
