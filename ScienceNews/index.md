@@ -1,45 +1,45 @@
 # ScienceNews
 
-更新日期：2026-08-15
+更新日期：2026-08-16
 
 每日自動整理全球重要科學新聞，依五大科學分類篩選與排序。
 
-## [Astronomy](Astronomy/20260815-Astronomy.md)
+## [Astronomy](Astronomy/20260816-Astronomy.md)
 
-今日子題：太空任務與望遠鏡
+今日子題：太陽系與行星科學
 
-- [NASA Shares Station Research Today Supporting Moon, Mars Tomorrow](https://www.nasa.gov/missions/station/iss-research/nasa-shares-station-research-today-supporting-moon-mars-tomorrow/) - NASA
-- [NASA Competition Invites Students to Help Imagine a Future Enabled by Lunar Technologies](https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/nasa-competition-invites-students-to-help-imagine-a-future-enabled-by-lunar-technologies/) - NASA
-- [For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too](https://www.nasa.gov/centers-and-facilities/goddard/for-west-virginia-engineer-home-is-where-the-heart-is-and-nasa-too/) - NASA
+- [Building the Moon Base: NASA Stories at the Ion](https://www.nasa.gov/missions/moon-base/building-the-moon-base-nasa-stories-at-the-ion/) - NASA
+- [NASA Data Helps Commercial Space Plan Living Off Our Moon](https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-data-helps-commercial-space-plan-living-off-our-moon/) - NASA
+- [The most breathtaking photos of the total solar eclipse](https://www.newscientist.com/article/2584532-the-best-photos-of-the-total-solar-eclipse/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS) - New Scientist
 
-## [Physics](Physics/20260815-Physics.md)
+## [Physics](Physics/20260816-Physics.md)
 
-今日子題：重力與相對論
+今日子題：光學與電漿物理
 
-- [Localised Horizons and Holographic Thermodynamics: Supercooling in the 1/D Expansion](https://arxiv.org/abs/2608.13557v1) - arXiv
-- [Vector Perturbations in Ghost-Free Quasidilaton Massive Gravity](https://arxiv.org/abs/2608.13529v1) - arXiv
 - [High frequency of urban new particle formation on the Tibetan Plateau: quantifying formation rates, growth rates, and CCN production](https://doi.org/10.5194/acp-26-11473-2026) - Atmospheric Chemistry and Physics
+- [Ordinary WiFi can now identify you with near-perfect accuracy](https://www.sciencedaily.com/releases/2026/08/260811052857.htm) - ScienceDaily Physics
+- [Scientists discover a hidden switch inside silver nanocatalysts](https://www.sciencedaily.com/releases/2026/08/260810015714.htm) - ScienceDaily Physics
 
-## [Chemistry](Chemistry/20260815-Chemistry.md)
+## [Chemistry](Chemistry/20260816-Chemistry.md)
 
-今日子題：能源化學與電池
+今日子題：環境化學
 
 - [Multi-model assessment of impacts of the 2022 Hunga eruption on stratospheric ozone and its chemical and dynamical drivers](https://doi.org/10.5194/acp-26-11355-2026) - Atmospheric Chemistry and Physics
 - [Reaction kinetics and multi-sulfur products formation of sulfur-containing volatile organic compounds with OH radicals](https://doi.org/10.5194/acp-26-11339-2026) - Atmospheric Chemistry and Physics
-- [Chemists set electrons free and break a decades-old chemistry barrier](https://www.sciencedaily.com/releases/2026/08/260807035147.htm) - ScienceDaily Physics
+- [Common food preservative linked to rising suicide deaths among young people](https://www.sciencedaily.com/releases/2026/08/260813045557.htm) - ScienceDaily
 
-## [Biology & Medical Engineering](Biology/20260815-Biology.md)
+## [Biology & Medical Engineering](Biology/20260816-Biology.md)
 
-今日子題：演化與生態
+今日子題：生物工程與醫學工程
 
+- [‘Remarkable’ discovery upends our understanding of how brains store memories](https://www.newscientist.com/article/2584638-remarkable-discovery-upends-our-understanding-of-how-brains-store-memories/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS) - New Scientist
 - [The probiotic bacteria engineered to treat diabetes](https://www.nature.com/articles/d41586-026-02521-5) - Nature
-- [A 236-million-year-old fossil could rewrite the story of mammalian birth](https://www.sciencedaily.com/releases/2026/08/260813045534.htm) - ScienceDaily
-- [Monsoon-driven wildfires may have shaped human evolution](https://www.newscientist.com/article/2584578-monsoon-driven-wildfires-may-have-shaped-human-evolution/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS) - New Scientist
+- [Will the mRNA flu shot work better than a regular seasonal one? What the science says](https://www.nature.com/articles/d41586-026-02502-8) - Nature
 
-## [Earth Science](EarthScience/20260815-EarthScience.md)
+## [Earth Science](EarthScience/20260816-EarthScience.md)
 
-今日子題：氣候科學
+今日子題：環境與生態系統
 
-- [Impacts of the three-dimensional radiative effects on cloud droplet number concentration retrieval and regression-based albedo susceptibility estimates](https://doi.org/10.5194/acp-26-11449-2026) - Atmospheric Chemistry and Physics
-- [Impacts of secondary ice production on the microphysics and dynamics of deep convective clouds in different environments](https://doi.org/10.5194/acp-26-11371-2026) - Atmospheric Chemistry and Physics
-- [Process evaluation suggests models misrepresent the precipitation-driven replenishment of cloud condensation nuclei](https://doi.org/10.5194/acp-26-11281-2026) - Atmospheric Chemistry and Physics
+- [Fishers detonate a bomb every hour on one Indonesian coral reef](https://www.newscientist.com/article/2584701-fishers-detonate-a-bomb-every-hour-on-one-indonesian-coral-reef/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS) - New Scientist
+- [How bad is the UK drought and how long will it continue?](https://www.newscientist.com/article/2584619-how-bad-is-the-uk-drought-and-how-long-will-it-continue/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS) - New Scientist
+- [First Continuous Aerosol Measurements at Testa Grigia at 3480 m a.s.l.: Aerosol Populations and Dust Transport Dynamics in the Southern European Alps](https://doi.org/10.5194/acp-26-11135-2026) - Atmospheric Chemistry and Physics

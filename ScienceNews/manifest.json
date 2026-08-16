@@ -6,6 +6,12 @@
       "label": "天文",
       "articles": [
         {
+          "date": "20260816",
+          "title": "2026-08-16",
+          "path": "Astronomy/20260816-Astronomy.md",
+          "category": "Astronomy"
+        },
+        {
           "date": "20260815",
           "title": "2026-08-15",
           "path": "Astronomy/20260815-Astronomy.md",
@@ -227,6 +233,12 @@
       "id": "Physics",
       "label": "物理",
       "articles": [
+        {
+          "date": "20260816",
+          "title": "2026-08-16",
+          "path": "Physics/20260816-Physics.md",
+          "category": "Physics"
+        },
         {
           "date": "20260815",
           "title": "2026-08-15",
@@ -450,6 +462,12 @@
       "label": "化學",
       "articles": [
         {
+          "date": "20260816",
+          "title": "2026-08-16",
+          "path": "Chemistry/20260816-Chemistry.md",
+          "category": "Chemistry"
+        },
+        {
           "date": "20260815",
           "title": "2026-08-15",
           "path": "Chemistry/20260815-Chemistry.md",
@@ -672,6 +690,12 @@
       "label": "生物",
       "articles": [
         {
+          "date": "20260816",
+          "title": "2026-08-16",
+          "path": "Biology/20260816-Biology.md",
+          "category": "Biology"
+        },
+        {
           "date": "20260815",
           "title": "2026-08-15",
           "path": "Biology/20260815-Biology.md",
@@ -893,6 +917,12 @@
       "id": "EarthScience",
       "label": "地球科學",
       "articles": [
+        {
+          "date": "20260816",
+          "title": "2026-08-16",
+          "path": "EarthScience/20260816-EarthScience.md",
+          "category": "EarthScience"
+        },
         {
           "date": "20260815",
           "title": "2026-08-15",
