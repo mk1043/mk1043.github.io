@@ -1,45 +1,45 @@
 # ScienceNews
 
-更新日期：2026-08-29
+更新日期：2026-08-30
 
 每日自動整理全球重要科學新聞，依五大科學分類篩選與排序。
 
-## [Astronomy](Astronomy/20260829-Astronomy.md)
+## [Astronomy](Astronomy/20260830-Astronomy.md)
 
-今日子題：恆星與星系
+今日子題：宇宙學與高能天文
 
-- [Fastest star ever spotted at the centre of our galaxy](https://www.newscientist.com/article/2586889-fastest-star-ever-spotted-at-the-centre-of-our-galaxy/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS) - New Scientist
-- [Map of the Interstellar Continuum FUV Field within 800 Parsecs](https://arxiv.org/abs/2608.27400v1) - arXiv
-- [“I jumped from my chair” – Astronomers spot Betelgeuse’s hidden companion](https://www.sciencedaily.com/releases/2026/08/260827010514.htm) - ScienceDaily
+- [Building Foresight for Earth Science, featuring Lindsey Jacobson](https://www.nasa.gov/earth/earth-visualization-mapping/building-foresight-for-earth-science-featuring-lindsey-jacobson/) - NASA
+- [NASA Begins Moon Mission Plume-Surface Interaction Tests](https://www.nasa.gov/missions/artemis/nasa-begins-moon-mission-plume-surface-interaction-tests/) - NASA
+- [NASA Ames’ Contributions to Roman’s Mission](https://www.nasa.gov/general/nasa-ames-contributions-to-romans-mission/) - NASA
 
-## [Physics](Physics/20260829-Physics.md)
+## [Physics](Physics/20260830-Physics.md)
 
-今日子題：凝態物理與材料物理
+今日子題：重力與相對論
 
 - [Evidence of gravity wave contribution to vertical shear and mixing in the lower stratosphere](https://doi.org/10.5194/acp-26-12067-2026) - Atmospheric Chemistry and Physics
-- [‘Thinking about the edges of space-time can help build a better world’](https://www.newscientist.com/article/2585251-thinking-about-the-edges-of-space-time-can-help-build-a-better-world/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS) - New Scientist
-- [In situ real-time determination of SO2 photochemical oxidation in nanoscale sea salt aerosols based on dark-field microscopy](https://doi.org/10.5194/acp-26-12183-2026) - Atmospheric Chemistry and Physics
+- [A mysterious cosmic hum may come from 13-billion-year-old dark stars](https://www.sciencedaily.com/releases/2026/08/260827010457.htm) - ScienceDaily Physics
+- [Some signs of quantum gravity may be an illusion](https://www.sciencedaily.com/releases/2026/08/260828005226.htm) - ScienceDaily
 
-## [Chemistry](Chemistry/20260829-Chemistry.md)
+## [Chemistry](Chemistry/20260830-Chemistry.md)
 
-今日子題：物理化學
+今日子題：能源化學與電池
 
-- [Scientists just imaged the hidden quantum shape of a molecule](https://www.sciencedaily.com/releases/2026/08/260822015213.htm) - ScienceDaily Physics
 - [Buffering of atmospheric nanoparticle growth by temperature-dependent shifts in molecular composition, volatility and diffusivity](https://doi.org/10.5194/acp-26-12037-2026) - Atmospheric Chemistry and Physics
+- [Scientists just imaged the hidden quantum shape of a molecule](https://www.sciencedaily.com/releases/2026/08/260822015213.htm) - ScienceDaily Physics
 - [Atomic catalyst unlocks the hidden value of plant waste](https://www.sciencedaily.com/releases/2026/08/260824065601.htm) - ScienceDaily Physics
 
-## [Biology & Medical Engineering](Biology/20260829-Biology.md)
+## [Biology & Medical Engineering](Biology/20260830-Biology.md)
 
-今日子題：醫學與疾病
+今日子題：演化與生態
 
-- [Insights into longevity and virus-driven adaptation from Myotis bat genomes](https://www.nature.com/articles/s41586-026-10932-7) - Nature
-- [Systems vaccinology and the architecture of human immunity](https://www.nature.com/articles/s41586-026-10753-8) - Nature
-- [Briefing Chat: How Dolly Parton left her mark on science](https://www.nature.com/articles/d41586-026-02732-w) - Nature
+- [Animal-microbe partnerships date back to the dawn of complex life](https://www.nature.com/articles/d41586-026-02629-8) - Nature
+- [Exclusive video of world’s first echidna puggle to be born at a university](https://www.newscientist.com/article/2586728-a-baby-echidna-has-been-born-in-a-university-for-the-first-time/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS) - New Scientist
+- [Ultrafast and reference-free sequence discovery in single-cell data](https://www.nature.com/articles/s41586-026-10975-w) - Nature
 
-## [Earth Science](EarthScience/20260829-EarthScience.md)
+## [Earth Science](EarthScience/20260830-EarthScience.md)
 
-今日子題：海洋科學
+今日子題：氣候科學
 
-- [Galapagos corals suggest climate change drives stronger El Niños](https://www.newscientist.com/article/2586758-galapagos-corals-suggest-climate-change-drives-stronger-el-ninos/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS) - New Scientist
-- [Why are El Niños getting stronger? 1,000-year-coral record points to climate change](https://www.nature.com/articles/d41586-026-02717-9) - Nature
-- [Highest-ever ocean temperatures recorded as El Niño intensifies](https://www.nature.com/articles/d41586-026-02681-4) - Nature
+- [Contrasting nighttime heterogeneous and daytime photochemical aging drive the optical evolution of black carbon](https://doi.org/10.5194/acp-26-12197-2026) - Atmospheric Chemistry and Physics
+- [Glacier collapse caused Nepal’s deadly flash flood — a sign of things to come?](https://www.nature.com/articles/d41586-026-02716-w) - Nature
+- [Measurement report: Significant ozone loss during the Arctic winter 2020 measured from ground based microwave radiometer](https://doi.org/10.5194/acp-26-12097-2026) - Atmospheric Chemistry and Physics
