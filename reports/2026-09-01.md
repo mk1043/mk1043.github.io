@@ -15,8 +15,8 @@
 
 市場摘要：已收集 88 個市場資料檔案。
 
-- 台股：已統計 23 個標的；20 日相對強勢：奇鋐(3017)(34.31%)、南電(8046)(29.07%)、世芯-KY(3661)(25.38%)、華碩(2357)(25.03%)、緯穎(6669)(19.75%)
-- 美股：已統計 20 個標的；20 日相對強勢：CRM(38.50%)、MU(15.58%)、TSLA(14.24%)、NFLX(10.53%)、NVDA(6.84%)
+- 台股：已統計 23 個標的；20 日相對強勢：奇鋐(3017)(31.15%)、世芯-KY(3661)(26.11%)、華碩(2357)(25.31%)、南電(8046)(17.22%)、台達電(2308)(15.12%)
+- 美股：已統計 20 個標的；20 日相對強勢：CRM(35.14%)、NFLX(9.84%)、TSLA(8.78%)、AAPL(5.09%)、MU(4.57%)
 
 ---
 
@@ -27,23 +27,23 @@
 台股觀察清單，以下列出前 12 個標的：
 - 元大台灣50(0050)：收盤 106.25；20 日 4.17%；60 日 2.02%；200 日均線之上：是
 - 富邦科技(0052)：收盤 61.85；20 日 4.56%；60 日 1.39%；200 日均線之上：是
-- 元大高股息(0056)：收盤 53.85；20 日 8.83%；60 日 2.28%；200 日均線之上：是
-- 主動統一台股增長(00981A)：收盤 30.09；20 日 15.15%；60 日 -4.05%；200 日均線之上：是
-- 聯電(2303)：收盤 129.00；20 日 9.32%；60 日 -1.90%；200 日均線之上：是
-- 台達電(2308)：收盤 1840.00；20 日 16.46%；60 日 -20.00%；200 日均線之上：是
-- 鴻海(2317)：收盤 250.00；20 日 -1.19%；60 日 -12.13%；200 日均線之上：是
-- 台積電(2330)：收盤 2405.00；20 日 1.48%；60 日 1.69%；200 日均線之上：是
-- 華碩(2357)：收盤 999.00；20 日 25.03%；60 日 11.00%；200 日均線之上：是
-- 技嘉(2376)：收盤 358.00；20 日 10.32%；60 日 -2.98%；200 日均線之上：是
-- 廣達(2382)：收盤 338.50；20 日 14.17%；60 日 -13.32%；200 日均線之上：是
-- 中華電(2412)：收盤 136.00；20 日 -2.16%；60 日 -3.55%；200 日均線之上：是
+- 元大高股息(0056)：收盤 54.60；20 日 9.59%；60 日 5.41%；200 日均線之上：是
+- 主動統一台股增長(00981A)：收盤 29.40；20 日 8.45%；60 日 -4.58%；200 日均線之上：是
+- 聯電(2303)：收盤 132.50；20 日 11.81%；60 日 9.50%；200 日均線之上：是
+- 台達電(2308)：收盤 1865.00；20 日 15.12%；60 日 -17.29%；200 日均線之上：是
+- 鴻海(2317)：收盤 256.00；20 日 2.40%；60 日 -5.01%；200 日均線之上：是
+- 台積電(2330)：收盤 2440.00；20 日 5.17%；60 日 6.32%；200 日均線之上：是
+- 華碩(2357)：收盤 1010.00；20 日 25.31%；60 日 19.67%；200 日均線之上：是
+- 技嘉(2376)：收盤 359.00；20 日 8.13%；60 日 4.06%；200 日均線之上：是
+- 廣達(2382)：收盤 342.00；20 日 13.81%；60 日 -9.16%；200 日均線之上：是
+- 中華電(2412)：收盤 136.00；20 日 -0.37%；60 日 -1.81%；200 日均線之上：是
 - 其餘 11 個標的已納入統計與強弱排行。
 
 ## 成交量
 
 量價分析標的數：23
-- 量價偏多觀察：聯電(2303)(價漲量增, 分數 4, 5 日 4.45%, 量比 1.46x)、國泰金(2882)(價漲量增, 分數 4, 5 日 11.73%, 量比 2.94x)、富邦金(2881)(價漲量增, 分數 3, 5 日 9.09%, 量比 1.66x)、南電(8046)(價漲量增, 分數 3, 5 日 8.37%, 量比 1.87x)、元大高股息(0056)(量能中性, 分數 2, 5 日 2.77%, 量比 0.60x)
-- 量價偏弱觀察：鴻海(2317)(量能中性, 分數 -1, 5 日 2.67%, 量比 0.82x)、聯發科(2454)(量能中性, 分數 -1, 5 日 4.25%, 量比 0.89x)、緯創(3231)(量縮整理, 分數 -1, 5 日 1.42%, 量比 0.65x)、日月光投控(3711)(放量震盪, 分數 -1, 5 日 -1.35%, 量比 1.56x)
+- 量價偏多觀察：元大高股息(0056)(價漲量增, 分數 4, 5 日 4.40%, 量比 1.73x)、聯電(2303)(價漲量增, 分數 4, 5 日 6.00%, 量比 1.46x)、華碩(2357)(價漲量增, 分數 4, 5 日 9.19%, 量比 1.40x)、主動統一台股增長(00981A)(量能中性, 分數 2, 5 日 3.27%, 量比 1.23x)、廣達(2382)(量能中性, 分數 2, 5 日 4.11%, 量比 0.86x)
+- 量價偏弱觀察：緯穎(6669)(放量下跌, 分數 -4, 5 日 -59.39%, 量比 4.52x)、鴻海(2317)(價漲量縮, 分數 -1, 5 日 5.35%, 量比 0.70x)、聯發科(2454)(價漲量縮, 分數 -1, 5 日 15.53%, 量比 0.37x)、欣興(3037)(放量下跌, 分數 -1, 5 日 -11.32%, 量比 3.89x)、緯創(3231)(量縮整理, 分數 -1, 5 日 1.96%, 量比 0.52x)
 
 ## 類股輪動
 
@@ -51,11 +51,11 @@ MVP 尚未接入完整類股分類資料，暫不推論類股輪動。
 
 ## 強勢股
 
-奇鋐(3017)(34.31%)、南電(8046)(29.07%)、世芯-KY(3661)(25.38%)、華碩(2357)(25.03%)、緯穎(6669)(19.75%)
+奇鋐(3017)(31.15%)、世芯-KY(3661)(26.11%)、華碩(2357)(25.31%)、南電(8046)(17.22%)、台達電(2308)(15.12%)
 
 ## 弱勢股
 
-緯創(3231)(-4.30%)、日月光投控(3711)(-4.26%)、中華電(2412)(-2.16%)、鴻海(2317)(-1.19%)、中信金(2891)(-0.15%)
+緯穎(6669)(-57.86%)、緯創(3231)(-6.67%)、中華電(2412)(-0.37%)、鴻海(2317)(2.40%)、中信金(2891)(2.62%)
 
 ---
 
@@ -63,23 +63,23 @@ MVP 尚未接入完整類股分類資料，暫不推論類股輪動。
 
 ## 主要 ETF
 
-- QQQ：收盤 716.76；20 日 2.38%；60 日 -3.22%；200 日均線之上：是
-- VOO：收盤 704.89；20 日 1.22%；60 日 1.27%；200 日均線之上：是
-- VT：收盤 160.55；20 日 1.87%；60 日 1.27%；200 日均線之上：是
-- SOXX：收盤 511.04；20 日 0.66%；60 日 -15.21%；200 日均線之上：是
+- QQQ：收盤 707.64；20 日 -2.24%；60 日 0.37%；200 日均線之上：是
+- VOO：收盤 700.28；20 日 -1.23%；60 日 3.29%；200 日均線之上：是
+- VT：收盤 159.31；20 日 -0.71%；60 日 3.66%；200 日均線之上：是
+- SOXX：收盤 500.31；20 日 -7.73%；60 日 -7.31%；200 日均線之上：是
 
 ## 科技股
 
-- NVDA：收盤 220.78；20 日 6.84%；60 日 0.97%；200 日均線之上：是
-- AAPL：收盤 316.85；20 日 4.43%；60 日 1.81%；200 日均線之上：是
-- MSFT：收盤 507.29；20 日 4.03%；60 日 18.51%；200 日均線之上：是
-- TSM：收盤 415.32；20 日 2.27%；60 日 -6.65%；200 日均線之上：是
+- NVDA：收盤 217.44；20 日 2.60%；60 日 6.02%；200 日均線之上：是
+- AAPL：收盤 325.13；20 日 5.09%；60 日 5.79%；200 日均線之上：是
+- MSFT：收盤 501.02；20 日 1.67%；60 日 20.24%；200 日均線之上：是
+- TSM：收盤 414.00；20 日 -0.76%；60 日 -0.28%；200 日均線之上：是
 
 ## 半導體
 
-- SOXX：收盤 511.04；20 日 0.66%；60 日 -15.21%；200 日均線之上：是
-- NVDA：收盤 220.78；20 日 6.84%；60 日 0.97%；200 日均線之上：是
-- TSM：收盤 415.32；20 日 2.27%；60 日 -6.65%；200 日均線之上：是
+- SOXX：收盤 500.31；20 日 -7.73%；60 日 -7.31%；200 日均線之上：是
+- NVDA：收盤 217.44；20 日 2.60%；60 日 6.02%；200 日均線之上：是
+- TSM：收盤 414.00；20 日 -0.76%；60 日 -0.28%；200 日均線之上：是
 
 ## AI 概念股
 
@@ -98,22 +98,22 @@ Python 已提供價格趨勢統計，包括 1 日、5 日、20 日、60 日、25
 Python 也已計算 RSI(14)、MACD(12/26/9)、EMA(20/50/200)、KD(9)、Bollinger Bands(20, 2)、ATR(14)、ADX(14)。
 
 - 元大台灣50(0050)：RSI14 56.09；MACD hist 0.23；K/D 72.33/62.19；ADX 8.50；布林上/中/下 107.80/104.70/101.60
-- 台積電(2330)：RSI14 52.26；MACD hist 2.90；K/D 66.83/62.52；ADX 6.31；布林上/中/下 2443.59/2391.00/2338.41
-- QQQ：RSI14 52.07；MACD hist -0.40；K/D 52.24/42.52；ADX 11.94；布林上/中/下 732.43/718.78/705.13
-- VOO：RSI14 53.85；MACD hist -0.94；K/D 39.86/35.66；ADX 14.98；布林上/中/下 714.65/707.49/700.32
-- SOXX：RSI14 44.03；MACD hist -1.18；K/D 28.03/28.21；ADX 14.65；布林上/中/下 559.53/529.67/499.81
-- NVDA：RSI14 54.56；MACD hist -0.28；K/D 47.87/39.65；ADX 16.29；布林上/中/下 229.36/218.75/208.15
+- 台積電(2330)：RSI14 56.28；MACD hist 4.39；K/D 76.13/67.06；ADX 6.43；布林上/中/下 2442.76/2397.00/2351.24
+- QQQ：RSI14 46.56；MACD hist -0.93；K/D 42.51/42.51；ADX 11.91；布林上/中/下 732.23/717.97/703.71
+- VOO：RSI14 48.61；MACD hist -1.28；K/D 31.48/34.27；ADX 14.13；布林上/中/下 714.83/707.05/699.27
+- SOXX：RSI14 40.97；MACD hist -1.76；K/D 23.80/26.74；ADX 15.02；布林上/中/下 559.43/527.57/495.72
+- NVDA：RSI14 51.87；MACD hist -0.38；K/D 46.54/41.95；ADX 15.59；布林上/中/下 229.19/219.03/208.87
 
 ## 量價分析
 
 Python 已依成交量與價格變化產生量價型態，AI 只解讀輸出結果。
 
 - 元大台灣50(0050)：量能中性；5 日 2.36%；20 日 4.17%；量比 20 日均量 0.88 倍；OBV 20 日量壓 18.97%；說明：量價未出現明確偏多或偏空結構、OBV 20 日量壓偏正向
-- 台積電(2330)：放量震盪；5 日 1.26%；20 日 1.48%；量比 20 日均量 1.41 倍；OBV 20 日量壓 11.92%；說明：量能放大但價格方向尚未明確、OBV 20 日量壓偏正向
-- QQQ：量能中性；5 日 1.48%；20 日 2.38%；量比 20 日均量 0.98 倍；OBV 20 日量壓 -11.08%；說明：量價未出現明確偏多或偏空結構、OBV 20 日量壓偏負向
-- VOO：量能中性；5 日 0.44%；20 日 1.22%；量比 20 日均量 0.93 倍；OBV 20 日量壓 -8.34%；說明：量價未出現明確偏多或偏空結構
-- SOXX：量能中性；5 日 0.96%；20 日 0.66%；量比 20 日均量 0.85 倍；OBV 20 日量壓 12.98%；說明：量價未出現明確偏多或偏空結構、OBV 20 日量壓偏正向
-- NVDA：量能中性；5 日 5.90%；20 日 6.84%；量比 20 日均量 0.97 倍；OBV 20 日量壓 -9.78%；說明：量價未出現明確偏多或偏空結構、近 5 日均量高於 20 日均量
+- 台積電(2330)：量能中性；5 日 1.67%；20 日 5.17%；量比 20 日均量 0.94 倍；OBV 20 日量壓 27.07%；說明：量價未出現明確偏多或偏空結構、OBV 20 日量壓偏正向
+- QQQ：量能中性；5 日 -0.43%；20 日 -2.24%；量比 20 日均量 1.10 倍；OBV 20 日量壓 -26.50%；說明：量價未出現明確偏多或偏空結構、OBV 20 日量壓偏負向
+- VOO：量能中性；5 日 -0.53%；20 日 -1.23%；量比 20 日均量 1.05 倍；OBV 20 日量壓 -18.90%；說明：量價未出現明確偏多或偏空結構、OBV 20 日量壓偏負向
+- SOXX：量能中性；5 日 -2.67%；20 日 -7.73%；量比 20 日均量 1.10 倍；OBV 20 日量壓 0.16%；說明：量價未出現明確偏多或偏空結構
+- NVDA：量能中性；5 日 2.06%；20 日 2.60%；量比 20 日均量 0.85 倍；OBV 20 日量壓 -19.45%；說明：量價未出現明確偏多或偏空結構、近 5 日均量高於 20 日均量
 
 ---
 
@@ -121,24 +121,24 @@ Python 已依成交量與價格變化產生量價型態，AI 只解讀輸出結�
 
 新聞分析狀態：已取得資料
 
-最近 30 天 RSS 收集結果：財經新聞 90 則，科技新聞 30 則，台灣財經新聞 196 則。
+最近 30 天 RSS 收集結果：財經新聞 90 則，科技新聞 30 則，台灣財經新聞 197 則。
 
-新聞摘要：最近新聞共 316 則；主要分類分布為 ai_semiconductor:234、other:59、macro_rates:32；高頻關鍵字包含 AI、台積電、台股、半導體、Apple、Trump、Amazon、Nvidia。
+新聞摘要：最近新聞共 317 則；主要分類分布為 ai_semiconductor:241、other:53、macro_rates:38；高頻關鍵字包含 AI、台積電、台股、半導體、Apple、Trump、通膨、Nvidia。
 
-分類統計：AI / 半導體:234、總經 / 利率:32、財報 / 企業:22、市場風險:25、其他:59
+分類統計：AI / 半導體:241、總經 / 利率:38、財報 / 企業:25、市場風險:18、其他:53
 
-高頻關鍵字：AI(192)、台積電(60)、台股(30)、半導體(25)、Apple(21)、Trump(15)、Amazon(11)、Nvidia(8)、Fed(7)、外資(6)
+高頻關鍵字：AI(212)、台積電(52)、台股(31)、半導體(29)、Apple(18)、Trump(10)、通膨(7)、Nvidia(7)、資料中心(6)、成長股(6)
 
 代表新聞：
 
-- [TechCrunch] Lachy Groom backs Indian startup aiming to keep aircraft aloft for a year (Tue, 01 Sep 2026 00:30:00 +0000)
-- [TechCrunch] Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI (Tue, 01 Sep 2026 00:13:00 +0000)
-- [Google News 台股] 輝達首度砸錢入股台灣公司！1100億豪押聯發科 黃仁勳揭「10年合作版圖」 - Yahoo股市 (Mon, 31 Aug 2026 23:50:00 GMT)
-- [TechCrunch] Polymarket reportedly raises $300 million from Donald Trump Jr.’s investment fund (Mon, 31 Aug 2026 23:41:10 +0000)
-- [CNBC Finance] August was the month of the comeback kids. Cramer reviews what drove the biggest winners (Mon, 31 Aug 2026 23:23:38 GMT)
-- [Google News 台股] 台積電ADR跌0.5% 較台北交易溢價縮至個位數| 全球財經| 全球 - UDN (Mon, 31 Aug 2026 23:19:12 GMT)
-- [TechCrunch] a16z brings growth fund to $8.5B days after launching new $1.1B fund (Mon, 31 Aug 2026 23:14:14 +0000)
-- [Google News 台股] 黃仁勳談投資聯發科原因，股價要翻身？ - 遠見雜誌 (Mon, 31 Aug 2026 23:13:00 GMT)
+- [CNBC Finance] China dissented from G20 statement opposing 'cheap exports' flooding market, Bessent says (Tue, 01 Sep 2026 23:33:42 GMT)
+- [MarketWatch Top Stories] ‘It’s not fair’: My twin brother and I were left houses by our parents. Can I make him pay his share for taxes and upkeep? (Tue, 01 Sep 2026 23:15:00 GMT)
+- [TechCrunch] Reliance’s JioHotstar takes its streaming empire global — without sports (Tue, 01 Sep 2026 23:00:00 +0000)
+- [TechCrunch] Apple follows Google in adopting Trump’s ‘Lake America’ name (Tue, 01 Sep 2026 22:13:34 +0000)
+- [CNBC Finance] House adopts measure condemning socialism ahead of November election (Tue, 01 Sep 2026 22:13:19 GMT)
+- [TechCrunch] AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B (Tue, 01 Sep 2026 22:08:24 +0000)
+- [Google News 台股半導體] 搶不走的體驗：當 AI 接手生產，你準備好享受自由了嗎？ - CIO Taiwan (Tue, 01 Sep 2026 22:02:43 GMT)
+- [MarketWatch Top Stories] Dow drops below a key chart level, warning of more trouble ahead (Tue, 01 Sep 2026 21:56:00 GMT)
 
 分析：
 
@@ -150,23 +150,22 @@ Python 已依成交量與價格變化產生量價型態，AI 只解讀輸出結�
 
 依新聞標題與摘要的標的別名、產業主題與事件關鍵字進行規則式匹配。
 ### 台股
-- 事件支撐觀察：元大台灣50(0050)(事件偏多, 分數 5, 新聞 38 則)、富邦科技(0052)(事件偏多, 分數 5, 新聞 38 則)、元大高股息(0056)(事件偏多, 分數 5, 新聞 38 則)、主動統一台股增長(00981A)(事件偏多, 分數 5, 新聞 39 則)、聯發科(2454)(事件偏多, 分數 4, 新聞 28 則)
+- 事件支撐觀察：元大台灣50(0050)(事件偏多, 分數 5, 新聞 35 則)、富邦科技(0052)(事件偏多, 分數 5, 新聞 35 則)、元大高股息(0056)(事件偏多, 分數 5, 新聞 35 則)、主動統一台股增長(00981A)(事件偏多, 分數 5, 新聞 35 則)、台積電(2330)(事件偏多, 分數 4, 新聞 52 則)
 - 事件風險觀察：資料不足
-- 元大台灣50(0050)：事件偏多，分數 5，匹配新聞 38 則，主題 台股 / ETF:38、AI / 半導體:18、財報 / 企業:2、總經 / 利率:2、市場風險:1；代表新聞：[【0831台股盤後】加權指數爆量 1.24 兆元甩尾拉回收 46,128 點！MSCI調整買盤強勢承接，主本比 鎖碼精材、聯鈞、富喬 - sinotrade.com.tw](https://news.google.com/rss/articles/CBMi5ARBVV95cUxNWVZwbGwwS3A5SENsTnZfZ0xOZ1FwU2hFN1BRYlViN0lpNWltc3VkUG14WDBadGxfTmdPX2hBQUVudzNpdG43bXY1SzlOQkdwVlNoUXBqb2hJY1FobHJib3pNazQyaFNIR2xzY1BPbVViRWgyRWRjZVQwTjFMMTJkdHRNYWtRenliS1Qyc0RfWUNxaGhHS3FOY2w3MmZvZU4ydC1tSlNTZWp0TG9kY2ZnQW8yZkM2S0dPYkU0ai1DSXZUdkpZRWZWZ0ttX25hV0JwZzBxWlVPRWNFVlRhcERQSnZrZC1NMTczd1RiT3ZKWE1RYU1NVmNRSTlBVTU1QXQyU1pEVzBvdFVfSDdXUTZoT0szdEVCMGFTWmxvSmFTQ2FPQmJzNS00NlRwS1B6YXBLS25SWnNRV19salQyV0t0RVVKWDFtS3BLOTB1WEF2QjBZNmQwU2dndllWNUZ0WGNCOFlINGRqbEJVQXhZUE1oS3hmblZ5ak9XdUZ3SGUwZUs5a1VEUXhuQmNfbXNjLUlvMkt0SW5ONDdMSF9odWphRnI4akkwWkJOZFVhcE44RXc2VWlXM21JcElrV1lyaEdRU1o5YlFCZFRZUVlVVWd0cGNDYTI5dlR1VlRIQlB3RWtZX1FwSDhpYmxOb2N0ajl6ZmpZUEhVWGJaV0J0ZWVJS09Bb3Brd1VUc045SE9hdml5OFpWOVdvZnFtOUlZanAxX0JJTUt3alBRbTJQck1xRUxvRFJTVU1aYWFxZVFXMEMycXV4d0dXMU45X0xrVmdnYzV1V0RaT0ZsdDI3aV9tMmVNOG4?oc=5)
-- 富邦科技(0052)：事件偏多，分數 5，匹配新聞 38 則，主題 台股 / ETF:38、AI / 半導體:18、財報 / 企業:2、總經 / 利率:2、市場風險:1；代表新聞：[【0831台股盤後】加權指數爆量 1.24 兆元甩尾拉回收 46,128 點！MSCI調整買盤強勢承接，主本比 鎖碼精材、聯鈞、富喬 - sinotrade.com.tw](https://news.google.com/rss/articles/CBMi5ARBVV95cUxNWVZwbGwwS3A5SENsTnZfZ0xOZ1FwU2hFN1BRYlViN0lpNWltc3VkUG14WDBadGxfTmdPX2hBQUVudzNpdG43bXY1SzlOQkdwVlNoUXBqb2hJY1FobHJib3pNazQyaFNIR2xzY1BPbVViRWgyRWRjZVQwTjFMMTJkdHRNYWtRenliS1Qyc0RfWUNxaGhHS3FOY2w3MmZvZU4ydC1tSlNTZWp0TG9kY2ZnQW8yZkM2S0dPYkU0ai1DSXZUdkpZRWZWZ0ttX25hV0JwZzBxWlVPRWNFVlRhcERQSnZrZC1NMTczd1RiT3ZKWE1RYU1NVmNRSTlBVTU1QXQyU1pEVzBvdFVfSDdXUTZoT0szdEVCMGFTWmxvSmFTQ2FPQmJzNS00NlRwS1B6YXBLS25SWnNRV19salQyV0t0RVVKWDFtS3BLOTB1WEF2QjBZNmQwU2dndllWNUZ0WGNCOFlINGRqbEJVQXhZUE1oS3hmblZ5ak9XdUZ3SGUwZUs5a1VEUXhuQmNfbXNjLUlvMkt0SW5ONDdMSF9odWphRnI4akkwWkJOZFVhcE44RXc2VWlXM21JcElrV1lyaEdRU1o5YlFCZFRZUVlVVWd0cGNDYTI5dlR1VlRIQlB3RWtZX1FwSDhpYmxOb2N0ajl6ZmpZUEhVWGJaV0J0ZWVJS09Bb3Brd1VUc045SE9hdml5OFpWOVdvZnFtOUlZanAxX0JJTUt3alBRbTJQck1xRUxvRFJTVU1aYWFxZVFXMEMycXV4d0dXMU45X0xrVmdnYzV1V0RaT0ZsdDI3aV9tMmVNOG4?oc=5)
-- 元大高股息(0056)：事件偏多，分數 5，匹配新聞 38 則，主題 台股 / ETF:38、AI / 半導體:18、財報 / 企業:2、總經 / 利率:2、市場風險:1；代表新聞：[【0831台股盤後】加權指數爆量 1.24 兆元甩尾拉回收 46,128 點！MSCI調整買盤強勢承接，主本比 鎖碼精材、聯鈞、富喬 - sinotrade.com.tw](https://news.google.com/rss/articles/CBMi5ARBVV95cUxNWVZwbGwwS3A5SENsTnZfZ0xOZ1FwU2hFN1BRYlViN0lpNWltc3VkUG14WDBadGxfTmdPX2hBQUVudzNpdG43bXY1SzlOQkdwVlNoUXBqb2hJY1FobHJib3pNazQyaFNIR2xzY1BPbVViRWgyRWRjZVQwTjFMMTJkdHRNYWtRenliS1Qyc0RfWUNxaGhHS3FOY2w3MmZvZU4ydC1tSlNTZWp0TG9kY2ZnQW8yZkM2S0dPYkU0ai1DSXZUdkpZRWZWZ0ttX25hV0JwZzBxWlVPRWNFVlRhcERQSnZrZC1NMTczd1RiT3ZKWE1RYU1NVmNRSTlBVTU1QXQyU1pEVzBvdFVfSDdXUTZoT0szdEVCMGFTWmxvSmFTQ2FPQmJzNS00NlRwS1B6YXBLS25SWnNRV19salQyV0t0RVVKWDFtS3BLOTB1WEF2QjBZNmQwU2dndllWNUZ0WGNCOFlINGRqbEJVQXhZUE1oS3hmblZ5ak9XdUZ3SGUwZUs5a1VEUXhuQmNfbXNjLUlvMkt0SW5ONDdMSF9odWphRnI4akkwWkJOZFVhcE44RXc2VWlXM21JcElrV1lyaEdRU1o5YlFCZFRZUVlVVWd0cGNDYTI5dlR1VlRIQlB3RWtZX1FwSDhpYmxOb2N0ajl6ZmpZUEhVWGJaV0J0ZWVJS09Bb3Brd1VUc045SE9hdml5OFpWOVdvZnFtOUlZanAxX0JJTUt3alBRbTJQck1xRUxvRFJTVU1aYWFxZVFXMEMycXV4d0dXMU45X0xrVmdnYzV1V0RaT0ZsdDI3aV9tMmVNOG4?oc=5)
-- 主動統一台股增長(00981A)：事件偏多，分數 5，匹配新聞 39 則，主題 台股 / ETF:38、AI / 半導體:19、財報 / 企業:2、總經 / 利率:2、市場風險:1；代表新聞：[【0831台股盤後】加權指數爆量 1.24 兆元甩尾拉回收 46,128 點！MSCI調整買盤強勢承接，主本比 鎖碼精材、聯鈞、富喬 - sinotrade.com.tw](https://news.google.com/rss/articles/CBMi5ARBVV95cUxNWVZwbGwwS3A5SENsTnZfZ0xOZ1FwU2hFN1BRYlViN0lpNWltc3VkUG14WDBadGxfTmdPX2hBQUVudzNpdG43bXY1SzlOQkdwVlNoUXBqb2hJY1FobHJib3pNazQyaFNIR2xzY1BPbVViRWgyRWRjZVQwTjFMMTJkdHRNYWtRenliS1Qyc0RfWUNxaGhHS3FOY2w3MmZvZU4ydC1tSlNTZWp0TG9kY2ZnQW8yZkM2S0dPYkU0ai1DSXZUdkpZRWZWZ0ttX25hV0JwZzBxWlVPRWNFVlRhcERQSnZrZC1NMTczd1RiT3ZKWE1RYU1NVmNRSTlBVTU1QXQyU1pEVzBvdFVfSDdXUTZoT0szdEVCMGFTWmxvSmFTQ2FPQmJzNS00NlRwS1B6YXBLS25SWnNRV19salQyV0t0RVVKWDFtS3BLOTB1WEF2QjBZNmQwU2dndllWNUZ0WGNCOFlINGRqbEJVQXhZUE1oS3hmblZ5ak9XdUZ3SGUwZUs5a1VEUXhuQmNfbXNjLUlvMkt0SW5ONDdMSF9odWphRnI4akkwWkJOZFVhcE44RXc2VWlXM21JcElrV1lyaEdRU1o5YlFCZFRZUVlVVWd0cGNDYTI5dlR1VlRIQlB3RWtZX1FwSDhpYmxOb2N0ajl6ZmpZUEhVWGJaV0J0ZWVJS09Bb3Brd1VUc045SE9hdml5OFpWOVdvZnFtOUlZanAxX0JJTUt3alBRbTJQck1xRUxvRFJTVU1aYWFxZVFXMEMycXV4d0dXMU45X0xrVmdnYzV1V0RaT0ZsdDI3aV9tMmVNOG4?oc=5)
-- 聯發科(2454)：事件偏多，分數 4，匹配新聞 28 則，主題 AI / 半導體:8；代表新聞：[輝達首度砸錢入股台灣公司！1100億豪押聯發科 黃仁勳揭「10年合作版圖」 - Yahoo股市](https://news.google.com/rss/articles/CBMiqwNBVV95cUxORHc3U090UE1wSzhvNVNEU3JsOUJnY1BwVkUwVmtTeHRQQ0RXZ3I5UVZCZElmUHFjMUxEWUxQTFBFby1ENmtBeHFJRG1sX1I4UWVXeE1VRm5kSWh2RGFiOVRCMmdyd2Y2YXd0aG5uZ1JDbmVNcU1jRjBhMVNPOGFLbmh3UDE1OW5hY0V5aU91VTRNbFJJVmNNSjQ5dW1EZ1lXUHB4Z3NGbFliZFNaeTFXLUM3cG1NOTROaXB4NFF3UzVYSGxPQ1lUYUFScFluNDMtSC1GSEZfTGY1ZXduMTRLRkJPLUtqVTktZUZQRGprVDlhTnQ0X2ExVUpuam5nRENuLTNfWUVYNldYdDg4MjhvRlY1V0VMT3JTdHFEbTNxYy11XzUtNmRFeW9ST2RkOXM2UnB4OVhHQ2dxNndjUFpHMzQtbUMzOHRTZVc2NkpTWG5lQ3BXWXhCREVERVNCaWZQY0pLcU5Fb3lsaG96cXl2QXZSMnBpLTV1Qng0NkgyN2Z4czNTOV82LW1lSHBNQUJVZ2lrT18zRTYyOG9jNGpISllzRE55R3NpVUNz?oc=5)
-- 台積電(2330)：事件偏多，分數 2，匹配新聞 60 則，主題 AI / 半導體:60、財報 / 企業:7；代表新聞：[台積電ADR跌0.5% 較台北交易溢價縮至個位數| 全球財經| 全球 - UDN](https://news.google.com/rss/articles/CBMiUEFVX3lxTFB1dC04d0FnQjBVTGVZQ25vMDVZbzRzYVY1dnctcjBzeU01YjdaTGUyOVQ0S0hxV3ZiZGRJWWlsUE1SMkdzRUt2RmY2cURwZG1s?oc=5)
+- 元大台灣50(0050)：事件偏多，分數 5，匹配新聞 35 則，主題 台股 / ETF:35、AI / 半導體:19、財報 / 企業:2、總經 / 利率:1；代表新聞：[台股大滿貫9月開門紅 將蓄勢挑戰48,218點新高 - UDN](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5sMXVTck0yenFLaXhYcmlYeEs3ZDB1S3ptTl9FbkY0eEQ2QTNCc3psdHRUOXJ2bWhFY25vRmhzbGZRUjJZNzZ5Y3QzMzVPYU8y0gFWQVVfeXFMUExtMV9DSmNhU0RIR2ljRElTaGxRQlYyODZzWWxYelVIX3FwQklXQ2lpTFRpa2RzZlEwRHhESndXLVExTGdWd1hTMDY0b3I0ZEcwbjN1SGc?oc=5)
+- 富邦科技(0052)：事件偏多，分數 5，匹配新聞 35 則，主題 台股 / ETF:35、AI / 半導體:19、財報 / 企業:2、總經 / 利率:1；代表新聞：[台股大滿貫9月開門紅 將蓄勢挑戰48,218點新高 - UDN](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5sMXVTck0yenFLaXhYcmlYeEs3ZDB1S3ptTl9FbkY0eEQ2QTNCc3psdHRUOXJ2bWhFY25vRmhzbGZRUjJZNzZ5Y3QzMzVPYU8y0gFWQVVfeXFMUExtMV9DSmNhU0RIR2ljRElTaGxRQlYyODZzWWxYelVIX3FwQklXQ2lpTFRpa2RzZlEwRHhESndXLVExTGdWd1hTMDY0b3I0ZEcwbjN1SGc?oc=5)
+- 元大高股息(0056)：事件偏多，分數 5，匹配新聞 35 則，主題 台股 / ETF:35、AI / 半導體:19、財報 / 企業:2、總經 / 利率:1；代表新聞：[台股大滿貫9月開門紅 將蓄勢挑戰48,218點新高 - UDN](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5sMXVTck0yenFLaXhYcmlYeEs3ZDB1S3ptTl9FbkY0eEQ2QTNCc3psdHRUOXJ2bWhFY25vRmhzbGZRUjJZNzZ5Y3QzMzVPYU8y0gFWQVVfeXFMUExtMV9DSmNhU0RIR2ljRElTaGxRQlYyODZzWWxYelVIX3FwQklXQ2lpTFRpa2RzZlEwRHhESndXLVExTGdWd1hTMDY0b3I0ZEcwbjN1SGc?oc=5)
+- 主動統一台股增長(00981A)：事件偏多，分數 5，匹配新聞 35 則，主題 台股 / ETF:35、AI / 半導體:19、財報 / 企業:2、總經 / 利率:1；代表新聞：[台股大滿貫9月開門紅 將蓄勢挑戰48,218點新高 - UDN](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5sMXVTck0yenFLaXhYcmlYeEs3ZDB1S3ptTl9FbkY0eEQ2QTNCc3psdHRUOXJ2bWhFY25vRmhzbGZRUjJZNzZ5Y3QzMzVPYU8y0gFWQVVfeXFMUExtMV9DSmNhU0RIR2ljRElTaGxRQlYyODZzWWxYelVIX3FwQklXQ2lpTFRpa2RzZlEwRHhESndXLVExTGdWd1hTMDY0b3I0ZEcwbjN1SGc?oc=5)
+- 台積電(2330)：事件偏多，分數 4，匹配新聞 52 則，主題 AI / 半導體:52、財報 / 企業:6；代表新聞：[Google TPU供應鏈拆解：非輝達陣營成形！除了台積電、鴻海、聯發科還有哪些台廠受惠股？ ｜產業熱話 - sinotrade.com.tw](https://news.google.com/rss/articles/CBMitwRBVV95cUxNSnpuNjkteG5fM1Y0Z0xlZnVSREtWOW04c20tVFhvQ2d1R2R5bk5lSTBxZEx4ZkdmTjVRWHRFVDRwd0FPUmZIUnc4U0RqUjI5ajVZa215QkFOUkN2WDZVUV9pVW40bjhXOEtxLWJmZHp6VXpsSDN6aDkwNVBYamFzaHhhdklDZDhVS2dWYUVORTRGa2pnRjFWMGZfUnJzbFJ6UmJTXzU0aVZiZTJhdEgyYjd5N1Y3VGhRdmJnaVNUTDR5TUlPZDJuMHoyYTAzRURzMUYwMnJzNnVUZXROMl9xSXhwV0pjWFFteF9sajBoVy11b19tZWoyODNLS0twV0ZoMmxWdTgweFZmdTdXVzJsT1ZjYWI2UHQ3bVJ1Um1LSEo1bFp3Nnd1VWNWOUtaRXVWYmRmN2VOWGRGTWFmTmZnWHFOYUJON3p3SWFHSVUtRldyOUd6LVJkUHo0RHJkV0MzUE1CdlhSUjlycW1LdnZKdHZMekFNZV9FdDU5ZTREZDdXdU9KVkw0WDdCQTRJd1ZuR2poaHQ3NHNfa3JXOVYtVUJTTWhzbFNadkVjWjE3b243Q3ppY0JleTUtYWwyNnlOdXVoNUd1cUpmbEFFVTQxZGlJNlk5WXpWNGVNbGlvd1RrSml0cHlkQm1TM2lvZ2ZHbWxBMXQ1OWVBcUxOUG1UaHVNQTNMXy0yalJCbGdJRWJXcUFROExXWl9NX3NsSW8wQjVneHBIUkd2ZlhzQ2NZRkZQMjhhTWM?oc=5)
+- 聯發科(2454)：事件偏多，分數 3，匹配新聞 53 則，主題 AI / 半導體:17；代表新聞：[黃仁勳點讚蔡力行 內外資全衝聯發科 - Yahoo新聞](https://news.google.com/rss/articles/CBMilAJBVV95cUxNUmxBYVEtbUdtSE5kcTJQZTN5LWVmeWRNajhfUFBMdmgxbHVPNW0tbzl6VTlXRzMwQkZsMjlkRnBkdlB0eUZfRS1QaHRjR2tNOFg4UDF5bjlQdEFncXVaRGh5WFU0ZDVlb2YzUmtjR0ZVS3AxeF9WaHFranFKMDc5NmdObzFkZkl2TGJGc3N4bUJPVFdxRWFTazZtZTJBeVY4U2tmVzlNazZZVWJkT1FxRlVSMlkyNU5vRGt4TzhqcmlSR0V4Q29TRnhXOXNZay1QZ2daQzNldUFWeE93TXFIRVM2bTBpcUZRa3ZuYUpxWjhYY2Y5VG9qWlJMbFU5RW5pQzlWYVZLSTJEdndQbkViYXBXNWw?oc=5)
 ### 美股
-- 事件支撐觀察：QQQ(事件偏多, 分數 5, 新聞 40 則)、VOO(事件偏多, 分數 5, 新聞 46 則)、VT(事件偏多, 分數 5, 新聞 39 則)、SOXX(事件偏多, 分數 3, 新聞 108 則)、GOOGL(事件偏多, 分數 3, 新聞 14 則)
+- 事件支撐觀察：QQQ(事件偏多, 分數 5, 新聞 50 則)、VOO(事件偏多, 分數 5, 新聞 49 則)、VT(事件偏多, 分數 5, 新聞 49 則)、SOXX(事件偏多, 分數 5, 新聞 101 則)、AAPL(事件偏多, 分數 2, 新聞 9 則)
 - 事件風險觀察：資料不足
-- QQQ：事件偏多，分數 5，匹配新聞 40 則，主題 AI / 半導體:29、財報 / 企業:13、總經 / 利率:3、市場風險:2；代表新聞：[Microsoft Outlook and OpenAI's ChatGPT Work are experiencing user outages](https://www.cnbc.com/2026/08/31/microsoft-outlook-and-openais-chatgpt-work-experience-outages-.html)
-- VOO：事件偏多，分數 5，匹配新聞 46 則，主題 AI / 半導體:29、財報 / 企業:13、總經 / 利率:3、市場風險:2；代表新聞：[Microsoft Outlook and OpenAI's ChatGPT Work are experiencing user outages](https://www.cnbc.com/2026/08/31/microsoft-outlook-and-openais-chatgpt-work-experience-outages-.html)
-- VT：事件偏多，分數 5，匹配新聞 39 則，主題 AI / 半導體:29、財報 / 企業:13、總經 / 利率:3、市場風險:2；代表新聞：[Microsoft Outlook and OpenAI's ChatGPT Work are experiencing user outages](https://www.cnbc.com/2026/08/31/microsoft-outlook-and-openais-chatgpt-work-experience-outages-.html)
-- SOXX：事件偏多，分數 3，匹配新聞 108 則，主題 AI / 半導體:108、財報 / 企業:12、市場風險:5；代表新聞：[SEMI上修半導體市場展望 - UDN](https://news.google.com/rss/articles/CBMiUEFVX3lxTFBlWE1sSWI1WWU4Z1QzYVo4RkVGc3FZOVhnZXJOT19yWXZkb3ZfR2E0M2ZSTlhEU3pHZE5WVWtGTnZwdFRNcldycWhEbGxfSWJo0gFWQVVfeXFMTjRud0JPVGJGclhlY2pwWlQyd3dXZnlfS0NIZ0ZBNHNHZWFnNFVtSEFJRU54VERSM3Jhek1pNXZMZE51RjZjZGxWMmIzY1JpRW00LUdrd0E?oc=5)
-- GOOGL：事件偏多，分數 3，匹配新聞 14 則，主題 AI / 半導體:6；代表新聞：[聯發科殺進Google TPU！博通不願做...它靠1招有望獨拿V9 Plus訂單專家喊明年爆發性成長：出貨300萬→500萬顆、ASIC市占拚3成 - 上市櫃 - 旺得富理財網](https://news.google.com/rss/articles/CBMiakFVX3lxTFBhVHdUU3BmdGJKXzVJUnFkSmdVZFFwM1pKSWI4NDlWWXg5dUhSd0VZSVgyNWs2SU1xRWhFWkRGaXJfTzlzbVRFbHlRZVpvSE42M1o2MHVsZXNhZV85YTYxNXJsLUFkMjItd1E?oc=5)
-- MSFT：事件偏多，分數 2，匹配新聞 2 則，主題 財報 / 企業:2；代表新聞：[Microsoft Outlook and OpenAI's ChatGPT Work are experiencing user outages](https://www.cnbc.com/2026/08/31/microsoft-outlook-and-openais-chatgpt-work-experience-outages-.html)
+- QQQ：事件偏多，分數 5，匹配新聞 50 則，主題 AI / 半導體:42、財報 / 企業:14、總經 / 利率:2、市場風險:1；代表新聞：[Dell’s AI servers drive a stellar earnings performance, and a raised outlook](https://www.marketwatch.com/story/dells-ai-servers-drive-a-stellar-earnings-performance-and-a-raised-outlook-86476ace?mod=mw_rss_topstories)
+- VOO：事件偏多，分數 5，匹配新聞 49 則，主題 AI / 半導體:42、財報 / 企業:14、總經 / 利率:2、市場風險:1；代表新聞：[Dell’s AI servers drive a stellar earnings performance, and a raised outlook](https://www.marketwatch.com/story/dells-ai-servers-drive-a-stellar-earnings-performance-and-a-raised-outlook-86476ace?mod=mw_rss_topstories)
+- VT：事件偏多，分數 5，匹配新聞 49 則，主題 AI / 半導體:42、財報 / 企業:14、總經 / 利率:2、市場風險:1；代表新聞：[Dell’s AI servers drive a stellar earnings performance, and a raised outlook](https://www.marketwatch.com/story/dells-ai-servers-drive-a-stellar-earnings-performance-and-a-raised-outlook-86476ace?mod=mw_rss_topstories)
+- SOXX：事件偏多，分數 5，匹配新聞 101 則，主題 AI / 半導體:101、財報 / 企業:11、市場風險:3；代表新聞：[DAS Environmental Experts推出ALCEA適用於半導體廠的整合脫硝裝置 - DIGITIMES](https://news.google.com/rss/articles/CBMiowFBVV95cUxQRmNaSWsyN1RQVW8yTkpRSlBSTEVCVERIZXZ4MWJlS3FwRlRvdUo1M21XYi1zenMwZDRaMHZJcWo0aTFHYnNNcmFmLTRWNkNEN3c3OVBpak1yb05XU1VFMk1vZDlfeHBnRjlkbjNhRDhaZlpGY181NFlHb1RyWlZ2ZlV6SjVfOG9WdEdqdFU3UHU1dkdOUEhYc3ZtMTMtWFBXUWNz?oc=5)
+- AAPL：事件偏多，分數 2，匹配新聞 9 則，主題 AI / 半導體:2；代表新聞：[John Ternus hypes ‘huge launch next week’ in first memo as Apple CEO](https://techcrunch.com/2026/09/01/john-ternus-hypes-huge-launch-next-week-in-first-memo-as-apple-ceo/)
 
 ---
 
@@ -184,14 +183,14 @@ Python 已依成交量與價格變化產生量價型態，AI 只解讀輸出結�
 - 美元指數
 - 公債殖利率
 
-總經摘要：Fed Funds Rate 3.63，近 3 期趨勢 持平；美國 10 年期公債殖利率 4.758，近 3 期趨勢 連續上升；VIX 14.92，近 3 期趨勢 最近一期上升。整體總經風險分級：medium。
+總經摘要：Fed Funds Rate 3.63，近 3 期趨勢 持平；美國 10 年期公債殖利率 4.796，近 3 期趨勢 連續上升；VIX 16.34，近 3 期趨勢 連續上升。整體總經風險分級：medium。
 - CPI：332.81（2026-07-01）；前期變化 +0.24 / 0.07%；近 3 期趨勢 最近一期上升；風險 中等
-- Fed Funds Rate：3.63（2026-07-01）；前期變化 0.00 / 0.00%；近 3 期趨勢 持平；風險 偏低
+- Fed Funds Rate：3.63（2026-08-01）；前期變化 0.00 / 0.00%；近 3 期趨勢 持平；風險 偏低
 - GDP：32486.07（2026-04-01）；前期變化 +620.35 / 1.95%；近 3 期趨勢 連續上升；風險 中等
 - 美元指數：118.75（2026-08-28）；前期變化 +0.39 / 0.33%；近 3 期趨勢 最近一期上升；風險 中等
 - PMI：PMI 尚未接入可靠公開資料來源。
-- VIX：14.92（2026-08-31）；前期變化 +0.49 / 3.40%；近 3 期趨勢 最近一期上升；風險 偏低
-- 美國 10 年期公債殖利率：4.76（2026-08-31）；前期變化 +0.04 / 0.81%；近 3 期趨勢 連續上升；風險 中等
+- VIX：16.34（2026-09-01）；前期變化 +1.42 / 9.52%；近 3 期趨勢 連續上升；風險 偏低
+- 美國 10 年期公債殖利率：4.80（2026-09-01）；前期變化 +0.04 / 0.80%；近 3 期趨勢 連續上升；風險 中等
 整體總經風險分級：中等
 
 ---
@@ -210,8 +209,8 @@ Python 已依成交量與價格變化產生量價型態，AI 只解讀輸出結�
 總經風險總評：中等
 - Fed Funds Rate：偏低；趨勢 持平；最新值 3.63
 - 美元指數：中等；趨勢 最近一期上升；最新值 118.75
-- VIX：偏低；趨勢 最近一期上升；最新值 14.92
-- 美國 10 年期公債殖利率：中等；趨勢 連續上升；最新值 4.76
+- VIX：偏低；趨勢 連續上升；最新值 16.34
+- 美國 10 年期公債殖利率：中等；趨勢 連續上升；最新值 4.80
 
 ---
 
@@ -285,30 +284,30 @@ Python 已依成交量與價格變化產生量價型態，AI 只解讀輸出結�
 研究訊號僅供分析，不是買賣建議。
 ## 台股
 觀察等級較高：
-- 國泰金(2882)：積極觀察；研究訊號 強烈偏多，分數 11。多項量化與事件條件同時偏正向，適合列為優先研究名單。依據：20 日漲幅偏強、60 日趨勢偏強、站上 20 日均線、站上 200 日均線。
-- 元大高股息(0056)：積極觀察；研究訊號 強烈偏多，分數 10。多項量化與事件條件同時偏正向，適合列為優先研究名單。依據：20 日漲幅偏強、站上 20 日均線、站上 200 日均線、RSI 位於中性偏強區。
+- 元大高股息(0056)：積極觀察；研究訊號 強烈偏多，分數 11。多項量化與事件條件同時偏正向，適合列為優先研究名單。依據：20 日漲幅偏強、站上 20 日均線、站上 200 日均線、MACD histogram 為正。
 - 主動統一台股增長(00981A)：積極觀察；研究訊號 強烈偏多，分數 10。多項量化與事件條件同時偏正向，適合列為優先研究名單。依據：20 日漲幅偏強、站上 20 日均線、站上 200 日均線、RSI 位於中性偏強區。
-- 南電(8046)：積極觀察；研究訊號 強烈偏多，分數 10。多項量化與事件條件同時偏正向，適合列為優先研究名單。依據：20 日漲幅偏強、60 日趨勢偏強、站上 20 日均線、站上 200 日均線。
+- 華碩(2357)：積極觀察；研究訊號 強烈偏多，分數 10。多項量化與事件條件同時偏正向，適合列為優先研究名單。依據：20 日漲幅偏強、60 日趨勢偏強、站上 20 日均線、站上 200 日均線。
 - 聯電(2303)：積極觀察；研究訊號 強烈偏多，分數 9。多項量化與事件條件同時偏正向，適合列為優先研究名單。依據：20 日漲幅偏強、站上 20 日均線、站上 200 日均線、RSI 位於中性偏強區。
+- 台積電(2330)：積極觀察；研究訊號 強烈偏多，分數 9。多項量化與事件條件同時偏正向，適合列為優先研究名單。依據：20 日漲幅偏強、站上 20 日均線、站上 200 日均線、RSI 位於中性偏強區。
 降低關注 / 風險觀察：
-- 緯創(3231)：維持觀察；研究訊號 中性，分數 -1。正負條件尚未形成明確方向，維持一般追蹤。依據：跌破 20 日均線、站上 200 日均線、RSI 位於中性偏強區、MACD histogram 為負。
-- 鴻海(2317)：維持觀察；研究訊號 中性，分數 0。正負條件尚未形成明確方向，維持一般追蹤。依據：60 日趨勢偏弱、跌破 20 日均線、站上 200 日均線、RSI 位於中性偏強區。
-- 中華電(2412)：維持觀察；研究訊號 中性，分數 0。正負條件尚未形成明確方向，維持一般追蹤。依據：跌破 20 日均線、站上 200 日均線、MACD histogram 為正、KD 偏弱。
-- 中信金(2891)：維持觀察；研究訊號 中性，分數 2。正負條件尚未形成明確方向，維持一般追蹤。依據：跌破 20 日均線、站上 200 日均線、RSI 位於中性偏強區、MACD histogram 為負。
-- 欣興(3037)：維持觀察；研究訊號 中性，分數 2。正負條件尚未形成明確方向，維持一般追蹤。依據：20 日漲幅偏強、跌破 20 日均線、站上 200 日均線、RSI 位於中性偏強區。
+- 緯穎(6669)：高風險觀察；研究訊號 強烈偏空，分數 -12。多項條件偏弱或風險較高，研究上需提高風險意識。依據：20 日跌幅偏弱、60 日趨勢偏弱、跌破 20 日均線、跌破 200 日均線。
+- 欣興(3037)：維持觀察；研究訊號 中性，分數 -1。正負條件尚未形成明確方向，維持一般追蹤。依據：20 日漲幅偏強、跌破 20 日均線、站上 200 日均線、RSI 位於中性偏強區。
+- 緯創(3231)：維持觀察；研究訊號 中性，分數 -1。正負條件尚未形成明確方向，維持一般追蹤。依據：20 日跌幅偏弱、60 日趨勢偏強、跌破 20 日均線、站上 200 日均線。
+- 中華電(2412)：維持觀察；研究訊號 中性，分數 2。正負條件尚未形成明確方向，維持一般追蹤。依據：跌破 20 日均線、站上 200 日均線、MACD histogram 為正、KD 偏多但未過熱。
+- 富邦科技(0052)：正向觀察；研究訊號 偏多，分數 4。部分條件偏正向，可持續追蹤後續資料是否延續。依據：站上 20 日均線、站上 200 日均線、RSI 位於中性偏強區、MACD histogram 為正。
 ## 美股
 觀察等級較高：
-- MU：積極觀察；研究訊號 強烈偏多，分數 7。多項量化與事件條件同時偏正向，適合列為優先研究名單。依據：20 日漲幅偏強、站上 20 日均線、站上 200 日均線、RSI 位於中性偏強區。
-- AAPL：積極觀察；研究訊號 強烈偏多，分數 6。多項量化與事件條件同時偏正向，適合列為優先研究名單。依據：站上 20 日均線、站上 200 日均線、RSI 位於中性偏強區、MACD histogram 為正。
-- CRM：積極觀察；研究訊號 強烈偏多，分數 6。多項量化與事件條件同時偏正向，適合列為優先研究名單。依據：20 日漲幅偏強、60 日趨勢偏強、站上 20 日均線、站上 200 日均線。
-- NVDA：正向觀察；研究訊號 偏多，分數 5。部分條件偏正向，可持續追蹤後續資料是否延續。依據：20 日漲幅偏強、站上 20 日均線、站上 200 日均線、RSI 位於中性偏強區。
-- TSLA：正向觀察；研究訊號 偏多，分數 5。部分條件偏正向，可持續追蹤後續資料是否延續。依據：20 日漲幅偏強、60 日趨勢偏弱、站上 20 日均線、跌破 200 日均線。
+- AAPL：積極觀察；研究訊號 強烈偏多，分數 8。多項量化與事件條件同時偏正向，適合列為優先研究名單。依據：20 日漲幅偏強、站上 20 日均線、站上 200 日均線、RSI 位於中性偏強區。
+- MU：正向觀察；研究訊號 偏多，分數 5。部分條件偏正向，可持續追蹤後續資料是否延續。依據：站上 20 日均線、站上 200 日均線、RSI 位於中性偏強區、MACD histogram 為正。
+- CRM：正向觀察；研究訊號 偏多，分數 4。部分條件偏正向，可持續追蹤後續資料是否延續。依據：20 日漲幅偏強、60 日趨勢偏強、站上 20 日均線、站上 200 日均線。
+- MSFT：正向觀察；研究訊號 偏多，分數 4。部分條件偏正向，可持續追蹤後續資料是否延續。依據：60 日趨勢偏強、站上 20 日均線、站上 200 日均線、RSI 位於中性偏強區。
+- META：正向觀察；研究訊號 偏多，分數 3。部分條件偏正向，可持續追蹤後續資料是否延續。依據：站上 20 日均線、跌破 200 日均線、RSI 位於中性偏強區、MACD histogram 為正。
 降低關注 / 風險觀察：
-- GOOGL：降低關注；研究訊號 偏空，分數 -4。部分條件偏弱，研究關注度應低於正向標的。依據：20 日跌幅偏弱、跌破 20 日均線、站上 200 日均線、MACD histogram 為負。
-- AMZN：降低關注；研究訊號 偏空，分數 -3。部分條件偏弱，研究關注度應低於正向標的。依據：20 日跌幅偏弱、跌破 20 日均線、站上 200 日均線、RSI 位於中性偏強區。
-- ASML：降低關注；研究訊號 偏空，分數 -3。部分條件偏弱，研究關注度應低於正向標的。依據：跌破 20 日均線、站上 200 日均線、MACD histogram 為負、KD 偏弱。
-- AVGO：降低關注；研究訊號 偏空，分數 -3。部分條件偏弱，研究關注度應低於正向標的。依據：20 日跌幅偏弱、60 日趨勢偏弱、跌破 20 日均線、站上 200 日均線。
-- AMD：維持觀察；研究訊號 中性，分數 -2。正負條件尚未形成明確方向，維持一般追蹤。依據：60 日趨勢偏弱、跌破 20 日均線、站上 200 日均線、RSI 位於中性偏強區。
+- GOOGL：高風險觀察；研究訊號 強烈偏空，分數 -7。多項條件偏弱或風險較高，研究上需提高風險意識。依據：20 日跌幅偏弱、跌破 20 日均線、跌破 200 日均線、MACD histogram 為負。
+- AMD：高風險觀察；研究訊號 強烈偏空，分數 -6。多項條件偏弱或風險較高，研究上需提高風險意識。依據：20 日跌幅偏弱、跌破 20 日均線、站上 200 日均線、MACD histogram 為負。
+- ASML：降低關注；研究訊號 偏空，分數 -4。部分條件偏弱，研究關注度應低於正向標的。依據：跌破 20 日均線、站上 200 日均線、MACD histogram 為負、KD 偏弱。
+- INTC：降低關注；研究訊號 偏空，分數 -4。部分條件偏弱，研究關注度應低於正向標的。依據：20 日跌幅偏弱、60 日趨勢偏弱、跌破 20 日均線、站上 200 日均線。
+- ORCL：降低關注；研究訊號 偏空，分數 -4。部分條件偏弱，研究關注度應低於正向標的。依據：60 日趨勢偏弱、跌破 20 日均線、跌破 200 日均線、RSI 位於中性偏強區。
 
 ---
 
@@ -316,7 +315,7 @@ Python 已依成交量與價格變化產生量價型態，AI 只解讀輸出結�
 
 目前市場偏向：偏多。
 
-原因：綜合評分 5；QQQ 20 日漲跌與 200 日均線偏多；0050 20 日漲跌與 200 日均線偏多；QQQ 事件新聞偏多；新聞主題偏向 AI、半導體或企業成長；總經風險中等。
+原因：綜合評分 4；0050 20 日漲跌與 200 日均線偏多；QQQ 事件新聞偏多；新聞主題偏向 AI、半導體或企業成長；總經風險中等；QQQ 200 日均線策略歷史風險報酬較佳。
 
 不得提供投資建議。
 
@@ -339,8 +338,8 @@ Python 已依成交量與價格變化產生量價型態，AI 只解讀輸出結�
 - ma20_cross_ma60：20 日均線高於 60 日均線時持有，否則空手。
 - buy_and_hold：買入持有基準，用於比較策略是否優於單純持有。
 台股回測標的數：23
-- 200 日均線策略 Sharpe 前五：元大台灣50(0050)(Sharpe 1.69, CAGR 38.21%, MDD -21.30%, 交易 3 次, 均持有 246.0 日)、奇鋐(3017)(Sharpe 1.66, CAGR 102.45%, MDD -42.26%, 交易 7 次, 均持有 100.29 日)、元大高股息(0056)(Sharpe 1.55, CAGR 23.97%, MDD -17.70%, 交易 9 次, 均持有 75.56 日)、台積電(2330)(Sharpe 1.48, CAGR 42.55%, MDD -24.54%, 交易 9 次, 均持有 81.67 日)、南電(8046)(Sharpe 1.44, CAGR 71.37%, MDD -40.85%, 交易 5 次, 均持有 73.2 日)
-- 20/60 均線策略 Sharpe 前五：主動統一台股增長(00981A)(Sharpe 2.32, CAGR 98.03%, MDD -19.71%, 交易 1 次, 均持有 231.0 日)、奇鋐(3017)(Sharpe 1.68, CAGR 94.35%, MDD -30.69%, 交易 9 次, 均持有 72.22 日)、台達電(2308)(Sharpe 1.66, CAGR 65.19%, MDD -27.80%, 交易 9 次, 均持有 68.67 日)、元大台灣50(0050)(Sharpe 1.59, CAGR 35.07%, MDD -21.30%, 交易 6 次, 均持有 121.17 日)、台積電(2330)(Sharpe 1.51, CAGR 44.05%, MDD -24.54%, 交易 6 次, 均持有 122.0 日)
+- 200 日均線策略 Sharpe 前五：元大台灣50(0050)(Sharpe 1.69, CAGR 38.21%, MDD -21.30%, 交易 3 次, 均持有 246.0 日)、奇鋐(3017)(Sharpe 1.66, CAGR 102.08%, MDD -42.26%, 交易 7 次, 均持有 100.43 日)、元大高股息(0056)(Sharpe 1.58, CAGR 24.37%, MDD -17.70%, 交易 9 次, 均持有 75.67 日)、台積電(2330)(Sharpe 1.49, CAGR 43.02%, MDD -24.54%, 交易 9 次, 均持有 81.78 日)、中信金(2891)(Sharpe 1.45, CAGR 32.14%, MDD -17.86%, 交易 4 次, 均持有 197.25 日)
+- 20/60 均線策略 Sharpe 前五：主動統一台股增長(00981A)(Sharpe 2.31, CAGR 97.60%, MDD -19.71%, 交易 1 次, 均持有 231.0 日)、奇鋐(3017)(Sharpe 1.67, CAGR 94.01%, MDD -30.69%, 交易 9 次, 均持有 72.33 日)、台達電(2308)(Sharpe 1.66, CAGR 65.10%, MDD -27.80%, 交易 9 次, 均持有 68.67 日)、元大台灣50(0050)(Sharpe 1.59, CAGR 35.07%, MDD -21.30%, 交易 6 次, 均持有 121.17 日)、台積電(2330)(Sharpe 1.52, CAGR 44.53%, MDD -24.54%, 交易 6 次, 均持有 122.17 日)
 美股回測標的數：20
-- 200 日均線策略 Sharpe 前五：MU(Sharpe 1.45, CAGR 78.78%, MDD -56.04%, 交易 11 次, 均持有 56.82 日)、VOO(Sharpe 1.22, CAGR 13.13%, MDD -10.35%, 交易 5 次, 均持有 148.4 日)、TSM(Sharpe 1.09, CAGR 35.23%, MDD -23.30%, 交易 8 次, 均持有 89.0 日)、NVDA(Sharpe 1.08, CAGR 40.38%, MDD -29.35%, 交易 6 次, 均持有 122.0 日)、VT(Sharpe 1.07, CAGR 11.85%, MDD -11.31%, 交易 8 次, 均持有 94.62 日)
-- 20/60 均線策略 Sharpe 前五：NVDA(Sharpe 1.47, CAGR 64.46%, MDD -27.12%, 交易 8 次, 均持有 83.88 日)、MU(Sharpe 1.40, CAGR 74.29%, MDD -39.10%, 交易 10 次, 均持有 68.1 日)、META(Sharpe 1.16, CAGR 36.56%, MDD -36.55%, 交易 9 次, 均持有 72.56 日)、TSM(Sharpe 1.10, CAGR 35.16%, MDD -22.56%, 交易 8 次, 均持有 88.38 日)、AAPL(Sharpe 1.01, CAGR 17.42%, MDD -15.23%, 交易 9 次, 均持有 65.0 日)
+- 200 日均線策略 Sharpe 前五：MU(Sharpe 1.44, CAGR 78.24%, MDD -56.04%, 交易 11 次, 均持有 56.82 日)、VOO(Sharpe 1.23, CAGR 13.15%, MDD -10.35%, 交易 5 次, 均持有 148.4 日)、TSM(Sharpe 1.10, CAGR 35.52%, MDD -23.30%, 交易 8 次, 均持有 89.0 日)、NVDA(Sharpe 1.09, CAGR 40.52%, MDD -29.35%, 交易 6 次, 均持有 122.0 日)、VT(Sharpe 1.08, CAGR 11.94%, MDD -11.31%, 交易 8 次, 均持有 94.62 日)
+- 20/60 均線策略 Sharpe 前五：NVDA(Sharpe 1.42, CAGR 60.59%, MDD -27.12%, 交易 8 次, 均持有 83.88 日)、MU(Sharpe 1.37, CAGR 72.32%, MDD -39.10%, 交易 10 次, 均持有 68.0 日)、META(Sharpe 1.16, CAGR 36.56%, MDD -36.55%, 交易 9 次, 均持有 72.56 日)、TSM(Sharpe 1.07, CAGR 33.63%, MDD -22.56%, 交易 8 次, 均持有 88.25 日)、AAPL(Sharpe 1.04, CAGR 18.19%, MDD -15.23%, 交易 9 次, 均持有 65.11 日)
