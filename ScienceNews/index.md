@@ -1,45 +1,45 @@
 # ScienceNews
 
-更新日期：2026-09-05
+更新日期：2026-09-06
 
 每日自動整理全球重要科學新聞，依五大科學分類篩選與排序。
 
-## [Astronomy](Astronomy/20260905-Astronomy.md)
+## [Astronomy](Astronomy/20260906-Astronomy.md)
 
-今日子題：太陽系與行星科學
+今日子題：恆星與星系
 
-- [Planetary albedo change exacerbates surface warming: a perspective from cloud-type changes](https://doi.org/10.5194/acp-26-12591-2026) - Atmospheric Chemistry and Physics
-- [Deep beneath Mars, scientists find a vast hidden magma system](https://www.sciencedaily.com/releases/2026/09/260901070529.htm) - ScienceDaily
-- [September brings a dazzling Venus and a glowing Harvest Moon](https://www.sciencedaily.com/releases/2026/09/260902234500.htm) - ScienceDaily
+- [Hubble's superbubble scene](https://www.esa.int/ESA_Multimedia/Images/2026/09/Hubble_s_superbubble_scene) - ESA
+- [NASA Welcomes Türkiye as Newest Artemis Accords Signatory](https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-turkiye-as-newest-artemis-accords-signatory/) - NASA
+- [NASA Revamps Challenge Linking Community College Studies to Aerospace Careers](https://www.nasa.gov/learning-resources/linking-community-college-studies-to-aerospace-careers/) - NASA
 
-## [Physics](Physics/20260905-Physics.md)
+## [Physics](Physics/20260906-Physics.md)
 
-今日子題：光學與電漿物理
+今日子題：粒子物理與高能物理
 
-- [Efficient Conversion of Optical to Mechanical States Close to the Single-Quantum Level](https://arxiv.org/abs/2609.04150v1) - arXiv
-- [Interstellar solar sails hit a strange problem at 75% of light speed](https://www.sciencedaily.com/releases/2026/08/260831015157.htm) - ScienceDaily Physics
-- [Twin-photon generation in a silicon nitride microresonator](https://arxiv.org/abs/2609.04171v1) - arXiv
+- [A search for one exotic particle uncovered two strange new structures](https://www.sciencedaily.com/releases/2026/08/260831015147.htm) - ScienceDaily Physics
+- [Dark matter detector finds a strange signal scientists can’t yet explain](https://www.sciencedaily.com/releases/2026/09/260904000313.htm) - ScienceDaily
+- [Confronting the Higgsino Interpretation of the LZ Event with the High-Energy Sideband](https://arxiv.org/abs/2609.04175v1) - arXiv
 
-## [Chemistry](Chemistry/20260905-Chemistry.md)
+## [Chemistry](Chemistry/20260906-Chemistry.md)
 
-今日子題：環境化學
+今日子題：有機化學與合成
 
 - [Revisiting the critical role of stabilized Criegee intermediates (sCIs) in sulfuric acid formation: coupling mechanistic updates with interpretable machine learning](https://doi.org/10.5194/acp-26-12479-2026) - Atmospheric Chemistry and Physics
-- [Magic-mushroom compound blocks a severe side effect of chemotherapy in mice](https://www.nature.com/articles/d41586-026-02744-6) - Nature
 - [Vanilla Exact Synthesis of CNOT Circuits is NP-hard](https://arxiv.org/abs/2609.04160v1) - arXiv
+- [Magic-mushroom compound blocks a severe side effect of chemotherapy in mice](https://www.nature.com/articles/d41586-026-02744-6) - Nature
 
-## [Biology & Medical Engineering](Biology/20260905-Biology.md)
+## [Biology & Medical Engineering](Biology/20260906-Biology.md)
 
-今日子題：生物工程與醫學工程
+今日子題：分子生物與基因體
 
-- [Bunsen burners’ reputation for sterilizing workplaces flames out](https://www.nature.com/articles/d41586-026-02758-0) - Nature
-- [How worried should we be about the invasive mosquitoes in the UK?](https://www.newscientist.com/article/2587789-how-worried-should-we-be-about-the-invasive-mosquitoes-in-the-uk/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS) - New Scientist
-- [Pygmy raccoons teach each other to make toys out of paper and sand](https://www.newscientist.com/article/2587479-pygmy-raccoons-teach-each-other-to-make-toys-out-of-paper-and-sand/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS) - New Scientist
+- [Audio long read: Could mending damaged DNA prolong life?](https://www.nature.com/articles/d41586-026-02762-4) - Nature
+- [Functional chimeric mRNAs encode proteins in mammalian immunity](https://www.nature.com/articles/s41586-026-10982-x) - Nature
+- [Popular brain supplement linked to shorter lifespan in men](https://www.sciencedaily.com/releases/2026/09/260904000330.htm) - ScienceDaily
 
-## [Earth Science](EarthScience/20260905-EarthScience.md)
+## [Earth Science](EarthScience/20260906-EarthScience.md)
 
-今日子題：環境與生態系統
+今日子題：大氣科學
 
-- [Source-dependent optical and mineral signatures of dust outbreaks over the Mediterranean](https://doi.org/10.5194/acp-26-12395-2026) - Atmospheric Chemistry and Physics
-- [Tower- and drone-based BVOC observations in a suburban Tokyo forest: methodological insights and MEGAN comparison](https://doi.org/10.5194/acp-26-12521-2026) - Atmospheric Chemistry and Physics
 - [Aircraft observations suggest an important contribution of methanesulfonic and sulfuric acids to tropical Indo-Pacific aerosol](https://doi.org/10.5194/acp-26-12355-2026) - Atmospheric Chemistry and Physics
+- [Heterogeneous nitrosation reactions of amines driven by dinitrogen tetroxide: a missing source of particulate nitrosamines](https://doi.org/10.5194/acp-26-12261-2026) - Atmospheric Chemistry and Physics
+- [Measurement report: Quantifying the trade-off between station number and spatial layout in sparse GNSS networks for calibrating all-weather FY-4A precipitable water vapor](https://doi.org/10.5194/acp-26-12243-2026) - Atmospheric Chemistry and Physics
