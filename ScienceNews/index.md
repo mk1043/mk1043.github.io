@@ -1,44 +1,45 @@
 # ScienceNews
 
-更新日期：2026-09-12
+更新日期：2026-09-13
 
 每日自動整理全球重要科學新聞，依五大科學分類篩選與排序。
 
-## [Astronomy](Astronomy/20260912-Astronomy.md)
+## [Astronomy](Astronomy/20260913-Astronomy.md)
 
-今日子題：太空任務與望遠鏡
+今日子題：太陽系與行星科學
 
+- [Exquisite 66-million-year-old bird feather preserved in dinosaur dropping](https://www.newscientist.com/article/2588673-exquisite-66-million-year-old-bird-feather-preserved-in-dinosaur-dropping/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS) - New Scientist
+- [Earliest alligator flourished in the wake of the dinosaur extinction](https://www.newscientist.com/article/2588998-earliest-alligator-flourished-in-the-wake-of-the-dinosaur-extinction/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS) - New Scientist
 - [NASA Boosts Open Science, Data Sharing with Artemis Accords](https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-boosts-open-science-data-sharing-with-artemis-accords/) - NASA
-- [NASA&#8217;s Life-Saving Technology Where Cell Signals Can&#8217;t Go](https://www.nasa.gov/technology/tech-transfer-spinoffs/nasas-life-saving-technology-where-cell-signals-cant-go/) - NASA
-- [From the Corps to the Cosmos, featuring Jaden Caradine](https://www.nasa.gov/general/from-the-corps-to-the-cosmos-featuring-jaden-caradine/) - NASA
 
-## [Physics](Physics/20260912-Physics.md)
+## [Physics](Physics/20260913-Physics.md)
 
-今日子題：量子物理與量子科技
+今日子題：凝態物理與材料物理
 
+- [Unravelling gas-particle partitioning dynamics in cooking aerosol oxidation through FIGAERO-CIMS analysis](https://doi.org/10.5194/acp-26-12793-2026) - Atmospheric Chemistry and Physics
 - [Scientists observe Einstein’s gravity in the quantum world for the first time](https://www.sciencedaily.com/releases/2026/09/260907201552.htm) - ScienceDaily Physics
-- [Tiny sound waves could help solve a major quantum computing problem](https://www.sciencedaily.com/releases/2026/09/260911214245.htm) - ScienceDaily
-- [Scientists just made quantum computer operations 1,000 times faster](https://www.sciencedaily.com/releases/2026/09/260911003845.htm) - ScienceDaily
+- [CERN finds gluons behaving strangely deep inside atomic nuclei](https://www.sciencedaily.com/releases/2026/09/260911214303.htm) - ScienceDaily
 
-## [Chemistry](Chemistry/20260912-Chemistry.md)
+## [Chemistry](Chemistry/20260913-Chemistry.md)
 
-今日子題：材料化學
+今日子題：物理化學
 
 - [Scientists create brilliant white material without a drop of white pigment](https://www.sciencedaily.com/releases/2026/09/260909231712.htm) - ScienceDaily Physics
 - [Chinese scientists find a hidden atomic structure that unlocks methane](https://www.sciencedaily.com/releases/2026/09/260909005148.htm) - ScienceDaily Physics
+- [A hidden compound in healthy foods may worsen IBD](https://www.sciencedaily.com/releases/2026/09/260911214250.htm) - ScienceDaily
 
-## [Biology & Medical Engineering](Biology/20260912-Biology.md)
+## [Biology & Medical Engineering](Biology/20260913-Biology.md)
 
-今日子題：神經科學
+今日子題：醫學與疾病
 
-- [Scientists find signs of extreme aging and youth in the same 117-year-old](https://www.sciencedaily.com/releases/2026/09/260909231800.htm) - ScienceDaily
-- [Your next prescription could be treating a side effect from the last one](https://www.sciencedaily.com/releases/2026/09/260911003843.htm) - ScienceDaily
-- [Scientists find a way to break pancreatic cancer’s protective shield](https://www.sciencedaily.com/releases/2026/09/260911003856.htm) - ScienceDaily
+- [Scientists find a new layer of Alzheimer’s hidden in the genome](https://www.sciencedaily.com/releases/2026/09/260912220051.htm) - ScienceDaily
+- [Most men don’t know dairy is linked to prostate cancer risk](https://www.sciencedaily.com/releases/2026/09/260911214259.htm) - ScienceDaily
+- [Who really needs a heart calcium scan?](https://www.sciencedaily.com/releases/2026/09/260911214254.htm) - ScienceDaily
 
-## [Earth Science](EarthScience/20260912-EarthScience.md)
+## [Earth Science](EarthScience/20260913-EarthScience.md)
 
-今日子題：地質科學
+今日子題：海洋科學
 
+- [Chlorine enhances nocturnal heterogeneous uptake of NO2 in coastal atmosphere under sea-land breeze circulation](https://doi.org/10.5194/acp-26-12715-2026) - Atmospheric Chemistry and Physics
 - [How 2 US, European Satellites Are Studying Hurricanes During El Niño](https://www.nasa.gov/missions/jason-cs-sentinel-6/how-2-us-european-satellites-are-studying-hurricanes-during-el-nino/) - NASA
 - [Measurement report: Impacts of thermodynamic and dynamic processes on the vertical distribution of carbonaceous aerosols: lessons from in-situ observations at the eastern foothills of Liupan Mountains, Loess Plateau](https://doi.org/10.5194/acp-26-12671-2026) - Atmospheric Chemistry and Physics
-- [Modelling mineral dust emissions from proglacial valleys of the St. Elias Mountains, Canada](https://doi.org/10.5194/acp-26-12613-2026) - Atmospheric Chemistry and Physics
