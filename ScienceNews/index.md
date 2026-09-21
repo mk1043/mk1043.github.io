@@ -1,45 +1,45 @@
 # ScienceNews
 
-更新日期：2026-09-20
+更新日期：2026-09-21
 
 每日自動整理全球重要科學新聞，依五大科學分類篩選與排序。
 
-## [Astronomy](Astronomy/20260920-Astronomy.md)
+## [Astronomy](Astronomy/20260921-Astronomy.md)
 
-今日子題：太空任務與望遠鏡
+今日子題：太陽系與行星科學
 
-- [Passion Meets Precision at NASA’s Flight Research Lab](https://www.nasa.gov/people-of-nasa/armstrong-people/passion-meets-precision-at-nasas-flight-research-lab/) - NASA
-- [NASA&#8217;s Integrated Medical Model (IMM)](https://www.nasa.gov/general/nasas-integrated-medical-model-imm/) - NASA
-- [NASA Welcomes Djibouti as Newest Artemis Accords Signatory](https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-djibouti-as-newest-artemis-accords-signatory/) - NASA
+- [NASA Discovery Reveals Complex Water Systems on Early Mars](https://www.nasa.gov/solar-system/planets/mars/nasa-discovery-reveals-complex-water-systems-on-early-mars/) - NASA
+- [Mercury is shrinking with age — faster than thought](https://www.nature.com/articles/d41586-026-02898-3) - Nature
+- [Asteroids Impacting the Solar System Planets and the Moon. III. Real Impacts from Known Objects and LSST Discovery Predictions](https://arxiv.org/abs/2609.22045v1) - arXiv
 
-## [Physics](Physics/20260920-Physics.md)
+## [Physics](Physics/20260921-Physics.md)
 
-今日子題：光學與電漿物理
+今日子題：粒子物理與高能物理
 
-- [The shape behind the Einstein problem just revealed strange new physics](https://www.sciencedaily.com/releases/2026/09/260914102432.htm) - ScienceDaily Physics
-- [Ozone downward flux revealed by high-resolution differential absorption lidar over Tibet during stratosphere-troposphere exchange](https://doi.org/10.5194/acp-26-13139-2026) - Atmospheric Chemistry and Physics
-- [AI cracked the Navier–Stokes challenge. What does that mean for physics?](https://www.nature.com/articles/d41586-026-02922-6) - Nature
+- [Detectability of solid particle injections into the stratosphere with satellite solar occultation instruments](https://doi.org/10.5194/acp-26-13055-2026) - Atmospheric Chemistry and Physics
+- [Einstein’s “spooky action” just survived one of physics’ most extreme tests](https://www.sciencedaily.com/releases/2026/09/260919031023.htm) - ScienceDaily
+- [Physicists are scrambling to make sense of possible dark matter signal](https://www.newscientist.com/article/2589737-physicists-are-scrambling-to-make-sense-of-possible-dark-matter-signal/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS) - New Scientist
 
-## [Chemistry](Chemistry/20260920-Chemistry.md)
+## [Chemistry](Chemistry/20260921-Chemistry.md)
 
-今日子題：環境化學
+今日子題：有機化學與合成
 
 - [Efficient formation of aqueous secondary organic aerosols from the hydroxyl radical reaction with fenchol, borneol, and menthol](https://doi.org/10.5194/acp-26-13001-2026) - Atmospheric Chemistry and Physics
-- [Chemistry textbooks have been getting this wrong for nearly 100 years](https://www.sciencedaily.com/releases/2026/09/260913082157.htm) - ScienceDaily Physics
 - [Scientists find that “perfect” systems may be surprisingly fragile](https://www.sciencedaily.com/releases/2026/09/260919031022.htm) - ScienceDaily
+- [New nanoparticles make hidden chemical differences light up](https://www.sciencedaily.com/releases/2026/09/260919031030.htm) - ScienceDaily
 
-## [Biology & Medical Engineering](Biology/20260920-Biology.md)
+## [Biology & Medical Engineering](Biology/20260921-Biology.md)
 
-今日子題：生物工程與醫學工程
+今日子題：分子生物與基因體
 
-- [Beautiful new cat species is first to be named in a century](https://www.newscientist.com/article/2589847-beautiful-new-cat-species-is-first-to-be-named-in-a-century/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS) - New Scientist
-- [Take a risk or play it safe? Neuronal tug-of-war helps the brain decide](https://www.nature.com/articles/d41586-026-02911-9) - Nature
-- [Briefing Chat: Evidence mounts for hidden chambers beyond Tutankhamun's tomb](https://www.nature.com/articles/d41586-026-02984-6) - Nature
+- [Daily briefing: How to turn a paper into an AI agent](https://www.nature.com/articles/d41586-026-02994-4) - Nature
+- [First for RNA therapy: man with rare motor-neuron disease improves after treatment](https://www.nature.com/articles/d41586-026-02945-z) - Nature
+- ['Epigenetic' editing is here: gene-tagging technique banishes hepatitis B virus](https://www.nature.com/articles/d41586-026-02981-9) - Nature
 
-## [Earth Science](EarthScience/20260920-EarthScience.md)
+## [Earth Science](EarthScience/20260921-EarthScience.md)
 
-今日子題：環境與生態系統
+今日子題：大氣科學
 
-- [Environment Alignment and Redundant Record Formation in Imperfect-CNOT Quantum Darwinism](https://arxiv.org/abs/2609.20823v1) - arXiv
-- [Hydrological drivers of hydrogen cyanide wildfire emissions from Indonesian peat fires during the 2015, 2019, and 2023 El Niño events](https://doi.org/10.5194/acp-26-12925-2026) - Atmospheric Chemistry and Physics
-- [Evidence for the impact of fire activity on daily variations of IASI mid-tropospheric CO2 anomalies at 8–11 km over South America: a pyroconvective fingerprint](https://doi.org/10.5194/acp-26-13103-2026) - Atmospheric Chemistry and Physics
+- [Improving aerosol–radiation interactions in the operational forecasting system – AIRWISE](https://doi.org/10.5194/acp-26-13189-2026) - Atmospheric Chemistry and Physics
+- [Urban surface-atmosphere fluxes of selected pptv-level oxygenated organic molecules (OOMs) from eddy covariance observations](https://doi.org/10.5194/acp-26-13213-2026) - Atmospheric Chemistry and Physics
+- [An observational perspective on precipitation efficiency of mesoscale convective systems over the Asian Monsoon Region](https://doi.org/10.5194/acp-26-13157-2026) - Atmospheric Chemistry and Physics
